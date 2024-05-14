@@ -583,10 +583,26 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The contractor is also responsible for any conformity defect which occurs after delivery and&lt;t0/&gt; &lt;t1/&gt;is ascribable to non-compliance with its obligations, including failure to provide a guarantee&lt;t2/&gt; &lt;t3/&gt;that, for a certain period, supplies used for the purposes for which they are normally used or&lt;t4/&gt; &lt;t5/&gt;for&lt;t6/&gt; &lt;t7/&gt;a&lt;t8/&gt; &lt;t9/&gt;specific&lt;t10/&gt; &lt;t11/&gt;purpose&lt;t12/&gt; &lt;t13/&gt;will&lt;t14/&gt; &lt;t15/&gt;preserve&lt;t16/&gt; &lt;t17/&gt;their&lt;t18/&gt; &lt;t19/&gt;qualities&lt;t20/&gt; &lt;t21/&gt;or&lt;t22/&gt; &lt;t23/&gt;characteristics as&lt;t24/&gt; &lt;t25/&gt;specified.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240514T143530Z" creationid="alumno" creationdate="20240514T143530Z">
+        <seg>El contratista también es responsable de cualquier defecto de conformidad que se produzca después de la entrega y que sea imputable al incumplimiento de sus obligaciones, incluido el hecho de no garantizar que, durante un periodo determinado, los suministros utilizados para los fines a los que normalmente se destinan o para un fin específico conservarán sus cualidades o características especificadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The contractor is liable to the contracting authority for any lack of conformity which exists&lt;t0/&gt; &lt;t1/&gt;at&lt;t2/&gt; &lt;t3/&gt;the&lt;t4/&gt; &lt;t5/&gt;time&lt;t6/&gt; &lt;t7/&gt;the&lt;t8/&gt; &lt;t9/&gt;supplies are&lt;t10/&gt; &lt;t11/&gt;verified.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alumno" changedate="20240514T143006Z" creationid="alumno" creationdate="20240514T143006Z">
         <seg>El contratista es responsable ante el poder adjudicador de cualquier falta de conformidad que exista en el momento de la verificación de los suministros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The contractor is responsible for any conformity defect which exists at the time of delivery,&lt;t0/&gt; &lt;t1/&gt;even&lt;t2/&gt; &lt;t3/&gt;if&lt;t4/&gt; &lt;t5/&gt;this defect does not appear&lt;t6/&gt; &lt;t7/&gt;until a&lt;t8/&gt; &lt;t9/&gt;later&lt;t10/&gt; &lt;t11/&gt;date.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240514T143506Z" creationid="alumno" creationdate="20240514T143506Z">
+        <seg>El contratista es responsable de cualquier defecto de conformidad que exista en el momento de la entrega, aunque dicho defecto no se manifieste hasta una fecha posterior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -607,10 +623,26 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The contractor must guarantee that any permits and &lt;t0/&gt;licences&lt;t1/&gt; required for manufacturing and&lt;t2/&gt; &lt;t3/&gt;selling&lt;t4/&gt; &lt;t5/&gt;the&lt;t6/&gt; &lt;t7/&gt;supplies have&lt;t8/&gt; &lt;t9/&gt;been obtained.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240514T143448Z" creationid="alumno" creationdate="20240514T143448Z">
+        <seg>El contratista deberá garantizar la obtención de todos los permisos y licencias necesarios para la fabricación y venta de los suministros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The contractor must immediately &lt;t6/&gt;notify &lt;t7/&gt;the contracting authority of the suspension.&lt;t8/&gt; &lt;t9/&gt;The &lt;t10/&gt;notification &lt;t11/&gt;must include a description of the &lt;t12/&gt;force majeure &lt;t13/&gt;and state when the&lt;t14/&gt; &lt;t15/&gt;contractor expects to resume&lt;t16/&gt; &lt;t17/&gt;the&lt;t18/&gt; &lt;t19/&gt;performance&lt;t20/&gt; &lt;t21/&gt;of the&lt;t22/&gt; &lt;t23/&gt;contract&lt;t24/&gt;.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T141002Z" creationid="juanf" creationdate="20240514T141002Z">
         <seg>La notificación deberá incluir una descripción de la causa de fuerza mayor e indicar cuándo espera reanudar la ejecución del contrato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The contractor must replace at its own expense, and within a reasonable time limit to be&lt;t0/&gt; &lt;t1/&gt;determined by agreement between the parties, any items which become damaged or&lt;t2/&gt; &lt;t3/&gt;defective&lt;t4/&gt; &lt;t5/&gt;in the&lt;t6/&gt; &lt;t7/&gt;course&lt;t8/&gt; &lt;t9/&gt;of&lt;t10/&gt; &lt;t11/&gt;normal&lt;t12/&gt; &lt;t13/&gt;use&lt;t14/&gt; &lt;t15/&gt;during&lt;t16/&gt; &lt;t17/&gt;the&lt;t18/&gt; &lt;t19/&gt;guarantee&lt;t20/&gt; &lt;t21/&gt;period.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240514T143458Z" creationid="alumno" creationdate="20240514T143458Z">
+        <seg>El contratista deberá sustituir a su costa, y en un plazo razonable que se determinará de común acuerdo entre las partes, los elementos que resulten dañados o defectuosos en el curso de un uso normal durante el periodo de garantía.</seg>
       </tuv>
     </tu>
     <tu>
@@ -667,6 +699,14 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
       </tuv>
       <tuv lang="es-ES" changeid="alumno" changedate="20240514T142411Z" creationid="alumno" creationdate="20240514T142411Z">
         <seg>Los suministros entregados por el contratista a la Autoridad Contratante deben ser conformes con la orden de compra en cuanto a cantidad, calidad, precio y embalaje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The supplies must be guaranteed against all defects in manufacture or materials for two&lt;t0/&gt; &lt;t1/&gt;years from the date of &lt;t2/&gt;delivery, unless&lt;t3/&gt; provision is made for a longer period in the tender&lt;t4/&gt; &lt;t5/&gt;specifications.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240514T143440Z" creationid="alumno" creationdate="20240514T143440Z">
+        <seg>Los suministros deberán estar garantizados contra todo defecto de fabricación o de materiales durante dos años a partir de la fecha de entrega, salvo que en el pliego de condiciones se prevea un plazo más largo.</seg>
       </tuv>
     </tu>
     <tu>
