@@ -4,6 +4,222 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>Evidence&lt;t0/&gt; &lt;t1/&gt;of&lt;t2/&gt; &lt;t3/&gt;granting&lt;t4/&gt; &lt;t5/&gt;of&lt;t6/&gt; &lt;t7/&gt;pre-existing&lt;t8/&gt; &lt;t9/&gt;rights</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240430T133641Z" creationid="juanf" creationdate="20240430T133641Z">
+        <seg>Prueba de la concesión de derechos preexistentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Identification&lt;t0/&gt; &lt;t1/&gt;of&lt;t2/&gt; &lt;t3/&gt;pre-existing&lt;t4/&gt; &lt;t5/&gt;rights</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240430T133632Z" creationid="juanf" creationdate="20240430T133632Z">
+        <seg>Identificación de los derechos preexistentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In such a case, the contractor must inform the&lt;t14/&gt; &lt;t15/&gt;contracting authority before making such a choice and the contracting authority has the right&lt;t16/&gt; &lt;t17/&gt;to&lt;t18/&gt; &lt;t19/&gt;refuse&lt;t20/&gt; &lt;t21/&gt;it.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240514T140018Z" creationid="juanf" creationdate="20240514T140018Z">
+        <seg>En tal caso, el contratista deberá informar a la autoridad contratante antes de tomar una decisión como esa y la autoridad contratante tiene el derecho de rechazarla. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the &lt;t0/&gt;result&lt;t1/&gt;, the contractor must clearly point out all quotations of existing works.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240503T152907Z" creationid="juanf" creationdate="20240503T152907Z">
+        <seg>En el resultado, el contratista debe señalar cualquiera de los trabajos existentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Provision of evidence does not release the contractor from its responsibilities if it is found&lt;t0/&gt; &lt;t1/&gt;that it does not hold the necessary rights, regardless of when and by whom this fact is&lt;t2/&gt; &lt;t3/&gt;revealed.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240503T152609Z" creationid="juanf" creationdate="20240503T152555Z">
+        <seg>La provisión de evidencia no libera al contratista de sus responsabilidades si se encuentra que no posee los derechos necesarios, sin importar cuándo o por quién se reveló este dato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Quotation&lt;t0/&gt; &lt;t1/&gt;of&lt;t2/&gt; &lt;t3/&gt;works&lt;t4/&gt; &lt;t5/&gt;in&lt;t6/&gt; &lt;t7/&gt;the&lt;t8/&gt; &lt;t9/&gt;result</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240503T152813Z" creationid="juanf" creationdate="20240503T152813Z">
+        <seg>Cotización de los trabajos en el resultado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The contracting authority may request this evidence even&lt;t6/&gt; &lt;t7/&gt;after&lt;t8/&gt; &lt;t9/&gt;the&lt;t10/&gt; &lt;t11/&gt;end of&lt;t12/&gt; &lt;t13/&gt;the&lt;t14/&gt; &lt;t15/&gt;contract.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240430T133644Z" creationid="juanf" creationdate="20240430T133644Z">
+        <seg>El poder adjudicador podrá solicitar estas pruebas incluso después de la finalización del contrato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The contractor also warrants that it possesses the relevant rights or powers to execute the&lt;t0/&gt; &lt;t1/&gt;transfer and that it has paid or has verified payment of all due fees including fees due to&lt;t2/&gt; &lt;t3/&gt;collecting&lt;t4/&gt; &lt;t5/&gt;societies, related to the&lt;t6/&gt; &lt;t7/&gt;final &lt;t8/&gt;results&lt;t9/&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240503T152740Z" creationid="juanf" creationdate="20240503T152740Z">
+        <seg>El contratista también garantiza que posee los derechos relevantes o poderes para ejecutar la transferencia y que ha pagado o verificado el pago de todos los honorarios debido a las sociedades recolectoras, relacionadas con los resultados finales..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The contractor warrants that the exclusive rights and the modes of exploitation may be&lt;t0/&gt; &lt;t1/&gt;exercised by the Union on all parts of the &lt;t2/&gt;results&lt;t3/&gt;, irrespective of whether they are created by&lt;t4/&gt; &lt;t5/&gt;the&lt;t6/&gt; &lt;t7/&gt;contractor&lt;t8/&gt; &lt;t9/&gt;or&lt;t10/&gt; &lt;t11/&gt;consist&lt;t12/&gt; &lt;t13/&gt;of&lt;t14/&gt; &lt;t15/&gt;pre-existing materials&lt;t16/&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240426T152331Z" creationid="juanf" creationdate="20240426T152331Z">
+        <seg>El contratista garantiza que los derechos exclusivos y las formas de aprovechamiento puedan ser ejercidos por la Unión en todas las partes de los resultados, independientemente de si estos han sido creados por el contratista o consisten de materiales preexistentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The&lt;t2/&gt; &lt;t3/&gt;complete reference should include, as appropriate, the following: name of the author, title of&lt;t4/&gt; &lt;t5/&gt;the work, date and place of publication, date of creation, address of publication on the&lt;t6/&gt; &lt;t7/&gt;internet,&lt;t8/&gt; &lt;t9/&gt;number,&lt;t10/&gt; &lt;t11/&gt;volume&lt;t12/&gt; and&lt;t13/&gt; &lt;t14/&gt;other&lt;t15/&gt; &lt;t16/&gt;information&lt;t17/&gt; &lt;t18/&gt;that&lt;t19/&gt; &lt;t20/&gt;allows&lt;t21/&gt; &lt;t22/&gt;the&lt;t23/&gt; &lt;t24/&gt;origin&lt;t25/&gt; &lt;t26/&gt;to&lt;t27/&gt; &lt;t28/&gt;be easily&lt;t29/&gt; &lt;t30/&gt;identified.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240503T153057Z" creationid="juanf" creationdate="20240503T153057Z">
+        <seg>La referencia completa debe incluir, como debe, lo siguiente: nombre del autor, título del trabajo, lugar y fecha de la publicación, fecha de creación, dirección de publicación en Internet, número, volumen y otra información que permita identificar el origen fácilmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The&lt;t3/&gt; &lt;t4/&gt;contractor must provide the contracting authority with this list or declaration, together with&lt;t5/&gt; &lt;t6/&gt;the&lt;t7/&gt; &lt;t8/&gt;invoice&lt;t9/&gt; &lt;t10/&gt;for&lt;t11/&gt; &lt;t12/&gt;payment&lt;t13/&gt; &lt;t14/&gt;of&lt;t15/&gt; &lt;t16/&gt;the&lt;t17/&gt; &lt;t18/&gt;balance&lt;t19/&gt; &lt;t20/&gt;at the&lt;t21/&gt; &lt;t22/&gt;latest.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240430T133640Z" creationid="juanf" creationdate="20240430T133640Z">
+        <seg>El contratista deberá proporcionar a la Autoridad Contratante esta lista o declaración, junto con la factura de pago del saldo, a más tardar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This evidence may refer, for example, to rights &lt;t0/&gt;to:&lt;t1/&gt; parts of other documents, images, graphs,&lt;t2/&gt; &lt;t3/&gt;fonts, tables,&lt;t4/&gt; &lt;t5/&gt;data, software,&lt;t6/&gt; &lt;t7/&gt;technical&lt;t8/&gt; &lt;t9/&gt;inventions, know-how,&lt;t10/&gt; &lt;t11/&gt;IT&lt;t12/&gt; &lt;t13/&gt;development&lt;t14/&gt; &lt;t15/&gt;tools,&lt;t16/&gt; &lt;t17/&gt;routines, subroutines or other programs ('background technology'), concepts, designs,&lt;t18/&gt; &lt;t19/&gt;installations or pieces of art, data, source or background materials or any other parts of&lt;t20/&gt; &lt;t21/&gt;external&lt;t22/&gt; &lt;t23/&gt;origin.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240430T133646Z" creationid="juanf" creationdate="20240430T133646Z">
+        <seg>Estas pruebas pueden referirse, por ejemplo, a los derechos sobre: partes de otros documentos, imágenes, gráficos, fuentes, tablas, datos, software, invenciones técnicas, conocimientos técnicos, herramientas de desarrollo informático, rutinas, subrutinas u otros programas («tecnología de base»), conceptos, diseños, instalaciones u obras de arte, datos, materiales de base o de origen externo. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This&lt;t0/&gt; &lt;t1/&gt;evidence&lt;t2/&gt; &lt;t3/&gt;must&lt;t4/&gt; &lt;t5/&gt;include,&lt;t6/&gt; &lt;t7/&gt;as&lt;t8/&gt; &lt;t9/&gt;appropriate:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240503T151657Z" creationid="juanf" creationdate="20240503T151657Z">
+        <seg>La evidencia deberá comprender, cuando proceda:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To that effect, the contractor must establish a list of all &lt;t0/&gt;pre-existing rights &lt;t1/&gt;to the &lt;t2/&gt;results &lt;t3/&gt;of&lt;t4/&gt; &lt;t5/&gt;the&lt;t6/&gt; &lt;t7/&gt;contract&lt;t8/&gt; &lt;t9/&gt;or&lt;t10/&gt; &lt;t11/&gt;parts&lt;t12/&gt; &lt;t13/&gt;thereof,&lt;t14/&gt; &lt;t15/&gt;including&lt;t16/&gt; &lt;t17/&gt;identification&lt;t18/&gt; &lt;t19/&gt;of&lt;t20/&gt; &lt;t21/&gt;the&lt;t22/&gt; &lt;t23/&gt;rights'&lt;t24/&gt; &lt;t25/&gt;owners.&lt;t26/&gt; &lt;t27/&gt;If&lt;t28/&gt; &lt;t29/&gt;there&lt;t30/&gt; &lt;t31/&gt;are&lt;t32/&gt; &lt;t33/&gt;no</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240430T133945Z" creationid="juanf" creationdate="20240430T133635Z">
+        <seg>A tal efecto, el contratista deberá establecer una lista de todos los derechos preexistentes de los resultados del contrato o partes del mismo, incluyendo la identificación de los titulares de dichos derechos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Upon request by the contracting authority, the contractor must provide evidence that it has&lt;t0/&gt; &lt;t1/&gt;ownership of, or the right to use, all the listed &lt;t2/&gt;pre-existing rights&lt;t3/&gt;, except for the rights&lt;t4/&gt; &lt;t5/&gt;owned or licensed by the Union.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240430T134247Z" creationid="juanf" creationdate="20240430T133642Z">
+        <seg>A petición de la autoridad contratante, el contratista deberá aportar la prueba de que es titular o tiene derecho a utilizar todos los derechos preexistentes enumerados, a excepción de los derechos que sean propiedad de la Unión o hayan sido fruto de una licencia por parte de ésta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When&lt;t0/&gt; &lt;t1/&gt;delivering the&lt;t2/&gt; &lt;t3/&gt;results&lt;t4/&gt;,&lt;t5/&gt; &lt;t6/&gt;the&lt;t7/&gt; &lt;t8/&gt;contractor&lt;t9/&gt; &lt;t10/&gt;must&lt;t11/&gt; &lt;t12/&gt;warrant&lt;t13/&gt; &lt;t14/&gt;that,&lt;t15/&gt; &lt;t16/&gt;for&lt;t17/&gt; &lt;t18/&gt;any&lt;t19/&gt; &lt;t20/&gt;use&lt;t21/&gt; &lt;t22/&gt;that&lt;t23/&gt; &lt;t24/&gt;the&lt;t25/&gt; &lt;t26/&gt;contracting authority may envisage within the limits set in the contract, the &lt;t27/&gt;results &lt;t28/&gt;and the&lt;t29/&gt; &lt;t30/&gt;pre-existing material &lt;t31/&gt;incorporated in the &lt;t32/&gt;results &lt;t33/&gt;are free of claims from &lt;t34/&gt;creators &lt;t35/&gt;or from any&lt;t36/&gt; &lt;t37/&gt;third&lt;t38/&gt; &lt;t39/&gt;parties and&lt;t40/&gt; &lt;t41/&gt;all the&lt;t42/&gt; &lt;t43/&gt;necessary&lt;t44/&gt; &lt;t45/&gt;pre-existing rights&lt;t46/&gt; &lt;t47/&gt;have&lt;t48/&gt; &lt;t49/&gt;been obtained&lt;t50/&gt; &lt;t51/&gt;or&lt;t52/&gt; &lt;t53/&gt;licensed.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240430T133833Z" creationid="juanf" creationdate="20240430T133633Z">
+        <seg>Al entregar los resultados, el contratista deberá garantizar que, para cualquier uso que el poder adjudicador pueda prever dentro de los límites establecidos en el contrato, los resultados y el material preexistente incorporado a los resultados están libres de reclamaciones de creadores o de terceros y que se han obtenido o concedido licencias de todos los derechos preexistentes necesarios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Where &lt;t0/&gt;pre-existing materials &lt;t1/&gt;are inserted in the &lt;t2/&gt;results&lt;t3/&gt;, the contracting authority may accept&lt;t4/&gt; &lt;t5/&gt;reasonable restrictions impacting on the above list, provided that the said materials are easily&lt;t6/&gt; &lt;t7/&gt;identifiable and separable from the rest, that they do not correspond to substantial elements&lt;t8/&gt; &lt;t9/&gt;of the &lt;t10/&gt;results&lt;t11/&gt;, and that, should the need arise, satisfactory replacement solutions exist, at no&lt;t12/&gt; &lt;t13/&gt;additional cost to the contracting authority.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240426T152905Z" creationid="juanf" creationdate="20240426T152416Z">
+        <seg>Cuando los materiales preexistentes se han intercalado con los resultados, la autoridad contratante puede aceptar restricciones razonables que afecten a la lista superior, dejando claro que dichos materiales sean fácilmente identificables y separados del resto, que no correspondan a los elementos sustanciales de los resultados, y que, si la situación lo requiere, deben existir soluciones de reemplazo satisfactorias sin ningún coste adicional por parte de la autoridad contratante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>a copy of the &lt;t0/&gt;licence&lt;t1/&gt; to use the product or of the agreement granting the relevant&lt;t2/&gt; &lt;t3/&gt;rights&lt;t4/&gt; &lt;t5/&gt;to the&lt;t6/&gt; &lt;t7/&gt;contractor&lt;t8/&gt; &lt;t9/&gt;or a&lt;t10/&gt; &lt;t11/&gt;reference&lt;t12/&gt; &lt;t13/&gt;to this &lt;t14/&gt;licence&lt;t15/&gt;;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240503T152100Z" creationid="juanf" creationdate="20240503T152100Z">
+        <seg>una copia de la licencia del uso de este producto o del acuerdo garantizando los derechos relevantes del contratista o una referencia a este acuerdo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>a copy of the agreement or extract from the employment contract granting the&lt;t0/&gt; &lt;t1/&gt;relevant rights to the contractor where parts of the &lt;t2/&gt;results &lt;t3/&gt;were created by its&lt;t4/&gt; &lt;t5/&gt;personnel&lt;t6/&gt;;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240503T152312Z" creationid="juanf" creationdate="20240503T152312Z">
+        <seg>una copia de la licencia del extracto del contrato de empleo garantizando los datos relevantes al contratista donde las partes de los resultados fueron creados por su personal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>end-user rights, for all uses by the Union or by subcontractors which result&lt;t0/&gt; &lt;t1/&gt;from&lt;t2/&gt; &lt;t3/&gt;the&lt;t4/&gt; &lt;t5/&gt;contract and from the&lt;t6/&gt; &lt;t7/&gt;intention of&lt;t8/&gt; &lt;t9/&gt;the&lt;t10/&gt; &lt;t11/&gt;parties;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240426T151627Z" creationid="juanf" creationdate="20240426T151627Z">
+        <seg>los derechos del usuario final, para todos los usos que les de la Unión o los subcontratistas que resulten del contrato y de la intención de las partes;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>pre-existing rights &lt;t0/&gt;to the &lt;t1/&gt;results&lt;t2/&gt;, the contractor must provide a declaration to that effect.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240430T134028Z" creationid="juanf" creationdate="20240430T133635Z">
+        <seg>Si no existen derechos preexistentes sobre los resultados, el contratista deberá presentar una declaración a tal efecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the full identification of the work and its author, developer, &lt;t0/&gt;creator&lt;t1/&gt;, translator, data&lt;t2/&gt; &lt;t3/&gt;entry&lt;t4/&gt; &lt;t5/&gt;person,&lt;t6/&gt; &lt;t7/&gt;graphic&lt;t8/&gt; &lt;t9/&gt;designer,&lt;t10/&gt; &lt;t11/&gt;publisher, editor,&lt;t12/&gt; &lt;t13/&gt;photographer, &lt;t14/&gt;producer;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240503T151928Z" creationid="juanf" creationdate="20240503T151928Z">
+        <seg>la identificación completa del trabajo y su autor, creador, traductor, persona de entrada de información, diseñador gráfico, publicador, editor, fotógrafo, productor;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the&lt;t0/&gt; &lt;t1/&gt;name&lt;t2/&gt; &lt;t3/&gt;and version number&lt;t4/&gt; &lt;t5/&gt;of&lt;t6/&gt; &lt;t7/&gt;a&lt;t8/&gt; &lt;t9/&gt;software&lt;t10/&gt; &lt;t11/&gt;product;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240503T151802Z" creationid="juanf" creationdate="20240503T151756Z">
+        <seg>el nombre y número de la versión específica de cada producto de software</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the&lt;t0/&gt; &lt;t1/&gt;rights&lt;t2/&gt; &lt;t3/&gt;to&lt;t4/&gt; &lt;t5/&gt;decompile&lt;t6/&gt; &lt;t7/&gt;or&lt;t8/&gt; &lt;t9/&gt;disassemble&lt;t10/&gt; &lt;t11/&gt;the&lt;t12/&gt; &lt;t13/&gt;software;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240426T151704Z" creationid="juanf" creationdate="20240426T151704Z">
+        <seg>los derechos para descompilar o desamblar el programa;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the&lt;t0/&gt; &lt;t1/&gt;text&lt;t2/&gt; &lt;t3/&gt;of&lt;t4/&gt; &lt;t5/&gt;the&lt;t6/&gt; &lt;t7/&gt;disclaimer&lt;t8/&gt; &lt;t9/&gt;notice&lt;t10/&gt; &lt;t11/&gt;if&lt;t12/&gt; &lt;t13/&gt;any.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240503T152406Z" creationid="juanf" creationdate="20240503T152406Z">
+        <seg>el texto del aviso de descargo de responsabilidad, si hay</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>to the extent that the contractor may invoke moral rights, the right for the contracting&lt;t0/&gt; &lt;t1/&gt;authority, except where otherwise provided in the contract, to publish the &lt;t2/&gt;results &lt;t3/&gt;with&lt;t4/&gt; &lt;t5/&gt;or without mentioning the name(s) of the &lt;t6/&gt;creator&lt;t7/&gt;(s), and the right to decide when and&lt;t8/&gt; &lt;t9/&gt;whether&lt;t10/&gt; &lt;t11/&gt;the&lt;t12/&gt; &lt;t13/&gt;results &lt;t14/&gt;may&lt;t15/&gt; &lt;t16/&gt;be&lt;t17/&gt; &lt;t18/&gt;disclosed and published.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240426T152131Z" creationid="juanf" creationdate="20240426T152131Z">
+        <seg>hasta el punto en el que el contratador pueda favorecerse de los derechos morales, el derecho de la autoridad contratadora, excepto cuando se indique lo contrario en el contrato, a publicar los resultados mencionando o no el nombre de el/los creador/es, y el derecho a decidir cuándo y si los resultados puedan ser revelados y publicados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>where the &lt;t0/&gt;results &lt;t1/&gt;are or incorporate software, including source code, object code and,&lt;t2/&gt; &lt;t3/&gt;where relevant, documentation, preparatory &lt;t4/&gt;materials&lt;t5/&gt; and manuals, in addition to the&lt;t6/&gt; &lt;t7/&gt;other&lt;t8/&gt; &lt;t9/&gt;rights mentioned in this Article:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240426T151455Z" creationid="juanf" creationdate="20240426T151455Z">
+        <seg>cuando los resultados sean o incorporen algún programa, incluyendo el código fuente, el código objeto y, cuando sea relevante, documentación, materiales de preparación y manuales, además de los otros derechos mencionados en el artículo: </seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
