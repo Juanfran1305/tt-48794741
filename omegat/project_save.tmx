@@ -119,6 +119,14 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any lack of conformity resulting from incorrect installation of the supplies must be deemed&lt;t0/&gt; &lt;t1/&gt;to be equivalent to lack of conformity of the supplies if installation was provided for by the&lt;t2/&gt; &lt;t3/&gt;purchase order and the supplies were installed by the contractor or under its responsibility.&lt;t4/&gt; &lt;t5/&gt;This applies equally if the product was to be installed by the contracting authority and was&lt;t6/&gt; &lt;t7/&gt;incorrectly&lt;t8/&gt; &lt;t9/&gt;installed owing&lt;t10/&gt; &lt;t11/&gt;to a&lt;t12/&gt; &lt;t13/&gt;shortcoming&lt;t14/&gt; &lt;t15/&gt;in the&lt;t16/&gt; &lt;t17/&gt;installation instructions.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240514T143220Z" creationid="alumno" creationdate="20240514T143220Z">
+        <seg>Cualquier falta de conformidad resultante de una instalación incorrecta de los suministros deberá considerarse equivalente a una falta de conformidad de los suministros si la instalación estaba prevista en la orden de compra y los suministros fueron instalados por el contratista o bajo su responsabilidad. Esto se aplica igualmente si el producto debía ser instalado por la entidad adjudicadora y se instaló incorrectamente debido a una deficiencia en las instrucciones de instalación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Any repair or replacement must be completed within a reasonable time and without any&lt;t0/&gt; &lt;t1/&gt;significant inconvenience to the contracting authority, taking account of the nature of the&lt;t2/&gt; &lt;t3/&gt;supplies&lt;t4/&gt; &lt;t5/&gt;and the&lt;t6/&gt; &lt;t7/&gt;purpose for&lt;t8/&gt; &lt;t9/&gt;which&lt;t10/&gt; &lt;t11/&gt;they&lt;t12/&gt; &lt;t13/&gt;are&lt;t14/&gt; &lt;t15/&gt;required&lt;t16/&gt; &lt;t17/&gt;by&lt;t18/&gt; &lt;t19/&gt;the&lt;t20/&gt; &lt;t21/&gt;contracting authority.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alumno" changedate="20240514T143101Z" creationid="alumno" creationdate="20240514T143101Z">
@@ -179,6 +187,14 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T140932Z" creationid="juanf" creationdate="20240514T140932Z">
         <seg>15.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each box must be clearly labelled with the&lt;t2/&gt; &lt;t3/&gt;following&lt;t4/&gt; &lt;t5/&gt;information:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240514T143319Z" creationid="alumno" creationdate="20240514T143319Z">
+        <seg>Cada caja debe estar claramente etiquetada con la siguiente información: </seg>
       </tuv>
     </tu>
     <tu>
@@ -275,6 +291,14 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T140910Z" creationid="juanf" creationdate="20240514T140910Z">
         <seg>Si en un resultado aparecen personas físicas o se graba su voz o cualquier otro elemento privado de forma reconocible, el contratista deberá obtener una declaración de estas personas (o, en el caso de los menores, de las personas que ejerzan la patria potestad) en la que autoricen el uso descrito de su imagen, voz o elemento privado y, previa solicitud, presentar una copia de la autorización al poder adjudicador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If required by the purchase order, the contractor must assemble the supplies delivered within&lt;t0/&gt; &lt;t1/&gt;a&lt;t2/&gt; &lt;t3/&gt;period of&lt;t4/&gt; &lt;t5/&gt;one&lt;t6/&gt; &lt;t7/&gt;month unless otherwise&lt;t8/&gt; &lt;t9/&gt;specified&lt;t10/&gt; &lt;t11/&gt;in the&lt;t12/&gt; &lt;t13/&gt;purchase&lt;t14/&gt; &lt;t15/&gt;order.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240514T143159Z" creationid="alumno" creationdate="20240514T143159Z">
+        <seg>Si así lo exige la orden de compra, el contratista deberá montar los suministros entregados en el plazo de un mes, salvo que se especifique otra cosa en la orden de compra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -395,6 +419,14 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
       </tuv>
       <tuv lang="es-ES" changeid="alumno" changedate="20240514T142013Z" creationid="alumno" creationdate="20240514T142013Z">
         <seg>EJECUCIÓN DEL CONTRATO (SUMINISTROS Y SERVICIOS) Entrega de los suministros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Packaging, pallets, etc.,&lt;t2/&gt; &lt;t3/&gt;including&lt;t4/&gt; &lt;t5/&gt;contents, must&lt;t6/&gt; &lt;t7/&gt;not weigh more&lt;t8/&gt; &lt;t9/&gt;than&lt;t10/&gt; &lt;t11/&gt;500&lt;t12/&gt; &lt;t13/&gt;kg.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240514T143243Z" creationid="alumno" creationdate="20240514T143243Z">
+        <seg>Los embalajes, palés, etc., incluido el contenido, no deben pesar más de 500 kg.</seg>
       </tuv>
     </tu>
     <tu>
@@ -639,6 +671,14 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The supplies must be packaged in strong boxes or crates or in any other way that ensures the&lt;t0/&gt; &lt;t1/&gt;contents remain intact and prevents damage or deterioration.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240514T143232Z" creationid="alumno" creationdate="20240514T143232Z">
+        <seg>Los suministros deben embalarse en cajas o cajones resistentes o de cualquier otra forma que garantice que el contenido permanece intacto y evite daños o deterioro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The term 'free of charge' in point (a) refers to the costs incurred to bring the supplies into&lt;t0/&gt; &lt;t1/&gt;conformity,&lt;t2/&gt; &lt;t3/&gt;particularly&lt;t4/&gt; &lt;t5/&gt;the&lt;t6/&gt; &lt;t7/&gt;cost of&lt;t8/&gt; &lt;t9/&gt;postage,&lt;t10/&gt; &lt;t11/&gt;labour&lt;t12/&gt; &lt;t13/&gt;and materials.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alumno" changedate="20240514T143149Z" creationid="alumno" creationdate="20240514T143149Z">
@@ -747,6 +787,14 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240430T133945Z" creationid="juanf" creationdate="20240430T133635Z">
         <seg>A tal efecto, el contratista deberá establecer una lista de todos los derechos preexistentes de los resultados del contrato o partes del mismo, incluyendo la identificación de los titulares de dichos derechos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unless otherwise specified in the purchase order, pallets must be considered as one-way&lt;t0/&gt; &lt;t1/&gt;packaging and do not need to be returned.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240514T143253Z" creationid="alumno" creationdate="20240514T143253Z">
+        <seg>Salvo que se especifique lo contrario en la orden de compra, los palés deben considerarse embalajes de un solo uso y no es necesario devolverlos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -863,10 +911,26 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>date&lt;t0/&gt; &lt;t1/&gt;of&lt;t2/&gt; &lt;t3/&gt;delivery;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240514T143404Z" creationid="alumno" creationdate="20240514T143404Z">
+        <seg>fecha de entrega;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>demonstrate the &lt;t0/&gt;high quality&lt;t1/&gt; standards and performance which are normal in supplies&lt;t2/&gt; &lt;t3/&gt;of the same type and which the contracting authority can reasonably expect, given the&lt;t4/&gt; &lt;t5/&gt;nature of the supplies and taking into account any public statements on the specific&lt;t6/&gt; &lt;t7/&gt;characteristics&lt;t8/&gt; &lt;t9/&gt;of&lt;t10/&gt; &lt;t11/&gt;the&lt;t12/&gt; &lt;t13/&gt;supplies made&lt;t14/&gt; &lt;t15/&gt;by&lt;t16/&gt; &lt;t17/&gt;the&lt;t18/&gt; &lt;t19/&gt;contractor,&lt;t20/&gt; &lt;t21/&gt;the&lt;t22/&gt; &lt;t23/&gt;producer&lt;t24/&gt; &lt;t25/&gt;or&lt;t26/&gt; &lt;t27/&gt;its</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alumno" changedate="20240514T142535Z" creationid="alumno" creationdate="20240514T142535Z">
         <seg>presentar el nivel de calidad y de prestaciones habitual en los suministros del mismo tipo y que el poder adjudicador pueda fundadamente esperar, habida cuenta de la naturaleza de los suministros y de las declaraciones públicas sobre las características específicas de los mismos efectuadas por el contratista, el productor o su</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>description&lt;t0/&gt; &lt;t1/&gt;of&lt;t2/&gt; &lt;t3/&gt;contents;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240514T143351Z" creationid="alumno" creationdate="20240514T143351Z">
+        <seg>descripción del contenido;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1007,6 +1071,30 @@ se han producido realmente</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T141609Z" creationid="juanf" creationdate="20240514T141609Z">
         <seg>(a) si levanta la suspensión; o</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>name&lt;t0/&gt; &lt;t1/&gt;of&lt;t2/&gt; &lt;t3/&gt;contracting&lt;t4/&gt; &lt;t5/&gt;authority&lt;t6/&gt; &lt;t7/&gt;and&lt;t8/&gt; &lt;t9/&gt;address&lt;t10/&gt; &lt;t11/&gt;for&lt;t12/&gt; &lt;t13/&gt;delivery;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240514T143327Z" creationid="alumno" creationdate="20240514T143327Z">
+        <seg>nombre de la autoridad contratante y dirección de entrega</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>name&lt;t0/&gt; &lt;t1/&gt;of&lt;t2/&gt; &lt;t3/&gt;contractor;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240514T143341Z" creationid="alumno" creationdate="20240514T143341Z">
+        <seg>nombre del contratista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>number&lt;t0/&gt; &lt;t1/&gt;and&lt;t2/&gt; &lt;t3/&gt;date&lt;t4/&gt; &lt;t5/&gt;of&lt;t6/&gt; &lt;t7/&gt;purchase&lt;t8/&gt; &lt;t9/&gt;order.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240514T143427Z" creationid="alumno" creationdate="20240514T143427Z">
+        <seg> número y fecha de la orden de compra.</seg>
       </tuv>
     </tu>
     <tu>
