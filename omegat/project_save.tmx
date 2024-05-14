@@ -151,6 +151,14 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Each provision of the contract is severable and distinct from the others.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240514T141810Z" creationid="alumno" creationdate="20240514T141741Z">
+        <seg>Cada disposición del contrato es separable y distinta de las demás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Evidence&lt;t0/&gt; &lt;t1/&gt;of&lt;t2/&gt; &lt;t3/&gt;granting&lt;t4/&gt; &lt;t5/&gt;of&lt;t6/&gt; &lt;t7/&gt;pre-existing&lt;t8/&gt; &lt;t9/&gt;rights</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240430T133641Z" creationid="juanf" creationdate="20240430T133641Z">
@@ -203,6 +211,14 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T140922Z" creationid="juanf" creationdate="20240514T140922Z">
         <seg>Si una de las partes se ve afectada por un caso de fuerza mayor, deberá notificarlo inmediatamente a la otra parte, indicando la naturaleza de las circunstancias, su duración probable y sus efectos previsibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If a provision is or&lt;t0/&gt; &lt;t1/&gt;becomes illegal, &lt;t2/&gt;invalid&lt;t3/&gt; or unenforceable to any extent, it must be severed from the remainder&lt;t4/&gt; &lt;t5/&gt;of the contract.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240514T141746Z" creationid="alumno" creationdate="20240514T141746Z">
+        <seg>Si una disposición es o se convierte en ilegal, inválida o inaplicable en cualquier medida, debe separarse del resto del contrato. </seg>
       </tuv>
     </tu>
     <tu>
@@ -279,6 +295,14 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In&lt;t0/&gt; &lt;t1/&gt;the&lt;t2/&gt; &lt;t3/&gt;event&lt;t4/&gt; &lt;t5/&gt;of&lt;t6/&gt; &lt;t7/&gt;a&lt;t8/&gt; &lt;t9/&gt;joint&lt;t10/&gt; &lt;t11/&gt;tender&lt;t12/&gt; &lt;t13/&gt;submitted&lt;t14/&gt; &lt;t15/&gt;by&lt;t16/&gt; &lt;t17/&gt;a&lt;t18/&gt; &lt;t19/&gt;group&lt;t20/&gt; &lt;t21/&gt;of&lt;t22/&gt; &lt;t23/&gt;economic&lt;t24/&gt; &lt;t25/&gt;operators&lt;t26/&gt; &lt;t27/&gt;and&lt;t28/&gt; &lt;t29/&gt;where&lt;t30/&gt; &lt;t31/&gt;the&lt;t32/&gt; &lt;t33/&gt;group does not have legal personality or legal capacity, one member of the group is appointed&lt;t34/&gt; &lt;t35/&gt;as&lt;t36/&gt; &lt;t37/&gt;leader&lt;t38/&gt; &lt;t39/&gt;of&lt;t40/&gt; &lt;t41/&gt;the&lt;t42/&gt; &lt;t43/&gt;group.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240514T141640Z" creationid="alumno" creationdate="20240514T141640Z">
+        <seg>En caso de oferta conjunta presentada por una agrupación de operadores económicos y cuando la agrupación no tenga personalidad jurídica o capacidad jurídica, se designa a un miembro de la agrupación como líder de la misma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LIQUIDATED&lt;t0/&gt; &lt;t1/&gt;DAMAGES</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T140930Z" creationid="juanf" creationdate="20240514T140930Z">
@@ -323,6 +347,22 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240503T152813Z" creationid="juanf" creationdate="20240503T152813Z">
         <seg>Cotización de los trabajos en el resultado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ROLES&lt;t0/&gt; &lt;t1/&gt;AND&lt;t2/&gt; &lt;t3/&gt;RESPONSIBILITIES&lt;t4/&gt; &lt;t5/&gt;IN&lt;t6/&gt; &lt;t7/&gt;THE&lt;t8/&gt; &lt;t9/&gt;EVENT&lt;t10/&gt; &lt;t11/&gt;OF&lt;t12/&gt; &lt;t13/&gt;A&lt;t14/&gt; &lt;t15/&gt;JOINT&lt;t16/&gt; &lt;t17/&gt;TENDER</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240514T141623Z" creationid="alumno" creationdate="20240514T141623Z">
+        <seg>FUNCIONES Y RESPONSABILIDADES EN CASO DE LICITACIÓN CONJUNTA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SEVERABILITY</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240514T141652Z" creationid="alumno" creationdate="20240514T141652Z">
+        <seg>SEPARABILIDAD</seg>
       </tuv>
     </tu>
     <tu>
@@ -447,10 +487,26 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The illegal, &lt;t0/&gt;invalid&lt;t1/&gt; or unenforceable provision must be replaced by a legal, valid and&lt;t2/&gt; &lt;t3/&gt;enforceable substitute provision which corresponds as closely as possible with the actual&lt;t4/&gt; &lt;t5/&gt;intent&lt;t6/&gt; &lt;t7/&gt;of&lt;t8/&gt; &lt;t9/&gt;the&lt;t10/&gt; &lt;t11/&gt;parties under&lt;t12/&gt; &lt;t13/&gt;the&lt;t14/&gt; &lt;t15/&gt;illegal, invalid or&lt;t16/&gt; &lt;t17/&gt;unenforceable&lt;t18/&gt; &lt;t19/&gt;provision.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240514T141855Z" creationid="alumno" creationdate="20240514T141855Z">
+        <seg>La disposición ilegal, inválida o inaplicable debe ser sustituida por una disposición sustitutiva legal, válida y aplicable que se corresponda en la mayor medida posible con la intención real de las partes en virtud de la disposición ilegal, inválida o inaplicable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The parties expressly acknowledge and agree that any amount payable under this Article is&lt;t0/&gt; &lt;t1/&gt;not a penalty and represents a reasonable estimate of fair compensation for the damage&lt;t2/&gt; &lt;t3/&gt;incurred due to failure to provide the services within the applicable time limits set out in the&lt;t4/&gt; &lt;t5/&gt;contract.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T140949Z" creationid="juanf" creationdate="20240514T140949Z">
         <seg>Las partes reconocen y acuerdan expresamente que cualquier cantidad pagadera en virtud de este Artículo no es una penalización y representa una estimación razonable de una compensación justa por los daños sufridos debido a la falta de prestación de los servicios dentro de los plazos aplicables establecidos en el contrato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The replacement of such a provision must be made in accordance with Article 11.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240514T141915Z" creationid="alumno" creationdate="20240514T141915Z">
+        <seg>La sustitución de dicha disposición debe realizarse de conformidad con el artículo 11. </seg>
       </tuv>
     </tu>
     <tu>
@@ -507,6 +563,14 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240430T133640Z" creationid="juanf" creationdate="20240430T133640Z">
         <seg>El contratista deberá proporcionar a la Autoridad Contratante esta lista o declaración, junto con la factura de pago del saldo, a más tardar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This does not affect the legality, &lt;t6/&gt;validity&lt;t7/&gt; or enforceability of any other&lt;t8/&gt; &lt;t9/&gt;provisions&lt;t10/&gt; &lt;t11/&gt;of&lt;t12/&gt; &lt;t13/&gt;the&lt;t14/&gt; &lt;t15/&gt;contract, which&lt;t16/&gt; &lt;t17/&gt;continue&lt;t18/&gt; &lt;t19/&gt;in full force&lt;t20/&gt; &lt;t21/&gt;and&lt;t22/&gt; &lt;t23/&gt;effect.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240514T141805Z" creationid="alumno" creationdate="20240514T141805Z">
+        <seg>Esto no afectará a la legalidad, validez o aplicabilidad de las demás disposiciones del contrato, que seguirán en pleno vigor y efecto.</seg>
       </tuv>
     </tu>
     <tu>
