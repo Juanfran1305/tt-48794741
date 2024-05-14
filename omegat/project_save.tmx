@@ -143,6 +143,22 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Conformity must be declared only where the conditions laid down in the purchase order are&lt;t0/&gt; &lt;t1/&gt;satisfied&lt;t2/&gt; &lt;t3/&gt;and the&lt;t4/&gt; &lt;t5/&gt;supplies&lt;t6/&gt; &lt;t7/&gt;conform&lt;t8/&gt; &lt;t9/&gt;to the&lt;t10/&gt; &lt;t11/&gt;tender&lt;t12/&gt; &lt;t13/&gt;specifications.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240514T142338Z" creationid="alumno" creationdate="20240514T142338Z">
+        <seg>La conformidad sólo deberá declararse cuando se cumplan las condiciones establecidas en la orden de compra y los suministros se ajusten a las especificaciones de la licitación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Conformity of the supplies delivered must be evidenced by the signature of a certificate to&lt;t0/&gt; &lt;t1/&gt;that effect by the contracting authority no later than one month after the date of delivery,&lt;t2/&gt; &lt;t3/&gt;unless&lt;t4/&gt; &lt;t5/&gt;otherwise&lt;t6/&gt; &lt;t7/&gt;specified in the&lt;t8/&gt; &lt;t9/&gt;purchase&lt;t10/&gt; &lt;t11/&gt;order.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240514T142322Z" creationid="alumno" creationdate="20240514T142322Z">
+        <seg>La conformidad de los suministros entregados deberá acreditarse mediante la firma de un certificado a tal efecto por la Autoridad Contratante, a más tardar un mes después de la fecha de entrega, salvo que se especifique otra cosa en el pedido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copyright&lt;t0/&gt; &lt;t1/&gt;notice&lt;t2/&gt; &lt;t3/&gt;for&lt;t4/&gt; &lt;t5/&gt;pre-existing&lt;t6/&gt; &lt;t7/&gt;rights</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T140911Z" creationid="juanf" creationdate="20240514T140911Z">
@@ -287,6 +303,14 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If, for reasons attributable to the contractor, the contracting authority is unable to accept the&lt;t0/&gt; &lt;t1/&gt;supplies,&lt;t2/&gt; &lt;t3/&gt;the&lt;t4/&gt; &lt;t5/&gt;contractor must be&lt;t6/&gt; &lt;t7/&gt;notified&lt;t8/&gt; &lt;t9/&gt;at the&lt;t10/&gt; &lt;t11/&gt;latest by&lt;t12/&gt; &lt;t13/&gt;the&lt;t14/&gt; &lt;t15/&gt;deadline&lt;t16/&gt; &lt;t17/&gt;for&lt;t18/&gt; &lt;t19/&gt;conformity.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240514T142357Z" creationid="alumno" creationdate="20240514T142357Z">
+        <seg>Si, por razones imputables al contratista, el poder adjudicador no puede aceptar los suministros, deberá notificarlo al contratista a más tardar en la fecha límite de conformidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Image&lt;t0/&gt; &lt;t1/&gt;rights&lt;t2/&gt; &lt;t3/&gt;and&lt;t4/&gt; &lt;t5/&gt;sound&lt;t6/&gt; &lt;t7/&gt;recordings</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T140909Z" creationid="juanf" creationdate="20240514T140909Z">
@@ -343,6 +367,14 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>One copy of the consignment note must be countersigned by the&lt;t6/&gt; &lt;t7/&gt;contracting&lt;t8/&gt; &lt;t9/&gt;authority&lt;t10/&gt; &lt;t11/&gt;and&lt;t12/&gt; &lt;t13/&gt;returned to the contractor&lt;t14/&gt; &lt;t15/&gt;or&lt;t16/&gt; &lt;t17/&gt;to its carrier.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240514T142230Z" creationid="alumno" creationdate="20240514T142230Z">
+        <seg>Un ejemplar de la carta de porte deberá ser refrendado por la Autoridad contratante y devuelto al contratista o a su transportista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>PERFORMANCE OF THE CONTRACT (SUPPLIES AND SERVICES)&lt;t0/&gt; &lt;t1/&gt;Delivery&lt;t2/&gt; &lt;t3/&gt;of&lt;t4/&gt; &lt;t5/&gt;supplies</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alumno" changedate="20240514T142013Z" creationid="alumno" creationdate="20240514T142013Z">
@@ -395,6 +427,14 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T140959Z" creationid="juanf" creationdate="20240514T140959Z">
         <seg>SUSPENSIÓN DE LA EJECUCIÓN DEL CONTRATO 16.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Signature of the consignment note by the contracting authority is simply an&lt;t0/&gt; &lt;t1/&gt;acknowledgment of the fact that the delivery has taken place and in no way implies&lt;t2/&gt; &lt;t3/&gt;conformity&lt;t4/&gt; &lt;t5/&gt;of&lt;t6/&gt; &lt;t7/&gt;the&lt;t8/&gt; &lt;t9/&gt;supplies with the&lt;t10/&gt; &lt;t11/&gt;purchase&lt;t12/&gt; &lt;t13/&gt;order.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240514T142254Z" creationid="alumno" creationdate="20240514T142254Z">
+        <seg>La firma de la carta de porte por la Autoridad contratante es un simple reconocimiento de que la entrega ha tenido lugar y no implica en modo alguno la conformidad de los suministros con la orden de compra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -567,6 +607,14 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The supplies delivered by the contractor to the contracting authority must be in conformity&lt;t0/&gt; &lt;t1/&gt;with&lt;t2/&gt; &lt;t3/&gt;the&lt;t4/&gt; &lt;t5/&gt;purchase&lt;t6/&gt; &lt;t7/&gt;order&lt;t8/&gt; &lt;t9/&gt;in&lt;t10/&gt; &lt;t11/&gt;respect of&lt;t12/&gt; &lt;t13/&gt;quantity,&lt;t14/&gt; &lt;t15/&gt;quality, &lt;t16/&gt;price&lt;t17/&gt; and packaging.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240514T142411Z" creationid="alumno" creationdate="20240514T142411Z">
+        <seg>Los suministros entregados por el contratista a la Autoridad Contratante deben ser conformes con la orden de compra en cuanto a cantidad, calidad, precio y embalaje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The&lt;t0/&gt; &lt;t1/&gt;contract must be interpreted as if it had contained the substitute provision as from its entry&lt;t2/&gt; &lt;t3/&gt;into&lt;t4/&gt; &lt;t5/&gt;force.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alumno" changedate="20240514T141954Z" creationid="alumno" creationdate="20240514T141954Z">
@@ -611,6 +659,14 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T140929Z" creationid="juanf" creationdate="20240514T140929Z">
         <seg>Las partes deberán tomar todas las medidas necesarias para limitar los daños debidos a fuerza mayor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The&lt;t0/&gt; &lt;t1/&gt;supplies&lt;t2/&gt; &lt;t3/&gt;delivered&lt;t4/&gt; &lt;t5/&gt;must:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240514T142439Z" creationid="alumno" creationdate="20240514T142439Z">
+        <seg>Los suministros entregados deberán:</seg>
       </tuv>
     </tu>
     <tu>
@@ -731,6 +787,30 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T141121Z" creationid="juanf" creationdate="20240514T141121Z">
         <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>be fit for any specific purpose required of them by the contracting authority and made&lt;t0/&gt; &lt;t1/&gt;known to the contractor at the time of conclusion of the contract&lt;t2/&gt; &lt;t3/&gt;and accepted by the&lt;t4/&gt; &lt;t5/&gt;contractor;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240514T142503Z" creationid="alumno" creationdate="20240514T142503Z">
+        <seg>ser aptos para cualquier uso específico que les exija el poder adjudicador y que haya sido puesto en conocimiento del contratista en el momento de la celebración del contrato y aceptado por éste;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>be&lt;t0/&gt; &lt;t1/&gt;fit for&lt;t2/&gt; &lt;t3/&gt;the&lt;t4/&gt; &lt;t5/&gt;purposes for&lt;t6/&gt; &lt;t7/&gt;which supplies&lt;t8/&gt; &lt;t9/&gt;of&lt;t10/&gt; &lt;t11/&gt;the&lt;t12/&gt; &lt;t13/&gt;same&lt;t14/&gt; &lt;t15/&gt;type&lt;t16/&gt; &lt;t17/&gt;are&lt;t18/&gt; &lt;t19/&gt;normally&lt;t20/&gt; &lt;t21/&gt;used;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240514T142527Z" creationid="alumno" creationdate="20240514T142527Z">
+        <seg>ser aptos para los usos a que se destinen normalmente los suministros del mismo tipo;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>correspond to the description given in the contractor's tender and possess the&lt;t0/&gt; &lt;t1/&gt;characteristics of the supplies provided by the contractor to the contracting authority as&lt;t2/&gt; &lt;t3/&gt;a&lt;t4/&gt; &lt;t5/&gt;sample&lt;t6/&gt; &lt;t7/&gt;or&lt;t8/&gt; &lt;t9/&gt;model;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240514T142455Z" creationid="alumno" creationdate="20240514T142455Z">
+        <seg>corresponder a la descripción que figure en la oferta del contratista y poseer las características de los suministros facilitados por el contratista al poder adjudicador como muestra o modelo;</seg>
       </tuv>
     </tu>
     <tu>
