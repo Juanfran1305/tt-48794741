@@ -1,0 +1,14 @@
+23/4/24 16:00
+Estadísticas del proyecto
+
+                  	Segmentos	Palabras	Caracteres (sin espacios)	Caracteres (con espacios)	#Archivos	
+Total:            	      383	    8468	                    46045	                    54081	        1	
+Pendientes:       	      383	    8468	                    46045	                    54081	        1	
+Únicos:           	      378	    8419	                    45751	                    53742	        1	
+Pendientes únicos:	      378	    8419	                    45751	                    53742	        1	
+
+
+Estadísticas por archivo individual:
+
+Nombre de archivo                       	Total de segmentos	Segmentos pendientes	Segmentos únicos	Segmentos únicos pendientes	Total palabras	Palabras pendientes	Palabras únicas	Palabras únicas pendientes	Total caracteres (sin espacios)	Caracteres pendientes (sin espacios)	Caracteres únicos (sin espacios)	Caracteres únicos pendientes (sin espacios)	Total Caracteres (con espacios)	Caracteres pendientes (con espacios)	Caracteres únicos (con espacios)	Caracteres únicos pendientes (con espacios)	
+general-conditions-june-2016-en (1).docx	               383	                 383	             378	                        378	          8468	               8468	           8419	                      8419	                          46045	                               46045	                           45751	                                      45751	                          54081	                               54081	                           53742	                                      53742	
