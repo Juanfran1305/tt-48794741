@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All deliveries must be made to the agreed place of delivery&lt;t4/&gt; &lt;t5/&gt;during&lt;t6/&gt; &lt;t7/&gt;the&lt;t8/&gt; &lt;t9/&gt;hours indicated in the&lt;t10/&gt; &lt;t11/&gt;purchase&lt;t12/&gt; &lt;t13/&gt;order.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240514T142146Z" creationid="alumno" creationdate="20240514T142146Z">
+        <seg>Todas las entregas deberán realizarse en el lugar de entrega acordado durante el horario indicado en la orden de compra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All rights reserved.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20240514T140716Z" creationid="OmegaT Aligner" creationdate="20240514T140716Z">
@@ -147,6 +155,14 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T140932Z" creationid="juanf" creationdate="20240514T140932Z">
         <seg>15.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each delivery must be accompanied by a consignment note in duplicate, duly &lt;t0/&gt;signed&lt;t1/&gt; and&lt;t2/&gt; &lt;t3/&gt;dated by the contractor or its carrier, stating the purchase order number and particulars of the&lt;t4/&gt; &lt;t5/&gt;supplies delivered.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240514T142227Z" creationid="alumno" creationdate="20240514T142227Z">
+        <seg>Cada entrega deberá ir acompañada de una carta de porte por duplicado, debidamente firmada y fechada por el contratista o su transportista, en la que se indique el número de orden de compra y los detalles de los suministros entregados. </seg>
       </tuv>
     </tu>
     <tu>
@@ -327,6 +343,14 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>PERFORMANCE OF THE CONTRACT (SUPPLIES AND SERVICES)&lt;t0/&gt; &lt;t1/&gt;Delivery&lt;t2/&gt; &lt;t3/&gt;of&lt;t4/&gt; &lt;t5/&gt;supplies</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240514T142013Z" creationid="alumno" creationdate="20240514T142013Z">
+        <seg>EJECUCIÓN DEL CONTRATO (SUMINISTROS Y SERVICIOS) Entrega de los suministros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Procedure</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20240514T140716Z" creationid="OmegaT Aligner" creationdate="20240514T140716Z">
@@ -431,6 +455,22 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The contracting authority must be &lt;t0/&gt;notified &lt;t1/&gt;of the exact date of delivery within the period&lt;t2/&gt; &lt;t3/&gt;indicated in the purchase order.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240514T142137Z" creationid="alumno" creationdate="20240514T142137Z">
+        <seg>Deberá notificarse a la Autoridad contratante la fecha exacta de entrega dentro del plazo indicado en la orden de compra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The contracting authority reserves the right to change the address&lt;t2/&gt; &lt;t3/&gt;within&lt;t4/&gt; &lt;t5/&gt;a&lt;t6/&gt; &lt;t7/&gt;reasonable&lt;t8/&gt; &lt;t9/&gt;time&lt;t10/&gt; &lt;t11/&gt;before&lt;t12/&gt; &lt;t13/&gt;delivery.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240514T142059Z" creationid="alumno" creationdate="20240514T142059Z">
+        <seg>La Autoridad Contratante se reserva el derecho de modificar la dirección en un plazo razonable antes de la entrega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The contracting&lt;t6/&gt; &lt;t7/&gt;authority&lt;t8/&gt; &lt;t9/&gt;may&lt;t10/&gt; &lt;t11/&gt;waive&lt;t12/&gt; &lt;t13/&gt;this&lt;t14/&gt; &lt;t15/&gt;obligation&lt;t16/&gt; &lt;t17/&gt;in writing&lt;t18/&gt; &lt;t19/&gt;or&lt;t20/&gt; &lt;t21/&gt;provide&lt;t22/&gt; &lt;t23/&gt;the&lt;t24/&gt; &lt;t25/&gt;text of&lt;t26/&gt; &lt;t27/&gt;the&lt;t28/&gt; &lt;t29/&gt;disclaimer.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T140920Z" creationid="juanf" creationdate="20240514T140920Z">
@@ -459,6 +499,14 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T141003Z" creationid="juanf" creationdate="20240514T141003Z">
         <seg>El contratista deberá notificarlo a la Autoridad Contratante tan pronto como pueda reanudar la ejecución del contrato, a menos que la Autoridad Contratante ya haya rescindido el contrato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The contractor must bear all costs and risks involved in delivering the supplies to the place&lt;t0/&gt; &lt;t1/&gt;of&lt;t2/&gt; &lt;t3/&gt;delivery.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240514T142151Z" creationid="alumno" creationdate="20240514T142151Z">
+        <seg>El contratista deberá correr con todos los gastos y riesgos derivados de la entrega de los suministros en el lugar de entrega.</seg>
       </tuv>
     </tu>
     <tu>
@@ -507,6 +555,22 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
       </tuv>
       <tuv lang="es-ES" changeid="alumno" changedate="20240514T141915Z" creationid="alumno" creationdate="20240514T141915Z">
         <seg>La sustitución de dicha disposición debe realizarse de conformidad con el artículo 11. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The requested dates of delivery and the site to which the delivery is to be made are specified&lt;t0/&gt; &lt;t1/&gt;in the purchase order.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240514T142053Z" creationid="alumno" creationdate="20240514T142053Z">
+        <seg>Las fechas de entrega solicitadas y el lugar en el que debe efectuarse la entrega se especifican en la orden de compra. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The&lt;t0/&gt; &lt;t1/&gt;contract must be interpreted as if it had contained the substitute provision as from its entry&lt;t2/&gt; &lt;t3/&gt;into&lt;t4/&gt; &lt;t5/&gt;force.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240514T141954Z" creationid="alumno" creationdate="20240514T141954Z">
+        <seg>El contrato debe interpretarse como si hubiera contenido la disposición sustitutiva a partir de su entrada en vigor.</seg>
       </tuv>
     </tu>
     <tu>
