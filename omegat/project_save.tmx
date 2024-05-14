@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ANNEX</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240514T141715Z" creationid="juanf" creationdate="20240514T141640Z">
+        <seg> ANEXO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All rights reserved.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20240514T140716Z" creationid="OmegaT Aligner" creationdate="20240514T140716Z">
@@ -163,6 +171,22 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T140944Z" creationid="juanf" creationdate="20240514T140944Z">
         <seg>En su defecto, la decisión será ejecutiva al día siguiente de la expiración del plazo de presentación de observaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Grounds&lt;t0/&gt; &lt;t1/&gt;for&lt;t2/&gt; &lt;t3/&gt;termination&lt;t4/&gt; &lt;t5/&gt;by&lt;t6/&gt; &lt;t7/&gt;the&lt;t8/&gt; &lt;t9/&gt;contracting&lt;t10/&gt; &lt;t11/&gt;authority</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240514T141612Z" creationid="juanf" creationdate="20240514T141612Z">
+        <seg>Motivos de resolución por parte del poder adjudicador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Grounds&lt;t0/&gt; &lt;t1/&gt;for&lt;t2/&gt; &lt;t3/&gt;termination&lt;t4/&gt; &lt;t5/&gt;by&lt;t6/&gt; &lt;t7/&gt;the&lt;t8/&gt; &lt;t9/&gt;contractor</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240514T141625Z" creationid="juanf" creationdate="20240514T141625Z">
+        <seg>Motivos de rescisión por parte del contratistas</seg>
       </tuv>
     </tu>
     <tu>
@@ -327,6 +351,22 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Suspension&lt;t2/&gt; &lt;t3/&gt;takes effect on the date of &lt;t4/&gt;formal notification&lt;t5/&gt;, or at a later date if the &lt;t6/&gt;formal notification &lt;t7/&gt;so&lt;t8/&gt; &lt;t9/&gt;provides.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240514T141606Z" creationid="juanf" creationdate="20240514T141606Z">
+        <seg>La suspensión surtirá efecto en la fecha de la notificación formal, o en una fecha posterior si así se dispone en la notificación formal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TERMINATION&lt;t0/&gt; &lt;t1/&gt;OF&lt;t2/&gt; &lt;t3/&gt;THE&lt;t4/&gt; &lt;t5/&gt;CONTRACT</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240514T141611Z" creationid="juanf" creationdate="20240514T141611Z">
+        <seg>RESOLUCIÓN DEL CONTRATO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The contracting authority may request this evidence even&lt;t6/&gt; &lt;t7/&gt;after&lt;t8/&gt; &lt;t9/&gt;the&lt;t10/&gt; &lt;t11/&gt;end of&lt;t12/&gt; &lt;t13/&gt;the&lt;t14/&gt; &lt;t15/&gt;contract.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240430T133644Z" creationid="juanf" creationdate="20240430T133644Z">
@@ -419,6 +459,30 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T141007Z" creationid="juanf" creationdate="20240514T141007Z">
         <seg>El poder adjudicador podrá suspender la ejecución del contrato o de una parte del mismo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The&lt;t0/&gt; &lt;t1/&gt;contracting&lt;t2/&gt; &lt;t3/&gt;authority&lt;t4/&gt; &lt;t5/&gt;may&lt;t6/&gt; &lt;t7/&gt;terminate&lt;t8/&gt; &lt;t9/&gt;the contract in&lt;t10/&gt; &lt;t11/&gt;the&lt;t12/&gt; &lt;t13/&gt;following&lt;t14/&gt; &lt;t15/&gt;circumstances:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240514T141613Z" creationid="juanf" creationdate="20240514T141613Z">
+        <seg>El poder adjudicador podrá rescindir el contrato en las siguientes circunstancias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The&lt;t0/&gt; &lt;t1/&gt;contracting&lt;t2/&gt; &lt;t3/&gt;authority&lt;t4/&gt; &lt;t5/&gt;must&lt;t6/&gt; &lt;t7/&gt;notify&lt;t8/&gt; &lt;t9/&gt;the&lt;t10/&gt; &lt;t11/&gt;contractor&lt;t12/&gt; &lt;t13/&gt;as&lt;t14/&gt; &lt;t15/&gt;soon as&lt;t16/&gt; &lt;t17/&gt;possible&lt;t18/&gt; &lt;t19/&gt;whether:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240514T141607Z" creationid="juanf" creationdate="20240514T141607Z">
+        <seg>El poder adjudicador debe notificar al contratista lo antes posible si:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The&lt;t0/&gt; &lt;t1/&gt;contractor&lt;t2/&gt; &lt;t3/&gt;may&lt;t4/&gt; &lt;t5/&gt;terminate&lt;t6/&gt; &lt;t7/&gt;the&lt;t8/&gt; &lt;t9/&gt;contract&lt;t10/&gt; &lt;t11/&gt;if:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240514T141626Z" creationid="juanf" creationdate="20240514T141626Z">
+        <seg>El contratista podrá rescindir el contrato si</seg>
       </tuv>
     </tu>
     <tu>
@@ -559,10 +623,93 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>if a change to the contractor's legal, financial, technical, &lt;t0/&gt;organisational&lt;t1/&gt; or ownership&lt;t2/&gt; &lt;t3/&gt;situation is likely to substantially affect the &lt;t4/&gt;performance of the contract &lt;t5/&gt;or&lt;t6/&gt; &lt;t7/&gt;substantially&lt;t8/&gt; &lt;t9/&gt;modify&lt;t10/&gt; &lt;t11/&gt;the conditions under&lt;t12/&gt; &lt;t13/&gt;which&lt;t14/&gt; &lt;t15/&gt;the&lt;t16/&gt; &lt;t17/&gt;contract was&lt;t18/&gt; &lt;t19/&gt;initially&lt;t20/&gt; &lt;t21/&gt;awarded;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240514T141623Z" creationid="juanf" creationdate="20240514T141623Z">
+        <seg>(i) si un cambio en la situación jurídica, financiera, técnica, organizativa o de propiedad del contratista puede afectar sustancialmente a la ejecución del contrato o modificar sustancialmente las condiciones en las que se adjudicó inicialmente el contrato;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>if provision of the services under the contract has not actually started within 15 days&lt;t0/&gt; &lt;t1/&gt;of the scheduled date and the contracting authority considers the new date proposed, if&lt;t2/&gt; &lt;t3/&gt;any,&lt;t4/&gt; &lt;t5/&gt;unacceptable, taking into account Article&lt;t6/&gt; &lt;t7/&gt;11.2;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240514T141613Z" creationid="juanf" creationdate="20240514T141613Z">
+        <seg>(a) si la prestación de los servicios objeto del contrato no ha comenzado efectivamente dentro de los 15 días siguientes a la fecha prevista y el órgano de contratación considera inaceptable la nueva fecha propuesta, en su caso, teniendo en cuenta el artículo 11.2;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>if the contractor does not comply with applicable obligations under environmental,&lt;t0/&gt; &lt;t1/&gt;social and &lt;t2/&gt;labour&lt;t3/&gt; law established by Union law, national law, collective agreements or&lt;t4/&gt; &lt;t5/&gt;by the international environmental, social and &lt;t6/&gt;labour&lt;t7/&gt; law provisions listed in Annex X&lt;t8/&gt; &lt;t9/&gt;to&lt;t10/&gt; &lt;t11/&gt;Directive&lt;t12/&gt; &lt;t13/&gt;2014/24/&lt;t14/&gt;EU;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240514T141620Z" creationid="juanf" creationdate="20240514T141620Z">
+        <seg>(g) si el contratista no cumple las obligaciones aplicables en materia de Derecho medioambiental, social y laboral establecidas por el Derecho de la Unión, el Derecho nacional, los convenios colectivos o por las disposiciones internacionales de Derecho medioambiental, social y laboral enumeradas en el anexo X de la Directiva 2014/24/UE;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>if the contractor does not perform the contract in accordance with the tender&lt;t0/&gt; &lt;t1/&gt;specifications&lt;t2/&gt; &lt;t3/&gt;or&lt;t4/&gt; &lt;t5/&gt;is&lt;t6/&gt; &lt;t7/&gt;in&lt;t8/&gt; &lt;t9/&gt;breach&lt;t10/&gt; &lt;t11/&gt;of&lt;t12/&gt; &lt;t13/&gt;another&lt;t14/&gt; &lt;t15/&gt;substantial&lt;t16/&gt; &lt;t17/&gt;contractual&lt;t18/&gt; &lt;t19/&gt;obligation;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240514T141615Z" creationid="juanf" creationdate="20240514T141615Z">
+        <seg>(c) Si el contratista no ejecuta el contrato de conformidad con el pliego de condiciones o incumple otra obligación contractual sustancial;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>if the contractor is unable, through its own fault, to obtain any permit or &lt;t0/&gt;licence&lt;t1/&gt; &lt;t2/&gt;required&lt;t3/&gt; &lt;t4/&gt;for&lt;t5/&gt; &lt;t6/&gt;performance&lt;t7/&gt; &lt;t8/&gt;of the&lt;t9/&gt; &lt;t10/&gt;contract&lt;t11/&gt;;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240514T141614Z" creationid="juanf" creationdate="20240514T141614Z">
+        <seg>(b) Si el contratista no puede obtener, por su culpa, cualquier permiso o licencia necesarios para la ejecución del contrato;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>if the contractor or any &lt;t0/&gt;related person &lt;t1/&gt;is subject to any of the situations provided for&lt;t2/&gt; &lt;t3/&gt;in&lt;t4/&gt; &lt;t5/&gt;points&lt;t6/&gt; &lt;t7/&gt;(c)&lt;t8/&gt; &lt;t9/&gt;to&lt;t10/&gt; &lt;t11/&gt;(f)&lt;t12/&gt; &lt;t13/&gt;of Article&lt;t14/&gt; &lt;t15/&gt;106(1)&lt;t16/&gt; &lt;t17/&gt;or&lt;t18/&gt; &lt;t19/&gt;to&lt;t20/&gt; &lt;t21/&gt;Article&lt;t22/&gt; &lt;t23/&gt;106(2)&lt;t24/&gt; &lt;t25/&gt;of&lt;t26/&gt; &lt;t27/&gt;the Financial&lt;t28/&gt; &lt;t29/&gt;Regulation;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240514T141617Z" creationid="juanf" creationdate="20240514T141617Z">
+        <seg>(d) si el contratista o cualquier persona que asuma una responsabilidad ilimitada por las deudas del contratista se encuentra en una de las situaciones previstas en las letras a) y b) del apartado 1 del artículo 106 del Reglamento financiero5;
+(e) si el contratista o cualquier persona vinculada a él se encuentra en alguna de las situaciones previstas en las letras c) a f) del apartado 1 del artículo 106 o en el apartado 2 del artículo 106 del Reglamento financiero;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>if the contractor or any person that assumes unlimited liability for the debts of the&lt;t0/&gt; &lt;t1/&gt;contractor is in one of the situations provided for in points (a) and (b) of Article 106(1)&lt;t2/&gt; &lt;t3/&gt;of&lt;t4/&gt; &lt;t5/&gt;the&lt;t6/&gt; &lt;t7/&gt;Financial Regulation&lt;t8/&gt;5&lt;t9/&gt;;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240514T141616Z" creationid="juanf" creationdate="20240514T141616Z">
+        <seg>(d) si el contratista o cualquier persona que asuma una responsabilidad ilimitada por las deudas del contratista se encuentra en una de las situaciones previstas en las letras a) y b) del apartado 1 del artículo 106 del Reglamento financiero5;
+(e) si el contratista o cualquier persona vinculada a él se encuentra en alguna de las situaciones previstas en las letras c) a f) del apartado 1 del artículo 106 o en el apartado 2 del artículo 106 del Reglamento financiero;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>if the procedure for awarding the contract or the &lt;t0/&gt;performance of the contract &lt;t1/&gt;proves to&lt;t2/&gt; &lt;t3/&gt;have&lt;t4/&gt; &lt;t5/&gt;been subject to &lt;t6/&gt;substantial errors&lt;t7/&gt;, &lt;t8/&gt;irregularities &lt;t9/&gt;or&lt;t10/&gt; &lt;t11/&gt;fraud&lt;t12/&gt;;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240514T141619Z" creationid="juanf" creationdate="20240514T141619Z">
+        <seg>(a) si se demuestra que el procedimiento de adjudicación o la ejecución del contrato han adolecido de errores sustanciales, irregularidades o fraude;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>if the procedure for awarding the contract or the performance of the contract&lt;t0/&gt; &lt;t1/&gt;proves&lt;t2/&gt; &lt;t3/&gt;to have&lt;t4/&gt; &lt;t5/&gt;been subject&lt;t6/&gt; &lt;t7/&gt;to &lt;t8/&gt;substantial errors,&lt;t9/&gt; &lt;t10/&gt;irregularities or&lt;t11/&gt; &lt;t12/&gt;fraud&lt;t13/&gt;;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T141008Z" creationid="juanf" creationdate="20240514T141008Z">
         <seg>(a) si se demuestra que el procedimiento de adjudicación o la ejecución del contrato han adolecido de errores sustanciales, irregularidades o fraude;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>if&lt;t0/&gt; &lt;t1/&gt;the&lt;t2/&gt; &lt;t3/&gt;contractor&lt;t4/&gt; &lt;t5/&gt;is&lt;t6/&gt; &lt;t7/&gt;in&lt;t8/&gt; &lt;t9/&gt;a&lt;t10/&gt; &lt;t11/&gt;situation&lt;t12/&gt; &lt;t13/&gt;that could&lt;t14/&gt; &lt;t15/&gt;constitute&lt;t16/&gt; &lt;t17/&gt;a&lt;t18/&gt; &lt;t19/&gt;conflict&lt;t20/&gt; &lt;t21/&gt;of&lt;t22/&gt; &lt;t23/&gt;interest &lt;t24/&gt;or a</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240514T141621Z" creationid="juanf" creationdate="20240514T141621Z">
+        <seg>(h) si el contratista se encuentra en una situación que pudiera constituir un conflicto de intereses o un
+conflicto de intereses profesional a que se refiere el artículo 7;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>in the event of &lt;t0/&gt;force majeure&lt;t1/&gt;, where either resuming implementation is impossible or&lt;t2/&gt; &lt;t3/&gt;the necessary ensuing amendments to the contract would mean that the tender&lt;t4/&gt; &lt;t5/&gt;specifications are no longer fulfilled or result in unequal treatment of tenderers or&lt;t6/&gt; &lt;t7/&gt;contractors.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240514T141623Z" creationid="juanf" creationdate="20240514T141623Z">
+        <seg>(j) en caso de fuerza mayor, cuando, o bien la reanudación de la ejecución sea imposible, o bien las consiguientes modificaciones necesarias del contrato impliquen que dejen de cumplirse las especificaciones de la licitación o den lugar a un trato desigual de los licitadores o contratistas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -572,6 +719,30 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T141126Z" creationid="juanf" creationdate="20240514T141010Z">
         <seg>(b) con el fin de comprobar si los presuntos errores sustanciales, irregularidades o fraudes
 se han producido realmente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>it has evidence that the contracting authority has committed &lt;t0/&gt;substantial errors&lt;t1/&gt;,&lt;t2/&gt; &lt;t3/&gt;irregularities &lt;t4/&gt;or &lt;t5/&gt;fraud &lt;t6/&gt;in the procedure for awarding the contract or the &lt;t7/&gt;performance&lt;t8/&gt; &lt;t9/&gt;of&lt;t10/&gt; &lt;t11/&gt;the&lt;t12/&gt; &lt;t13/&gt;contract&lt;t14/&gt;;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240514T141627Z" creationid="juanf" creationdate="20240514T141627Z">
+        <seg>(a) tiene pruebas de que el poder adjudicador ha cometido errores sustanciales, irregularidades o fraude en el procedimiento de adjudicación o en la ejecución del contrato;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>it intends to terminate the contract under point (f) or (j) of Article 17.1.&lt;t0/&gt; &lt;t1/&gt;The&lt;t2/&gt; &lt;t3/&gt;contractor&lt;t4/&gt; &lt;t5/&gt;is&lt;t6/&gt; &lt;t7/&gt;not entitled&lt;t8/&gt; &lt;t9/&gt;to&lt;t10/&gt; &lt;t11/&gt;compensation for suspension&lt;t12/&gt; &lt;t13/&gt;of&lt;t14/&gt; &lt;t15/&gt;any&lt;t16/&gt; &lt;t17/&gt;part&lt;t18/&gt; &lt;t19/&gt;of the&lt;t20/&gt; &lt;t21/&gt;contract.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240514T141610Z" creationid="juanf" creationdate="20240514T141610Z">
+        <seg>El contratista no tiene derecho a indemnización por la suspensión de ninguna parte del contrato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>it&lt;t0/&gt; &lt;t1/&gt;is lifting&lt;t2/&gt; &lt;t3/&gt;the&lt;t4/&gt; &lt;t5/&gt;suspension; or</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240514T141609Z" creationid="juanf" creationdate="20240514T141609Z">
+        <seg>(a) si levanta la suspensión; o</seg>
       </tuv>
     </tu>
     <tu>
@@ -600,6 +771,15 @@ se han producido realmente</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>professional&lt;t0/&gt; &lt;t1/&gt;conflicting&lt;t2/&gt; &lt;t3/&gt;interest&lt;t4/&gt; &lt;t5/&gt;as&lt;t6/&gt; &lt;t7/&gt;referred&lt;t8/&gt; &lt;t9/&gt;to&lt;t10/&gt; &lt;t11/&gt;in&lt;t12/&gt; &lt;t13/&gt;Article&lt;t14/&gt; &lt;t15/&gt;7;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240514T141621Z" creationid="juanf" creationdate="20240514T141621Z">
+        <seg>(h) si el contratista se encuentra en una situación que pudiera constituir un conflicto de intereses o un
+conflicto de intereses profesional a que se refiere el artículo 7;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>that the &lt;t0/&gt;results &lt;t1/&gt;be adapted, provided that this is done in a manner which is not&lt;t2/&gt; &lt;t3/&gt;prejudicial&lt;t4/&gt; &lt;t5/&gt;to the&lt;t6/&gt; &lt;t7/&gt;creator&lt;t8/&gt;'s &lt;t9/&gt;honour&lt;t10/&gt; &lt;t11/&gt;or&lt;t12/&gt; &lt;t13/&gt;reputation.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T140847Z" creationid="juanf" creationdate="20240514T140847Z">
@@ -620,6 +800,14 @@ se han producido realmente</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T140845Z" creationid="juanf" creationdate="20240514T140845Z">
         <seg>(a) que se mencionen o no sus nombres cuando se presenten los resultados al público;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the contracting authority fails to comply with its obligations, in particular the&lt;t0/&gt; &lt;t1/&gt;obligation to provide the information needed for the contractor to perform the contract&lt;t2/&gt; &lt;t3/&gt;as&lt;t4/&gt; &lt;t5/&gt;provided for&lt;t6/&gt; &lt;t7/&gt;in the&lt;t8/&gt; &lt;t9/&gt;tender&lt;t10/&gt; &lt;t11/&gt;specifications.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240514T141627Z" creationid="juanf" creationdate="20240514T141627Z">
+        <seg>(b) el poder adjudicador incumple sus obligaciones, en particular la obligación de facilitar la información necesaria para que el contratista ejecute el contrato según lo previsto en el pliego de condiciones.</seg>
       </tuv>
     </tu>
     <tu>
