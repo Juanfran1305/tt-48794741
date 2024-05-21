@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t5/&gt;The electronic&lt;t6/&gt; &lt;t7/&gt;systems are specified in&lt;t8/&gt; &lt;t9/&gt;the Supplier&lt;t10/&gt; &lt;t11/&gt;Portal&lt;t12/&gt; &lt;t13/&gt;Overview&lt;t14/&gt;2&lt;t15/&gt; &lt;t16/&gt;and e-Invoicing&lt;t17/&gt; &lt;t18/&gt;User&lt;t19/&gt; &lt;t20/&gt;Manual&lt;t21/&gt;3&lt;t22/&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135631Z" creationid="usuario" creationdate="20240521T135631Z">
+        <seg>Los sistemas electrónicos se especifican en el Panorama General del Portal del Proveedor2 y en el Manual del Usuario de Facturación Electrónica3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A &lt;t8/&gt;result &lt;t9/&gt;may, in addition to&lt;t10/&gt; &lt;t11/&gt;materials&lt;t12/&gt; &lt;t13/&gt;produced&lt;t14/&gt; &lt;t15/&gt;by&lt;t16/&gt; &lt;t17/&gt;the&lt;t18/&gt; &lt;t19/&gt;contractor&lt;t20/&gt; &lt;t21/&gt;or at its&lt;t22/&gt; &lt;t23/&gt;request, also&lt;t24/&gt; &lt;t25/&gt;include&lt;t26/&gt; &lt;t27/&gt;pre-existing&lt;t28/&gt; &lt;t29/&gt;materials&lt;t30/&gt;;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240521T140926Z" creationid="alumno" creationdate="20240514T141548Z">
@@ -95,6 +103,22 @@ conflicto de intereses profesional a que se refiere el artículo 7;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After the end of the one-&lt;t8/&gt; &lt;t9/&gt;year period copies of the financial documents will no longer be available for automatic&lt;t10/&gt; &lt;t11/&gt;download&lt;t12/&gt; &lt;t13/&gt;from the&lt;t14/&gt; &lt;t15/&gt;system.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135723Z" creationid="usuario" creationdate="20240521T135723Z">
+        <seg>Una vez transcurrido el plazo de un año, las copias de los documentos financieros dejarán de estar disponibles para su descarga automática desde el sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All &lt;t0/&gt;EDI messages &lt;t1/&gt;exchanged by the parties must be stored by each party, unaltered and&lt;t2/&gt; &lt;t3/&gt;securely, in accordance with the time limits and specifications prescribed by the applicable&lt;t4/&gt; &lt;t5/&gt;legislative&lt;t6/&gt; &lt;t7/&gt;requirements.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135723Z" creationid="usuario" creationdate="20240521T135723Z">
+        <seg>Todos los mensajes EDI intercambiados por las partes deberán ser almacenados por cada una de ellas, de forma inalterada y segura, de conformidad con los plazos y especificaciones prescritos por los requisitos legislativos aplicables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All deliveries must be made to the agreed place of delivery&lt;t4/&gt; &lt;t5/&gt;during&lt;t6/&gt; &lt;t7/&gt;the&lt;t8/&gt; &lt;t9/&gt;hours indicated in the&lt;t10/&gt; &lt;t11/&gt;purchase&lt;t12/&gt; &lt;t13/&gt;order.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alumno" changedate="20240514T142146Z" creationid="alumno" creationdate="20240514T142146Z">
@@ -103,10 +127,26 @@ conflicto de intereses profesional a que se refiere el artículo 7;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All periods specified in the contract are calculated in calendar days, unless otherwise&lt;t0/&gt; &lt;t1/&gt;specified.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240503T154312Z" creationid="usuario" creationdate="20240503T154312Z">
+        <seg>Todos loas fechas especificadas en el contrato son calculadas en días del calendario, salvo que se indique otra cosa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All rights reserved.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20240514T140716Z" creationid="OmegaT Aligner" creationdate="20240514T140716Z">
         <seg>Todos los derechos reservados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An email is deemed to have been received by the receiving party on the day of dispatch of&lt;t0/&gt; &lt;t1/&gt;that email, provided that it is sent to the email address indicated in the purchase order.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135626Z" creationid="usuario" creationdate="20240521T135626Z">
+        <seg>Un correo electrónico se considera recibido por la parte receptora el día de envío de dicho correo, siempre que se envíe a la dirección de correo electrónico indicada en la orden de compra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -120,10 +160,26 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any communication is deemed to have been made when the receiving party receives &lt;t0/&gt;it,&lt;t1/&gt; &lt;t2/&gt;unless&lt;t3/&gt; &lt;t4/&gt;the&lt;t5/&gt; &lt;t6/&gt;purchase&lt;t7/&gt; &lt;t8/&gt;order refers to the&lt;t9/&gt; &lt;t10/&gt;date&lt;t11/&gt; &lt;t12/&gt;when the&lt;t13/&gt; &lt;t14/&gt;communication was sent.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135625Z" creationid="usuario" creationdate="20240521T135625Z">
+        <seg>Toda comunicación se considerará realizada en el momento en que la parte receptora la reciba, salvo que la orden de compra haga referencia a la fecha de envío de la comunicación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Any lack of conformity resulting from incorrect installation of the supplies must be deemed&lt;t0/&gt; &lt;t1/&gt;to be equivalent to lack of conformity of the supplies if installation was provided for by the&lt;t2/&gt; &lt;t3/&gt;purchase order and the supplies were installed by the contractor or under its responsibility.&lt;t4/&gt; &lt;t5/&gt;This applies equally if the product was to be installed by the contracting authority and was&lt;t6/&gt; &lt;t7/&gt;incorrectly&lt;t8/&gt; &lt;t9/&gt;installed owing&lt;t10/&gt; &lt;t11/&gt;to a&lt;t12/&gt; &lt;t13/&gt;shortcoming&lt;t14/&gt; &lt;t15/&gt;in the&lt;t16/&gt; &lt;t17/&gt;installation instructions.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alumno" changedate="20240514T143220Z" creationid="alumno" creationdate="20240514T143220Z">
         <seg>Cualquier falta de conformidad resultante de una instalación incorrecta de los suministros deberá considerarse equivalente a una falta de conformidad de los suministros si la instalación estaba prevista en la orden de compra y los suministros fueron instalados por el contratista o bajo su responsabilidad. Esto se aplica igualmente si el producto debía ser instalado por la entidad adjudicadora y se instaló incorrectamente debido a una deficiencia en las instrucciones de instalación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any reduction in price does not affect the contractor's actual or potential liability or the&lt;t0/&gt; &lt;t1/&gt;contracting&lt;t2/&gt; &lt;t3/&gt;authority's rights under&lt;t4/&gt; &lt;t5/&gt;Article&lt;t6/&gt; &lt;t7/&gt;17.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240430T135235Z" creationid="usuario" creationdate="20240430T135235Z">
+        <seg>Cualquier reducción del precio no afectará a la responsabilidad real o potencial del contratista ni a los derechos del poder adjudicador en virtud de Articulo 17.</seg>
       </tuv>
     </tu>
     <tu>
@@ -136,10 +192,35 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any&lt;t0/&gt; &lt;t1/&gt;communication of&lt;t2/&gt; &lt;t3/&gt;information, notices&lt;t4/&gt; &lt;t5/&gt;or&lt;t6/&gt; &lt;t7/&gt;documents under&lt;t8/&gt; &lt;t9/&gt;the&lt;t10/&gt; &lt;t11/&gt;purchase&lt;t12/&gt; &lt;t13/&gt;order&lt;t14/&gt; &lt;t15/&gt;must:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135621Z" creationid="usuario" creationdate="20240521T135621Z">
+        <seg>Toda comunicación de información, avisos o documentos en virtud de la orden de compra deberá:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>At&lt;t0/&gt; &lt;t1/&gt;the&lt;t2/&gt; &lt;t3/&gt;contracting&lt;t4/&gt; &lt;t5/&gt;authority's&lt;t6/&gt; &lt;t7/&gt;reasoned request,&lt;t8/&gt; &lt;t9/&gt;the&lt;t10/&gt; &lt;t11/&gt;contractor&lt;t12/&gt; &lt;t13/&gt;must replace any&lt;t14/&gt; &lt;t15/&gt;member&lt;t16/&gt; &lt;t17/&gt;of</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135612Z" creationid="usuario" creationdate="20240521T135612Z">
+        <seg>A petición motivada del órgano de contratación, el contratista deberá sustituir a cualquier miembro del
+personal que:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By delivering the &lt;t0/&gt;results&lt;t1/&gt;, the contractor warrants that the &lt;t2/&gt;creators &lt;t3/&gt;will not object to the&lt;t4/&gt; &lt;t5/&gt;following&lt;t6/&gt; &lt;t7/&gt;on the&lt;t8/&gt; &lt;t9/&gt;basis of&lt;t10/&gt; &lt;t11/&gt;their&lt;t12/&gt; &lt;t13/&gt;moral rights under&lt;t14/&gt; &lt;t15/&gt;copyright:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T140844Z" creationid="juanf" creationdate="20240514T140844Z">
         <seg>Al entregar los resultados, el contratista garantiza que los creadores no se opondrán a lo siguiente en virtud de sus derechos morales de autor:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>COMMUNICATION&lt;t0/&gt; &lt;t1/&gt;BETWEEN&lt;t2/&gt; &lt;t3/&gt;THE&lt;t4/&gt; &lt;t5/&gt;PARTIES</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135620Z" creationid="usuario" creationdate="20240521T135620Z">
+        <seg>COMUNICACIÓN ENTRE LAS PARTES</seg>
       </tuv>
     </tu>
     <tu>
@@ -176,10 +257,26 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Contractors who are natural persons are required to provide proof of their status as a self-&lt;t0/&gt; &lt;t1/&gt;employed person.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240503T153128Z" creationid="usuario" creationdate="20240503T153128Z">
+        <seg>Se requiere que los contratantes que son personas físicas aporten pruebas de su estátus de autónomos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copyright&lt;t0/&gt; &lt;t1/&gt;notice&lt;t2/&gt; &lt;t3/&gt;for&lt;t4/&gt; &lt;t5/&gt;pre-existing&lt;t6/&gt; &lt;t7/&gt;rights</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T140911Z" creationid="juanf" creationdate="20240514T140911Z">
         <seg>Notificación de derechos preexistentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Date&lt;t0/&gt; &lt;t1/&gt;of&lt;t2/&gt; &lt;t3/&gt;communications&lt;t4/&gt; &lt;t5/&gt;by&lt;t6/&gt; &lt;t7/&gt;post&lt;t8/&gt; &lt;t9/&gt;and&lt;t10/&gt; &lt;t11/&gt;email</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135624Z" creationid="usuario" creationdate="20240521T135624Z">
+        <seg>Fecha de las comunicaciones por correo postal y electrónico</seg>
       </tuv>
     </tu>
     <tu>
@@ -240,6 +337,38 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For communication of financial &lt;t0/&gt;documents&lt;t1/&gt; the parties agree that the contractor will either&lt;t2/&gt; &lt;t3/&gt;use&lt;t4/&gt; &lt;t5/&gt;the&lt;t6/&gt; &lt;t7/&gt;supplier portal &lt;t8/&gt;or&lt;t9/&gt; &lt;t10/&gt;take&lt;t11/&gt; &lt;t12/&gt;the&lt;t13/&gt; &lt;t14/&gt;necessary&lt;t15/&gt; &lt;t16/&gt;measures to use&lt;t17/&gt; &lt;t18/&gt;EDI.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135629Z" creationid="usuario" creationdate="20240521T135629Z">
+        <seg>Para la comunicación de los documentos financieros, las partes acuerdan que el contratista utilizará el portal del proveedor o tomará las medidas necesarias para utilizar el EDI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For that &lt;t2/&gt;purpose&lt;t3/&gt; they must submit supporting documents concerning their&lt;t4/&gt; &lt;t5/&gt;social&lt;t6/&gt; &lt;t7/&gt;security&lt;t8/&gt; &lt;t9/&gt;cover&lt;t10/&gt; &lt;t11/&gt;and&lt;t12/&gt; &lt;t13/&gt;value&lt;t14/&gt; &lt;t15/&gt;added tax&lt;t16/&gt; &lt;t17/&gt;(VAT)&lt;t18/&gt; &lt;t19/&gt;status.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240503T153900Z" creationid="usuario" creationdate="20240503T153256Z">
+        <seg>Con esa finalidad ellos deben de presentar docuementos sobre su covertura de la seguridad social y el estátus del Impuesto sobre el Valor Añadido (IVA).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Form&lt;t0/&gt; &lt;t1/&gt;and&lt;t2/&gt; &lt;t3/&gt;means&lt;t4/&gt; &lt;t5/&gt;of&lt;t6/&gt; &lt;t7/&gt;communication</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135621Z" creationid="usuario" creationdate="20240521T135621Z">
+        <seg>Forma y medios de comunicación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Formal notifications &lt;t0/&gt;are considered to have been received by the receiving party on the date&lt;t1/&gt; &lt;t2/&gt;of receipt indicated in the proof received by the sending party that the message has been&lt;t3/&gt; &lt;t4/&gt;delivered&lt;t5/&gt; &lt;t6/&gt;to the&lt;t7/&gt; &lt;t8/&gt;specified&lt;t9/&gt; &lt;t10/&gt;recipient.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135628Z" creationid="usuario" creationdate="20240521T135628Z">
+        <seg>Las notificaciones formales se consideran recibidas por la parte destinataria en la fecha de recepción indicada en el justificante recibido por la parte remitente de que el mensaje ha sido entregado al destinatario especificado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Grounds&lt;t0/&gt; &lt;t1/&gt;for&lt;t2/&gt; &lt;t3/&gt;termination&lt;t4/&gt; &lt;t5/&gt;by&lt;t6/&gt; &lt;t7/&gt;the&lt;t8/&gt; &lt;t9/&gt;contracting&lt;t10/&gt; &lt;t11/&gt;authority</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T141612Z" creationid="juanf" creationdate="20240514T141612Z">
@@ -256,10 +385,34 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However,&lt;t6/&gt; &lt;t7/&gt;if the damage or loss is caused by the gross negligence or &lt;t8/&gt;wilful&lt;t9/&gt; misconduct of the&lt;t10/&gt; &lt;t11/&gt;contractor or of its &lt;t12/&gt;personnel &lt;t13/&gt;or subcontractors, the contractor is liable for the whole amount&lt;t14/&gt; &lt;t15/&gt;of&lt;t16/&gt; &lt;t17/&gt;the&lt;t18/&gt; &lt;t19/&gt;damage&lt;t20/&gt; &lt;t21/&gt;or&lt;t22/&gt; &lt;t23/&gt;loss.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T141311Z" creationid="usuario" creationdate="20240521T141311Z">
+        <seg>No obstante, si los daños o perjuicios son causados por negligencia grave o dolo del contratista o de su personal o subcontratistas, el contratista será responsable de la totalidad del importe de los daños o perjuicios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Identification&lt;t0/&gt; &lt;t1/&gt;of&lt;t2/&gt; &lt;t3/&gt;pre-existing&lt;t4/&gt; &lt;t5/&gt;rights</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240430T133632Z" creationid="juanf" creationdate="20240430T133632Z">
         <seg>Identificación de los derechos preexistentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If a &lt;t0/&gt;party requests&lt;t1/&gt; written confirmation of an email within a reasonable time, the other party&lt;t2/&gt; &lt;t3/&gt;must&lt;t4/&gt; &lt;t5/&gt;provide&lt;t6/&gt; &lt;t7/&gt;an original&lt;t8/&gt; &lt;t9/&gt;signed paper&lt;t10/&gt; &lt;t11/&gt;version&lt;t12/&gt; &lt;t13/&gt;of&lt;t14/&gt; &lt;t15/&gt;the&lt;t16/&gt; &lt;t17/&gt;communication as&lt;t18/&gt; &lt;t19/&gt;soon&lt;t20/&gt; &lt;t21/&gt;as possible.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135623Z" creationid="usuario" creationdate="20240521T135623Z">
+        <seg>Si una de las partes solicita confirmación por escrito de un correo electrónico en un plazo razonable, la otra parte deberá proporcionar una versión original firmada en papel de la comunicación lo antes posible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If a defect is found to originate in a systematic flaw in design, the contractor must replace or&lt;t0/&gt; &lt;t1/&gt;modify all identical parts incorporated in the other supplies that are part of the order, even&lt;t2/&gt; &lt;t3/&gt;though they may not have been the cause of any incident.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240426T153131Z" creationid="usuario" creationdate="20240426T153131Z">
+        <seg>Si se encuentra un defecto que origine un fallo sistemático en el diseño, el contratador debe de reemplazar o modificar todas las partes idénticas incorporadas en los otros sumininstros que son parte del orden, incluso si no han sido la causa de un incidente, En este caso, la garantia del periodo debe de ser extendida como se indica anteriormente. </seg>
       </tuv>
     </tu>
     <tu>
@@ -280,6 +433,30 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If communication via the &lt;t0/&gt;supplier portal &lt;t1/&gt;or the EDI communication, as appropriate, is&lt;t2/&gt; &lt;t3/&gt;hindered by factors beyond the control of one party, it must notify the other immediately and&lt;t4/&gt; &lt;t5/&gt;the&lt;t6/&gt; &lt;t7/&gt;parties must take&lt;t8/&gt; &lt;t9/&gt;the necessary&lt;t10/&gt; &lt;t11/&gt;measures to restore&lt;t12/&gt; &lt;t13/&gt;this&lt;t14/&gt; &lt;t15/&gt;communication.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135632Z" creationid="usuario" creationdate="20240521T135632Z">
+        <seg>Si la comunicación a través del portal del proveedor o la comunicación EDI, según proceda, se ve obstaculizada por factores ajenos a la voluntad de una de las partes, ésta deberá notificarlo inmediatamente a la otra y las partes deberán adoptar las medidas necesarias para restablecer dicha comunicación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If it is impossible for the contractor to have the communication restored within a period of&lt;t0/&gt; &lt;t1/&gt;two working days, the contractor will notify the contracting authority that an alternative&lt;t2/&gt; &lt;t3/&gt;messaging form will be used, i.e. paper messaging or email, until the &lt;t4/&gt;supplier portal &lt;t5/&gt;or EDI&lt;t6/&gt; &lt;t7/&gt;communication,&lt;t8/&gt; &lt;t9/&gt;as appropriate, is restored.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135637Z" creationid="usuario" creationdate="20240521T135637Z">
+        <seg>Si al contratista le resulta imposible restablecer la comunicación en un plazo de dos días laborables, notificará al órgano de contratación que se utilizará una forma alternativa de mensajería, es decir, mensajería en papel o correo electrónico, hasta que se restablezca la comunicación a través del portal del proveedor o EDI, según proceda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If it is impossible to have the &lt;t0/&gt;supplier portal &lt;t1/&gt;or the EDI communication restored within a&lt;t2/&gt; &lt;t3/&gt;period of two working days, the contracting authority will notify the contractor that an&lt;t4/&gt; &lt;t5/&gt;alternative messaging form will be used, i.e. paper messaging or email, until the &lt;t6/&gt;supplier&lt;t7/&gt; &lt;t8/&gt;portal&lt;t9/&gt; &lt;t10/&gt;or&lt;t11/&gt; &lt;t12/&gt;EDI&lt;t13/&gt; &lt;t14/&gt;communication, as appropriate, is restored.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135633Z" creationid="usuario" creationdate="20240521T135633Z">
+        <seg>Si resulta imposible restablecer el portal del proveedor o la comunicación EDI en un plazo de dos días laborables, el poder adjudicador notificará al contratista que se utilizará una forma alternativa de mensajería, es decir, mensajería en papel o correo electrónico, hasta que se restablezca el portal del proveedor o la comunicación EDI, según proceda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If moral rights on parts of the &lt;t0/&gt;results &lt;t1/&gt;protected by copyright exist, the contractor must obtain&lt;t2/&gt; &lt;t3/&gt;the consent of &lt;t4/&gt;creators &lt;t5/&gt;regarding the granting or waiver of the relevant moral rights in&lt;t6/&gt; &lt;t7/&gt;accordance with the applicable legal provisions and be ready to provide documentary&lt;t8/&gt; &lt;t9/&gt;evidence&lt;t10/&gt; &lt;t11/&gt;upon&lt;t12/&gt; &lt;t13/&gt;request.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T140848Z" creationid="juanf" creationdate="20240514T140848Z">
@@ -296,6 +473,14 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If part of an item is replaced, the replacement part must be guaranteed under the same terms&lt;t0/&gt; &lt;t1/&gt;and&lt;t2/&gt; &lt;t3/&gt;conditions for&lt;t4/&gt; &lt;t5/&gt;a&lt;t6/&gt; &lt;t7/&gt;further&lt;t8/&gt; &lt;t9/&gt;period of&lt;t10/&gt; &lt;t11/&gt;the&lt;t12/&gt; &lt;t13/&gt;same&lt;t14/&gt; &lt;t15/&gt;duration&lt;t16/&gt; &lt;t17/&gt;as that specified&lt;t18/&gt; &lt;t19/&gt;above.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240426T152839Z" creationid="usuario" creationdate="20240426T152839Z">
+        <seg>Si se replaza parte de un elemento, la parte remplazante debe de estar garantizada bajo los mismos términos y condiciones por un periodo más largo de una mismo duración a la especificada anteriormente. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If required by the purchase order, the contractor must assemble the supplies delivered within&lt;t0/&gt; &lt;t1/&gt;a&lt;t2/&gt; &lt;t3/&gt;period of&lt;t4/&gt; &lt;t5/&gt;one&lt;t6/&gt; &lt;t7/&gt;month unless otherwise&lt;t8/&gt; &lt;t9/&gt;specified&lt;t10/&gt; &lt;t11/&gt;in the&lt;t12/&gt; &lt;t13/&gt;purchase&lt;t14/&gt; &lt;t15/&gt;order.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alumno" changedate="20240514T143159Z" creationid="alumno" creationdate="20240514T143159Z">
@@ -304,10 +489,26 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If required by the relevant applicable legislation, the contractor must take out an insurance&lt;t0/&gt; &lt;t1/&gt;policy against risks and damage or loss relating to the &lt;t2/&gt;performance of the contract&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135728Z" creationid="usuario" creationdate="20240521T135728Z">
+        <seg>Si así lo exige la legislación aplicable, el contratista deberá suscribir una póliza de seguro contra los riesgos y daños o pérdidas relacionados con la ejecución del contrato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the contractor fails to perform its contractual obligations within the applicable time limits&lt;t0/&gt; &lt;t1/&gt;set out in the contract, the contracting authority may claim liquidated damages for each day&lt;t2/&gt; &lt;t3/&gt;of&lt;t4/&gt; &lt;t5/&gt;delay&lt;t6/&gt; &lt;t7/&gt;using&lt;t8/&gt; &lt;t9/&gt;the&lt;t10/&gt; &lt;t11/&gt;following&lt;t12/&gt; &lt;t13/&gt;formula:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T140934Z" creationid="juanf" creationdate="20240514T140934Z">
         <seg>Retraso en la entrega Si el contratista no cumple sus obligaciones contractuales dentro de los plazos aplicables establecidos en el contrato, la Autoridad Contratante podrá reclamar daños y perjuicios liquidados por cada día de retraso utilizando la siguiente fórmula:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the contractor fails to provide the service in accordance with the contract ('unperformed&lt;t0/&gt; &lt;t1/&gt;obligations') or&lt;t2/&gt; &lt;t3/&gt;if&lt;t4/&gt; &lt;t5/&gt;it&lt;t6/&gt; &lt;t7/&gt;fails&lt;t8/&gt; &lt;t9/&gt;to&lt;t10/&gt; &lt;t11/&gt;provide the&lt;t12/&gt; &lt;t13/&gt;service&lt;t14/&gt; &lt;t15/&gt;in&lt;t16/&gt; &lt;t17/&gt;accordance&lt;t18/&gt; &lt;t19/&gt;with&lt;t20/&gt; &lt;t21/&gt;the&lt;t22/&gt; &lt;t23/&gt;expected&lt;t24/&gt; &lt;t25/&gt;quality&lt;t26/&gt; &lt;t27/&gt;levels specified in the tender specifications ('low-quality delivery'), the contracting authority&lt;t28/&gt; &lt;t29/&gt;may reduce or recover payments proportionally to the seriousness of the unperformed&lt;t30/&gt; &lt;t31/&gt;obligations or low-quality delivery.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240430T134819Z" creationid="usuario" creationdate="20240430T134819Z">
+        <seg>Si el contratista no presta el servicio de conformidad con el contrato ("obligaciones incumplidas") o si no presta el servicio de conformidad con los niveles de calidad esperados especificados en el pliego de condiciones ("prestación de baja calidad"), el poder adjudicador podrá reducir o recuperar los pagos proporcionalmente a la gravedad de las obligaciones incumplidas o de la prestación de baja calidad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -336,6 +537,14 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the use of safety measures and procedures leads to the rejection of or detection of one or&lt;t0/&gt; &lt;t1/&gt;more errors in an &lt;t2/&gt;EDI message&lt;t3/&gt;, the receiver must inform the sender thereof as soon as&lt;t4/&gt; &lt;t5/&gt;possible,&lt;t6/&gt; &lt;t7/&gt;but at the&lt;t8/&gt; &lt;t9/&gt;latest within two calendar&lt;t10/&gt; &lt;t11/&gt;days.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135725Z" creationid="usuario" creationdate="20240521T135725Z">
+        <seg>Si la aplicación de medidas y procedimientos de seguridad conduce al rechazo o detección de uno o más errores en un mensaje de EDI, el receptor debe informar de ello al remitente lo antes posible, y a más tardar en el plazo de dos días naturales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If, for reasons attributable to the contractor, the contracting authority is unable to accept the&lt;t0/&gt; &lt;t1/&gt;supplies,&lt;t2/&gt; &lt;t3/&gt;the&lt;t4/&gt; &lt;t5/&gt;contractor must be&lt;t6/&gt; &lt;t7/&gt;notified&lt;t8/&gt; &lt;t9/&gt;at the&lt;t10/&gt; &lt;t11/&gt;latest by&lt;t12/&gt; &lt;t13/&gt;the&lt;t14/&gt; &lt;t15/&gt;deadline&lt;t16/&gt; &lt;t17/&gt;for&lt;t18/&gt; &lt;t19/&gt;conformity.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alumno" changedate="20240514T142357Z" creationid="alumno" creationdate="20240514T142357Z">
@@ -352,10 +561,26 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In all cases the parties must strive to prevent third parties from obtaining &lt;t0/&gt;unauthorised&lt;t1/&gt; &lt;t2/&gt;access&lt;t3/&gt; &lt;t4/&gt;to messages.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135724Z" creationid="usuario" creationdate="20240521T135724Z">
+        <seg>En todos los casos, las partes deberán esforzarse por impedir que terceros obtengan acceso no autorizado a los mensajes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In such a case, the contractor must inform the&lt;t14/&gt; &lt;t15/&gt;contracting authority before making such a choice and the contracting authority has the right&lt;t16/&gt; &lt;t17/&gt;to&lt;t18/&gt; &lt;t19/&gt;refuse&lt;t20/&gt; &lt;t21/&gt;it.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T140018Z" creationid="juanf" creationdate="20240514T140018Z">
         <seg>En tal caso, el contratista deberá informar a la autoridad contratante antes de tomar una decisión como esa y la autoridad contratante tiene el derecho de rechazarla. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In such a case, the sending party is&lt;t8/&gt; &lt;t9/&gt;not&lt;t10/&gt; &lt;t11/&gt;held&lt;t12/&gt; &lt;t13/&gt;in&lt;t14/&gt; &lt;t15/&gt;breach&lt;t16/&gt; &lt;t17/&gt;of&lt;t18/&gt; &lt;t19/&gt;its&lt;t20/&gt; &lt;t21/&gt;obligation&lt;t22/&gt; &lt;t23/&gt;to&lt;t24/&gt; &lt;t25/&gt;send&lt;t26/&gt; &lt;t27/&gt;such&lt;t28/&gt; &lt;t29/&gt;communication&lt;t30/&gt; &lt;t31/&gt;within&lt;t32/&gt; &lt;t33/&gt;a&lt;t34/&gt; &lt;t35/&gt;specified&lt;t36/&gt; &lt;t37/&gt;deadline.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135627Z" creationid="usuario" creationdate="20240521T135627Z">
+        <seg>En tal caso, no se considera que la parte remitente haya incumplido su obligación de enviar dicha comunicación dentro de un plazo determinado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -376,10 +601,42 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the event that the sending party&lt;t4/&gt; &lt;t5/&gt;receives a non-delivery report, it must make every effort to ensure that the other party&lt;t6/&gt; &lt;t7/&gt;actually receives the communication by email or post.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135627Z" creationid="usuario" creationdate="20240521T135627Z">
+        <seg>En caso de que la parte remitente reciba un informe de no entrega, deberá hacer todo lo posible para garantizar que la otra parte recibe efectivamente la comunicación por correo electrónico o postal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the framework of its employment or service relationships with its &lt;t0/&gt;personnel &lt;t1/&gt;the contractor&lt;t2/&gt; &lt;t3/&gt;must&lt;t4/&gt; &lt;t5/&gt;indicate&lt;t6/&gt; &lt;t7/&gt;that</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240503T155102Z" creationid="usuario" creationdate="20240503T155102Z">
+        <seg>En la infraestructura de el empleo o servicio de relaciones con su personal el contrante debe de indicar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In&lt;t0/&gt; &lt;t1/&gt;the&lt;t2/&gt; &lt;t3/&gt;event&lt;t4/&gt; &lt;t5/&gt;of&lt;t6/&gt; &lt;t7/&gt;a&lt;t8/&gt; &lt;t9/&gt;joint&lt;t10/&gt; &lt;t11/&gt;tender&lt;t12/&gt; &lt;t13/&gt;submitted&lt;t14/&gt; &lt;t15/&gt;by&lt;t16/&gt; &lt;t17/&gt;a&lt;t18/&gt; &lt;t19/&gt;group&lt;t20/&gt; &lt;t21/&gt;of&lt;t22/&gt; &lt;t23/&gt;economic&lt;t24/&gt; &lt;t25/&gt;operators&lt;t26/&gt; &lt;t27/&gt;and&lt;t28/&gt; &lt;t29/&gt;where&lt;t30/&gt; &lt;t31/&gt;the&lt;t32/&gt; &lt;t33/&gt;group does not have legal personality or legal capacity, one member of the group is appointed&lt;t34/&gt; &lt;t35/&gt;as&lt;t36/&gt; &lt;t37/&gt;leader&lt;t38/&gt; &lt;t39/&gt;of&lt;t40/&gt; &lt;t41/&gt;the&lt;t42/&gt; &lt;t43/&gt;group.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alumno" changedate="20240514T141640Z" creationid="alumno" creationdate="20240514T141640Z">
         <seg>En caso de oferta conjunta presentada por una agrupación de operadores económicos y cuando la agrupación no tenga personalidad jurídica o capacidad jurídica, se designa a un miembro de la agrupación como líder de la misma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It must&lt;t4/&gt; &lt;t5/&gt;also take out supplementary insurance as reasonably required by standard practice in the&lt;t6/&gt; &lt;t7/&gt;industry.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135728Z" creationid="usuario" creationdate="20240521T135728Z">
+        <seg>Asimismo, deberá suscribir los seguros complementarios que razonablemente exija la práctica habitual en el sector.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LIABILITY</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135852Z" creationid="OmegaT Aligner" creationdate="20240506T074035Z">
+        <seg>RESPONSABILIDAD</seg>
       </tuv>
     </tu>
     <tu>
@@ -432,6 +689,34 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please see&lt;t0/&gt; &lt;t1/&gt;http://ec.europa.eu/dgs/informatics/supplier_portal/doc/um_supplier_portal_overview.pdf</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135634Z" creationid="usuario" creationdate="20240521T135634Z">
+        <seg>2 Véase http://ec.europa.eu/dgs/informatics/supplier_portal/doc/um_supplier_portal_overview.pdf
+3 Véase http://ec.europa.eu/dgs/informatics/supplier_portal/doc/um_sp_e-invoicing.pdf
+4 El documento puede consultarse en https://circabc.europa.eu/w/browse/5290b7b0- 8ca8-454b-87eb-0ac990362861</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please&lt;t0/&gt; &lt;t1/&gt;see&lt;t2/&gt; &lt;t3/&gt;http://ec.europa.eu/dgs/informatics/supplier_portal/doc/um_sp_e-invoicing.pdf</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135635Z" creationid="usuario" creationdate="20240521T135635Z">
+        <seg>2 Véase http://ec.europa.eu/dgs/informatics/supplier_portal/doc/um_supplier_portal_overview.pdf
+3 Véase http://ec.europa.eu/dgs/informatics/supplier_portal/doc/um_sp_e-invoicing.pdf
+4 El documento puede consultarse en https://circabc.europa.eu/w/browse/5290b7b0- 8ca8-454b-87eb-0ac990362861</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Post sent to the contracting authority is deemed to have been received by the contracting&lt;t0/&gt; &lt;t1/&gt;authority on the date on which the department responsible referred to in the purchase order&lt;t2/&gt; &lt;t3/&gt;registers&lt;t4/&gt; &lt;t5/&gt;it.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135628Z" creationid="usuario" creationdate="20240521T135628Z">
+        <seg>El correo enviado al poder adjudicador se considera recibido por el poder adjudicador en la fecha en que el departamento responsable mencionado en la orden de compra lo registra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Procedure</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20240514T140716Z" creationid="OmegaT Aligner" creationdate="20240514T140716Z">
@@ -480,10 +765,50 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Services</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240426T151052Z" creationid="usuario" creationdate="20240426T151052Z">
+        <seg>Servicios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Should a direct connection be established between the contractor and the contracting&lt;t0/&gt; &lt;t1/&gt;authority's &lt;t2/&gt;back offices &lt;t3/&gt;to allow electronic transfer of financial documents, both parties must&lt;t4/&gt; &lt;t5/&gt;take the measures necessary on their side to implement and maintain electronic systems that&lt;t6/&gt; &lt;t7/&gt;enable EDI to be used effectively.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135631Z" creationid="usuario" creationdate="20240521T135631Z">
+        <seg>En caso de que se establezca una conexión directa entre el contratista y los servicios administrativos de la Autoridad Contratante para permitir la transferencia electrónica de documentos financieros, ambas partes deberán adoptar las medidas necesarias para implantar y mantener sistemas electrónicos que permitan el uso eficaz del EDI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Signature of the consignment note by the contracting authority is simply an&lt;t0/&gt; &lt;t1/&gt;acknowledgment of the fact that the delivery has taken place and in no way implies&lt;t2/&gt; &lt;t3/&gt;conformity&lt;t4/&gt; &lt;t5/&gt;of&lt;t6/&gt; &lt;t7/&gt;the&lt;t8/&gt; &lt;t9/&gt;supplies with the&lt;t10/&gt; &lt;t11/&gt;purchase&lt;t12/&gt; &lt;t13/&gt;order.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alumno" changedate="20240514T142254Z" creationid="alumno" creationdate="20240514T142254Z">
         <seg>La firma de la carta de porte por la Autoridad contratante es un simple reconocimiento de que la entrega ha tenido lugar y no implica en modo alguno la conformidad de los suministros con la orden de compra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Similarly, should a direct connection be established between the contractor and the&lt;t0/&gt; &lt;t1/&gt;contracting authority's &lt;t2/&gt;back offices &lt;t3/&gt;to allow electronic transfer of financial documents, the&lt;t4/&gt; &lt;t5/&gt;parties agree that a financial document, sent as mentioned in the &lt;t6/&gt;interface control document&lt;t7/&gt;,&lt;t8/&gt; &lt;t9/&gt;qualifies&lt;t10/&gt; &lt;t11/&gt;as an &lt;t12/&gt;EDI&lt;t13/&gt; &lt;t14/&gt;message&lt;t15/&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135720Z" creationid="usuario" creationdate="20240521T135720Z">
+        <seg>Del mismo modo, en caso de que se establezca una conexión directa entre el contratista y los servicios administrativos de la Autoridad Contratante para permitir la transferencia electrónica de documentos financieros, las partes acuerdan que un documento financiero, enviado como se menciona en el documento de control de la interfaz, se considera un mensaje EDI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Storage&lt;t0/&gt; &lt;t1/&gt;of&lt;t2/&gt; &lt;t3/&gt;electronic&lt;t4/&gt; &lt;t5/&gt;invoices&lt;t6/&gt; &lt;t7/&gt;and&lt;t8/&gt; &lt;t9/&gt;safety&lt;t10/&gt; &lt;t11/&gt;measures</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135722Z" creationid="usuario" creationdate="20240521T135722Z">
+        <seg>Conservación de las facturas electrónicas y medidas de seguridad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Submission&lt;t0/&gt; &lt;t1/&gt;of&lt;t2/&gt; &lt;t3/&gt;financial&lt;t4/&gt; &lt;t5/&gt;documents&lt;t6/&gt; &lt;t7/&gt;via&lt;t8/&gt; &lt;t9/&gt;e-PRIOR&lt;t10/&gt; &lt;t11/&gt;and&lt;t12/&gt; &lt;t13/&gt;validity&lt;t14/&gt; &lt;t15/&gt;of&lt;t16/&gt; &lt;t17/&gt;these&lt;t18/&gt; &lt;t19/&gt;documents</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135629Z" creationid="usuario" creationdate="20240521T135629Z">
+        <seg>Presentación de documentos financieros a través de e-PRIOR y validez de dichos documentos</seg>
       </tuv>
     </tu>
     <tu>
@@ -520,6 +845,30 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The PDF and XML documents generated in relation&lt;t6/&gt; &lt;t7/&gt;to the financial document are to be considered as proof of receipt by the contracting&lt;t8/&gt; &lt;t9/&gt;authority.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135721Z" creationid="usuario" creationdate="20240521T135721Z">
+        <seg>Los documentos PDF y XML generados en relación con el documento financiero se considerarán acuse de recibo por parte del poder adjudicador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The contract must be performed in such a way as to exclude the possibility of the contractor&lt;t0/&gt; &lt;t1/&gt;or its &lt;t2/&gt;personnel &lt;t3/&gt;executing tasks under conditions identical to the working conditions of a&lt;t4/&gt; &lt;t5/&gt;person employed by the contracting authority.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240503T154750Z" creationid="usuario" creationdate="20240503T154750Z">
+        <seg>El contrato debe de ser llevado a cabo de tal forma que se excluya la posibilidad de que el contratante, o su personal lleven a cabo tareas bajo las condiciones idénticas a las de las condiciones laborales de la persona empleada por la parte contratante. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The contracting authority is not liable for any damage or loss caused by the contractor,&lt;t0/&gt; &lt;t1/&gt;including any damage or loss to third parties during or as a consequence of &lt;t2/&gt;performance of&lt;t3/&gt; &lt;t4/&gt;the&lt;t5/&gt; &lt;t6/&gt;contract&lt;t7/&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135727Z" creationid="usuario" creationdate="20240521T135727Z">
+        <seg>La Autoridad Contratante no será responsable de ningún daño o perjuicio causado por el contratista, incluidos los daños o perjuicios causados a terceros durante la ejecución del contrato o como consecuencia de la misma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The contracting authority may request this evidence even&lt;t6/&gt; &lt;t7/&gt;after&lt;t8/&gt; &lt;t9/&gt;the&lt;t10/&gt; &lt;t11/&gt;end of&lt;t12/&gt; &lt;t13/&gt;the&lt;t14/&gt; &lt;t15/&gt;contract.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240430T133644Z" creationid="juanf" creationdate="20240430T133644Z">
@@ -536,6 +885,14 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The contracting authority must &lt;t0/&gt;formally notify &lt;t1/&gt;the contractor of its intention to reduce&lt;t2/&gt; &lt;t3/&gt;payment&lt;t4/&gt; &lt;t5/&gt;and the&lt;t6/&gt; &lt;t7/&gt;corresponding&lt;t8/&gt; &lt;t9/&gt;calculated&lt;t10/&gt; &lt;t11/&gt;amount.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240430T134945Z" creationid="usuario" creationdate="20240430T134945Z">
+        <seg>El poder adjudicador debe notificar formalmente al contratista su intención de reducir el pago y el importe calculado correspondiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The contracting authority must &lt;t0/&gt;formally notify &lt;t1/&gt;the contractor of the suspension.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T141012Z" creationid="juanf" creationdate="20240514T141012Z">
@@ -548,6 +905,14 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
       </tuv>
       <tuv lang="es-ES" changeid="alumno" changedate="20240514T142137Z" creationid="alumno" creationdate="20240514T142137Z">
         <seg>Deberá notificarse a la Autoridad contratante la fecha exacta de entrega dentro del plazo indicado en la orden de compra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The contracting authority must take the necessary measures to implement and maintain&lt;t0/&gt; &lt;t1/&gt;electronic systems that enable the &lt;t2/&gt;supplier portal &lt;t3/&gt;to be used effectively&lt;t4/&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135630Z" creationid="usuario" creationdate="20240521T135630Z">
+        <seg>El poder adjudicador debe adoptar las medidas necesarias para implantar y mantener sistemas electrónicos que permitan utilizar eficazmente el portal del proveedor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -576,6 +941,14 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The contractor bears the cost of replacing its &lt;t0/&gt;personnel &lt;t1/&gt;and is responsible for any delay in&lt;t2/&gt; &lt;t3/&gt;providing&lt;t4/&gt; &lt;t5/&gt;the&lt;t6/&gt; &lt;t7/&gt;services&lt;t8/&gt; &lt;t9/&gt;resulting&lt;t10/&gt; &lt;t11/&gt;from the&lt;t12/&gt; &lt;t13/&gt;replacement of&lt;t14/&gt; &lt;t15/&gt;personnel&lt;t16/&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135619Z" creationid="usuario" creationdate="20240521T135619Z">
+        <seg>El contratista correrá con los gastos de sustitución de su personal y será responsable de cualquier retraso en la prestación de los servicios derivado de la sustitución del personal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The contractor has 30 days following the date of receipt to submit observations.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20240514T140716Z" creationid="OmegaT Aligner" creationdate="20240514T140716Z">
@@ -584,10 +957,34 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The contractor has sole responsibility for complying with any legal obligations incumbent&lt;t0/&gt; &lt;t1/&gt;on&lt;t2/&gt; &lt;t3/&gt;it, notably&lt;t4/&gt; &lt;t5/&gt;those&lt;t6/&gt; &lt;t7/&gt;resulting&lt;t8/&gt; &lt;t9/&gt;from tax&lt;t10/&gt; &lt;t11/&gt;and workplace&lt;t12/&gt; &lt;t13/&gt;safety&lt;t14/&gt; &lt;t15/&gt;legislation.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240503T152851Z" creationid="usuario" creationdate="20240503T152845Z">
+        <seg>El contratante tiene única responsabiliadad de actuar con las obligaciones legales correspondientes a la medida, especialmente aquellas resultantes de la las tasas y la legislacion de seguridad del lugar de trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The contractor has sole responsibility for taking the necessary steps to obtain any permit or&lt;t0/&gt; &lt;t1/&gt;licence&lt;t2/&gt; &lt;t3/&gt;required&lt;t4/&gt; &lt;t5/&gt;for&lt;t6/&gt; &lt;t7/&gt;performance&lt;t8/&gt; &lt;t9/&gt;of&lt;t10/&gt; &lt;t11/&gt;the&lt;t12/&gt; &lt;t13/&gt;contract&lt;t14/&gt; &lt;t15/&gt;under&lt;t16/&gt; &lt;t17/&gt;Belgian laws&lt;t18/&gt; &lt;t19/&gt;and&lt;t20/&gt; &lt;t21/&gt;regulations.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240503T154156Z" creationid="usuario" creationdate="20240503T154156Z">
+        <seg>El contratante tiene única responsabiliadad de llevaracabo los pasos necesarios para obtener cualquier permiso o licencia que esa requerida para el redimiento del contrato bajo las leyes y regulaciones Belgas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The contractor is also responsible for any conformity defect which occurs after delivery and&lt;t0/&gt; &lt;t1/&gt;is ascribable to non-compliance with its obligations, including failure to provide a guarantee&lt;t2/&gt; &lt;t3/&gt;that, for a certain period, supplies used for the purposes for which they are normally used or&lt;t4/&gt; &lt;t5/&gt;for&lt;t6/&gt; &lt;t7/&gt;a&lt;t8/&gt; &lt;t9/&gt;specific&lt;t10/&gt; &lt;t11/&gt;purpose&lt;t12/&gt; &lt;t13/&gt;will&lt;t14/&gt; &lt;t15/&gt;preserve&lt;t16/&gt; &lt;t17/&gt;their&lt;t18/&gt; &lt;t19/&gt;qualities&lt;t20/&gt; &lt;t21/&gt;or&lt;t22/&gt; &lt;t23/&gt;characteristics as&lt;t24/&gt; &lt;t25/&gt;specified.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alumno" changedate="20240514T143530Z" creationid="alumno" creationdate="20240514T143530Z">
         <seg>El contratista también es responsable de cualquier defecto de conformidad que se produzca después de la entrega y que sea imputable al incumplimiento de sus obligaciones, incluido el hecho de no garantizar que, durante un periodo determinado, los suministros utilizados para los fines a los que normalmente se destinan o para un fin específico conservarán sus cualidades o características especificadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The contractor is liable for any loss or damage caused to the contracting authority during or&lt;t0/&gt; &lt;t1/&gt;as a consequence of &lt;t2/&gt;performance of the contract, &lt;t3/&gt;including in the event of subcontracting,&lt;t4/&gt; &lt;t5/&gt;but only to an amount not exceeding three times the total amount of the contract.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135900Z" creationid="usuario" creationdate="20240521T135900Z">
+        <seg>El contratista es responsable de los daños y perjuicios causados al poder adjudicador durante o como consecuencia de la ejecución del contrato, incluso en caso de subcontratación, pero sólo por un importe no superior al triple del importe total del contrato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -616,10 +1013,34 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The contractor must be notified of changes in the &lt;t0/&gt;interface control document&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135637Z" creationid="usuario" creationdate="20240521T135637Z">
+        <seg>Se notificarán al contratista los cambios en el documento de control de la interfaz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The contractor must bear all costs and risks involved in delivering the supplies to the place&lt;t0/&gt; &lt;t1/&gt;of&lt;t2/&gt; &lt;t3/&gt;delivery.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alumno" changedate="20240514T142151Z" creationid="alumno" creationdate="20240514T142151Z">
         <seg>El contratista deberá correr con todos los gastos y riesgos derivados de la entrega de los suministros en el lugar de entrega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The contractor must comply with the minimum requirements provided for in the tender&lt;t0/&gt; &lt;t1/&gt;specifications.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240426T151720Z" creationid="usuario" creationdate="20240426T151720Z">
+        <seg>El contratante ha de cumplir un minimo de requerimientos proporcionados en las especificaciones del pliege.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The contractor must ensure that the &lt;t0/&gt;personnel &lt;t1/&gt;performing the contract and any future&lt;t2/&gt; &lt;t3/&gt;replacement &lt;t4/&gt;personnel &lt;t5/&gt;possess the professional qualifications and experience required to&lt;t6/&gt; &lt;t7/&gt;provide the services, as the case may be on the basis of the selection criteria set out in the&lt;t8/&gt; &lt;t9/&gt;tender&lt;t10/&gt; &lt;t11/&gt;specifications.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135611Z" creationid="usuario" creationdate="20240521T135611Z">
+        <seg>El contratista deberá garantizar que el personal que ejecute el contrato y el que lo sustituya en el futuro posee la cualificación profesional y la experiencia necesarias para prestar los servicios, según el caso, sobre la base de los criterios de selección establecidos en el pliego de condiciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -640,6 +1061,30 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The contractor must not present itself as a representative of the contracting authority and&lt;t0/&gt; &lt;t1/&gt;must&lt;t2/&gt; &lt;t3/&gt;inform third&lt;t4/&gt; &lt;t5/&gt;parties that&lt;t6/&gt; &lt;t7/&gt;it is&lt;t8/&gt; &lt;t9/&gt;not part of&lt;t10/&gt; &lt;t11/&gt;the&lt;t12/&gt; &lt;t13/&gt;European&lt;t14/&gt; &lt;t15/&gt;public&lt;t16/&gt; &lt;t17/&gt;service.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240503T154452Z" creationid="usuario" creationdate="20240503T154452Z">
+        <seg>El contratante no debe de presentarse a sí mismo como representante de la autoridad contratante y debe de informar a las terceras partes que no es parte de los servicios públicos Europeos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The contractor must provide services of a &lt;t0/&gt;high quality&lt;t1/&gt; standard, in accordance with the state&lt;t2/&gt; &lt;t3/&gt;of the art in the industry and the provisions of the contract, in particular the tender&lt;t4/&gt; &lt;t5/&gt;specifications&lt;t6/&gt; &lt;t7/&gt;and the&lt;t8/&gt; &lt;t9/&gt;terms of&lt;t10/&gt; &lt;t11/&gt;its tender.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240426T151547Z" creationid="usuario" creationdate="20240426T151547Z">
+        <seg>El contratante debe de proporcionar servicios de un estándar de calidad alta, de acuerdo con el estado del arte de la industria y las disposiciones del contrato, en concreto el pliego de condiciones y sus términos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The contractor must record and report to the contracting authority any problem that affects&lt;t0/&gt; &lt;t1/&gt;its ability to provide the services.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135620Z" creationid="usuario" creationdate="20240521T135620Z">
+        <seg>El contratista deberá registrar e informar a la Autoridad contratante de cualquier problema que afecte a su capacidad para prestar los servicios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The contractor must replace at its own expense, and within a reasonable time limit to be&lt;t0/&gt; &lt;t1/&gt;determined by agreement between the parties, any items which become damaged or&lt;t2/&gt; &lt;t3/&gt;defective&lt;t4/&gt; &lt;t5/&gt;in the&lt;t6/&gt; &lt;t7/&gt;course&lt;t8/&gt; &lt;t9/&gt;of&lt;t10/&gt; &lt;t11/&gt;normal&lt;t12/&gt; &lt;t13/&gt;use&lt;t14/&gt; &lt;t15/&gt;during&lt;t16/&gt; &lt;t17/&gt;the&lt;t18/&gt; &lt;t19/&gt;guarantee&lt;t20/&gt; &lt;t21/&gt;period.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alumno" changedate="20240514T143458Z" creationid="alumno" creationdate="20240514T143458Z">
@@ -656,10 +1101,36 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The contractor or its &lt;t6/&gt;personnel &lt;t7/&gt;must not be&lt;t8/&gt; &lt;t9/&gt;incorporated&lt;t10/&gt; &lt;t11/&gt;into the contracting authority's&lt;t12/&gt; &lt;t13/&gt;administrative&lt;t14/&gt; &lt;t15/&gt;organisation&lt;t16/&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240503T154932Z" creationid="usuario" creationdate="20240503T154932Z">
+        <seg>El contratante o su personaL no debe de estar incorpordo en la organización administrativa de la autoridad contratante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The contractor warrants that the exclusive rights and the modes of exploitation may be&lt;t0/&gt; &lt;t1/&gt;exercised by the Union on all parts of the &lt;t2/&gt;results&lt;t3/&gt;, irrespective of whether they are created by&lt;t4/&gt; &lt;t5/&gt;the&lt;t6/&gt; &lt;t7/&gt;contractor&lt;t8/&gt; &lt;t9/&gt;or&lt;t10/&gt; &lt;t11/&gt;consist&lt;t12/&gt; &lt;t13/&gt;of&lt;t14/&gt; &lt;t15/&gt;pre-existing materials&lt;t16/&gt;.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240426T152331Z" creationid="juanf" creationdate="20240426T152331Z">
         <seg>El contratista garantiza que los derechos exclusivos y las formas de aprovechamiento puedan ser ejercidos por la Unión en todas las partes de los resultados, independientemente de si estos han sido creados por el contratista o consisten de materiales preexistentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The document is available for consultation at &lt;t0/&gt;https://circabc.europa.eu/w/browse/5290b7b0-&lt;t1/&gt; &lt;t2/&gt;8ca8-454b-87eb-0ac990362861</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135636Z" creationid="usuario" creationdate="20240521T135636Z">
+        <seg>2 Véase http://ec.europa.eu/dgs/informatics/supplier_portal/doc/um_supplier_portal_overview.pdf
+3 Véase http://ec.europa.eu/dgs/informatics/supplier_portal/doc/um_sp_e-invoicing.pdf
+4 El documento puede consultarse en https://circabc.europa.eu/w/browse/5290b7b0- 8ca8-454b-87eb-0ac990362861</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The electronic systems are specified in the &lt;t8/&gt;interface&lt;t9/&gt; &lt;t10/&gt;control document&lt;t11/&gt;4&lt;t12/&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135632Z" creationid="usuario" creationdate="20240521T135632Z">
+        <seg>Los sistemas electrónicos se especifican en el documento de control de la interfaz4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -672,6 +1143,22 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The parties agree that an invoice, sent via the &lt;t0/&gt;supplier portal&lt;t1/&gt;, qualifies as an electronic&lt;t2/&gt; &lt;t3/&gt;invoice.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135719Z" creationid="usuario" creationdate="20240521T135719Z">
+        <seg>Las partes acuerdan que una factura, enviada a través del portal del proveedor, tiene la consideración de factura electrónica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The parties agree that any communication made by email has full legal effect and is&lt;t0/&gt; &lt;t1/&gt;admissible&lt;t2/&gt; &lt;t3/&gt;as evidence&lt;t4/&gt; &lt;t5/&gt;in judicial proceedings.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135623Z" creationid="usuario" creationdate="20240521T135623Z">
+        <seg>Las partes acuerdan que cualquier comunicación realizada por correo electrónico tiene plenos efectos legales y es admisible como prueba en procedimientos judiciales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The parties expressly acknowledge and agree that any amount payable under this Article is&lt;t0/&gt; &lt;t1/&gt;not a penalty and represents a reasonable estimate of fair compensation for the damage&lt;t2/&gt; &lt;t3/&gt;incurred due to failure to provide the services within the applicable time limits set out in the&lt;t4/&gt; &lt;t5/&gt;contract.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T140949Z" creationid="juanf" creationdate="20240514T140949Z">
@@ -680,10 +1167,26 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The parties hereby agree that any financial document and related attachments exchanged&lt;t0/&gt; &lt;t1/&gt;through the &lt;t2/&gt;supplier portal &lt;t3/&gt;or through a direct connection established between the contractor&lt;t4/&gt; &lt;t5/&gt;and the contracting authority's &lt;t6/&gt;back offices &lt;t7/&gt;will have the same legal effects as paper invoices&lt;t8/&gt; &lt;t9/&gt;and&lt;t10/&gt; &lt;t11/&gt;will be&lt;t12/&gt; &lt;t13/&gt;admissible&lt;t14/&gt; &lt;t15/&gt;as evidence&lt;t16/&gt; &lt;t17/&gt;in&lt;t18/&gt; &lt;t19/&gt;legal proceedings.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135630Z" creationid="usuario" creationdate="20240521T135630Z">
+        <seg>Las partes acuerdan que todo documento financiero y sus anexos intercambiados a través del portal del proveedor o a través de una conexión directa establecida entre el contratista y los servicios administrativos de la Autoridad Contratante tendrán los mismos efectos jurídicos que las facturas en papel y serán admisibles como prueba en procedimientos judiciales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The replacement of such a provision must be made in accordance with Article 11.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alumno" changedate="20240514T141915Z" creationid="alumno" creationdate="20240514T141915Z">
         <seg>La sustitución de dicha disposición debe realizarse de conformidad con el artículo 11. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The report must describe the problem, state when it started&lt;t2/&gt; &lt;t3/&gt;and&lt;t4/&gt; &lt;t5/&gt;what action the&lt;t6/&gt; &lt;t7/&gt;contractor&lt;t8/&gt; &lt;t9/&gt;is taking&lt;t10/&gt; &lt;t11/&gt;to resolve&lt;t12/&gt; &lt;t13/&gt;it.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135620Z" creationid="usuario" creationdate="20240521T135620Z">
+        <seg>El informe deberá describir el problema, indicar cuándo comenzó y qué medidas está tomando el contratista para resolverlo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -792,6 +1295,14 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The&lt;t2/&gt; &lt;t3/&gt;sending party must be able to prove the date of dispatch.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135626Z" creationid="usuario" creationdate="20240521T135626Z">
+        <seg>La parte remitente deberá poder demostrar la fecha de envío.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The&lt;t3/&gt; &lt;t4/&gt;contractor must provide the contracting authority with this list or declaration, together with&lt;t5/&gt; &lt;t6/&gt;the&lt;t7/&gt; &lt;t8/&gt;invoice&lt;t9/&gt; &lt;t10/&gt;for&lt;t11/&gt; &lt;t12/&gt;payment&lt;t13/&gt; &lt;t14/&gt;of&lt;t15/&gt; &lt;t16/&gt;the&lt;t17/&gt; &lt;t18/&gt;balance&lt;t19/&gt; &lt;t20/&gt;at the&lt;t21/&gt; &lt;t22/&gt;latest.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240430T133640Z" creationid="juanf" creationdate="20240430T133640Z">
@@ -812,6 +1323,38 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240430T133646Z" creationid="juanf" creationdate="20240430T133646Z">
         <seg>Estas pruebas pueden referirse, por ejemplo, a los derechos sobre: partes de otros documentos, imágenes, gráficos, fuentes, tablas, datos, software, invenciones técnicas, conocimientos técnicos, herramientas de desarrollo informático, rutinas, subrutinas u otros programas («tecnología de base»), conceptos, diseños, instalaciones u obras de arte, datos, materiales de base o de origen externo. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This includes compliance with applicable obligations under environmental,&lt;t2/&gt; &lt;t3/&gt;social&lt;t4/&gt; and &lt;t5/&gt;labour&lt;t6/&gt; law established by Union law, national law and collective agreements or&lt;t7/&gt; &lt;t8/&gt;by the international environmental, social and &lt;t9/&gt;labour&lt;t10/&gt; law provisions listed in Annex X to&lt;t11/&gt; &lt;t12/&gt;Directive&lt;t13/&gt; &lt;t14/&gt;2014/24/EU&lt;t15/&gt;1&lt;t16/&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240426T152545Z" creationid="usuario" creationdate="20240426T152545Z">
+        <seg>Esto incluye cumplimiento de las obligaciones aplicables bajo la ley medioambiental, social y laboral, establecidas por la ley de la Union, la ley nacional y los acuerdos colectivos de las provisiones medioambientales internacionales, sociales y laborales enumeradas en el Anexo X del Directivo 2014/24/EU. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This includes in particular cases where the contracting&lt;t32/&gt; &lt;t33/&gt;authority cannot approve a &lt;t34/&gt;result&lt;t35/&gt;, report or deliverable as defined in the purchase order after&lt;t36/&gt; &lt;t37/&gt;the contractor has submitted the required additional information, &lt;t38/&gt;correction&lt;t39/&gt; or new version.&lt;t40/&gt; &lt;t41/&gt;A reduction in price may be imposed, together with liquidated damages under the conditions&lt;t42/&gt; &lt;t43/&gt;of&lt;t44/&gt; &lt;t45/&gt;Article&lt;t46/&gt; &lt;t47/&gt;15.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240430T134919Z" creationid="usuario" creationdate="20240430T134919Z">
+        <seg>Esto incluye, en particular, casos en los que el poder adjudicador no pueda aprobar un resultado, informe o entregable según lo definido en la orden de compra después de que el contratista haya presentado la información adicional, corrección o nueva versión requerida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This period can be shortened upon mutual agreement of&lt;t6/&gt; &lt;t7/&gt;the parties.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135638Z" creationid="usuario" creationdate="20240521T135638Z">
+        <seg>Este plazo podrá acortarse por mutuo acuerdo de las partes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This period of six months does not apply to urgent measures required by the&lt;t8/&gt; &lt;t9/&gt;security policy for the information systems of the contracting authority to ensure the&lt;t10/&gt; &lt;t11/&gt;integrity,&lt;t12/&gt; &lt;t13/&gt;confidentiality&lt;t14/&gt; &lt;t15/&gt;and&lt;t16/&gt; &lt;t17/&gt;non-repudiation&lt;t18/&gt; &lt;t19/&gt;of&lt;t20/&gt; &lt;t21/&gt;information&lt;t22/&gt; &lt;t23/&gt;and&lt;t24/&gt; &lt;t25/&gt;the&lt;t26/&gt; &lt;t27/&gt;availability&lt;t28/&gt; &lt;t29/&gt;of&lt;t30/&gt; &lt;t31/&gt;ePRIOR&lt;t32/&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135639Z" creationid="usuario" creationdate="20240521T135639Z">
+        <seg>Este plazo de seis meses no se aplicará a las medidas urgentes exigidas por la política de seguridad de los sistemas de información del poder adjudicador para garantizar la integridad, confidencialidad y no repudio de la información y la disponibilidad de ePRIOR. 5.4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -848,6 +1391,22 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Upon request, the contractor must provide the contracting authority with evidence&lt;t8/&gt; &lt;t9/&gt;of&lt;t10/&gt; &lt;t11/&gt;insurance&lt;t12/&gt; &lt;t13/&gt;cover.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135744Z" creationid="usuario" creationdate="20240521T135744Z">
+        <seg>A petición de la Autoridad Contratante, el contratista deberá presentar pruebas de la cobertura del seguro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Validity&lt;t0/&gt; &lt;t1/&gt;and&lt;t2/&gt; &lt;t3/&gt;acceptance&lt;t4/&gt; &lt;t5/&gt;of&lt;t6/&gt; &lt;t7/&gt;electronic&lt;t8/&gt; &lt;t9/&gt;invoices</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135639Z" creationid="usuario" creationdate="20240521T135639Z">
+        <seg>Validez y aceptación de las facturas electrónicas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Visibility&lt;t0/&gt; &lt;t1/&gt;of&lt;t2/&gt; &lt;t3/&gt;Union&lt;t4/&gt; &lt;t5/&gt;funding&lt;t6/&gt; &lt;t7/&gt;and&lt;t8/&gt; &lt;t9/&gt;disclaimer</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T140919Z" creationid="juanf" creationdate="20240514T140919Z">
@@ -864,10 +1423,34 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When such a&lt;t2/&gt; &lt;t3/&gt;change requires adaptations by the contractor, then the contractor will have a period of six&lt;t4/&gt; &lt;t5/&gt;months to implement this change.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135638Z" creationid="usuario" creationdate="20240521T135638Z">
+        <seg>Cuando dicho cambio requiera adaptaciones por parte del contratista, éste dispondrá de un plazo de seis meses para aplicar dicho cambio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When the contractor retains &lt;t0/&gt;pre-existing rights &lt;t1/&gt;on parts of the &lt;t2/&gt;results&lt;t3/&gt;, reference must be&lt;t4/&gt; &lt;t5/&gt;inserted to that effect when the &lt;t6/&gt;result &lt;t7/&gt;is used as set out in Article 13.3, with the following&lt;t8/&gt; &lt;t9/&gt;disclaimer: '© — year — European Union.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T140913Z" creationid="juanf" creationdate="20240514T140913Z">
         <seg>Cuando el contratista conserve derechos preexistentes sobre partes de los resultados, deberá insertarse una referencia a tal efecto cuando se utilice el resultado según lo establecido en el artículo 13.3, con la siguiente cláusula de exención de responsabilidad: «© - año - Unión Europea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When using a direct connection for the electronic transfer of financial documents, the parties&lt;t0/&gt; &lt;t1/&gt;must take the necessary measures to implement and maintain safety measures and&lt;t2/&gt; &lt;t3/&gt;procedures in order to adequately prevent messages from incurring any delays, being&lt;t4/&gt; &lt;t5/&gt;corrupted&lt;t6/&gt; &lt;t7/&gt;as to content or&lt;t8/&gt; &lt;t9/&gt;form, or&lt;t10/&gt; &lt;t11/&gt;being&lt;t12/&gt; &lt;t13/&gt;lost.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135723Z" creationid="usuario" creationdate="20240521T135723Z">
+        <seg>Cuando se utilice una conexión directa para la transferencia electrónica de documentos financieros, las partes deben adoptar las medidas necesarias para aplicar y mantener medidas y procedimientos de seguridad a fin de evitar adecuadamente que los mensajes sufran retrasos, se corrompan en cuanto a su contenido o forma, o se pierdan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When using the &lt;t0/&gt;supplier portal&lt;t1/&gt;, the contractor must, for each electronic invoice, download&lt;t2/&gt; &lt;t3/&gt;the PDF and XML message as applicable within one year of submission, and store them&lt;t4/&gt; &lt;t5/&gt;securely together with the related attachments, if any, in accordance with the time limits and&lt;t6/&gt; &lt;t7/&gt;specifications prescribed by the applicable legislative requirements.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135722Z" creationid="usuario" creationdate="20240521T135722Z">
+        <seg>Cuando utilice el portal del proveedor, el contratista deberá, para cada factura electrónica, descargar el PDF y el mensaje XML, según proceda, en el plazo de un año desde su presentación, y almacenarlos de forma segura junto con los anexos relacionados, si los hubiera, de conformidad con los plazos y especificaciones prescritos por los requisitos legislativos aplicables.</seg>
       </tuv>
     </tu>
     <tu>
@@ -884,6 +1467,22 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240426T152905Z" creationid="juanf" creationdate="20240426T152416Z">
         <seg>Cuando los materiales preexistentes se han intercalado con los resultados, la autoridad contratante puede aceptar restricciones razonables que afecten a la lista superior, dejando claro que dichos materiales sean fácilmente identificables y separados del resto, que no correspondan a los elementos sustanciales de los resultados, y que, si la situación lo requiere, deben existir soluciones de reemplazo satisfactorias sin ningún coste adicional por parte de la autoridad contratante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Where a financial document is dispatched through the &lt;t0/&gt;supplier portal&lt;t1/&gt;, it is deemed to have&lt;t2/&gt; &lt;t3/&gt;been legally issued or sent when the contractor is able to successfully submit the financial&lt;t4/&gt; &lt;t5/&gt;document without any error messages.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135720Z" creationid="usuario" creationdate="20240521T135720Z">
+        <seg>Cuando se envíe un documento financiero a través del portal del proveedor, se considerará que ha sido emitido o enviado legalmente cuando el contratista pueda presentar con éxito el documento financiero sin ningún mensaje de error.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Where a financial document is dispatched using a direct connection established between the&lt;t0/&gt; &lt;t1/&gt;contractor and the contracting authority's &lt;t2/&gt;back offices&lt;t3/&gt;, the financial document is deemed to&lt;t4/&gt; &lt;t5/&gt;have been legally issued or sent when its status is 'received' as defined in the &lt;t6/&gt;interface&lt;t7/&gt; &lt;t8/&gt;control&lt;t9/&gt; &lt;t10/&gt;document&lt;t11/&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135721Z" creationid="usuario" creationdate="20240521T135721Z">
+        <seg>Cuando un documento financiero se envíe utilizando una conexión directa establecida entre el contratista y los servicios administrativos de la Autoridad Contratante, se considerará que el documento financiero se ha emitido o enviado legalmente cuando su estado sea «recibido», tal como se define en el documento de control de la interfaz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -936,6 +1535,38 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>be&lt;t0/&gt; &lt;t1/&gt;made&lt;t2/&gt; &lt;t3/&gt;in&lt;t4/&gt; &lt;t5/&gt;writing&lt;t6/&gt; &lt;t7/&gt;in&lt;t8/&gt; &lt;t9/&gt;paper&lt;t10/&gt; &lt;t11/&gt;or&lt;t12/&gt; &lt;t13/&gt;electronic format in&lt;t14/&gt; &lt;t15/&gt;the&lt;t16/&gt; &lt;t17/&gt;language&lt;t18/&gt; &lt;t19/&gt;of&lt;t20/&gt; &lt;t21/&gt;the&lt;t22/&gt; &lt;t23/&gt;purchase&lt;t24/&gt; &lt;t25/&gt;order;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135621Z" creationid="usuario" creationdate="20240521T135621Z">
+        <seg>(a) hacerse por escrito en papel o formato electrónico en el idioma de la orden de compra;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>be&lt;t0/&gt; &lt;t1/&gt;made&lt;t2/&gt; &lt;t3/&gt;using&lt;t4/&gt; &lt;t5/&gt;the&lt;t6/&gt; &lt;t7/&gt;relevant&lt;t8/&gt; &lt;t9/&gt;communication&lt;t10/&gt; &lt;t11/&gt;details set&lt;t12/&gt; &lt;t13/&gt;out&lt;t14/&gt; &lt;t15/&gt;in&lt;t16/&gt; &lt;t17/&gt;the&lt;t18/&gt; &lt;t19/&gt;purchase&lt;t20/&gt; &lt;t21/&gt;order;&lt;t22/&gt; &lt;t23/&gt;and</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135622Z" creationid="usuario" creationdate="20240521T135622Z">
+        <seg>(c) realizarse utilizando los datos de comunicación pertinentes establecidos en la orden de compra; y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>be&lt;t0/&gt; &lt;t1/&gt;sent by&lt;t2/&gt; &lt;t3/&gt;post or&lt;t4/&gt; &lt;t5/&gt;email.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135622Z" creationid="usuario" creationdate="20240521T135622Z">
+        <seg>(d) enviarse por correo postal o electrónico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>bear&lt;t0/&gt; &lt;t1/&gt;the&lt;t2/&gt; &lt;t3/&gt;purchase&lt;t4/&gt; &lt;t5/&gt;order&lt;t6/&gt; &lt;t7/&gt;number;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135622Z" creationid="usuario" creationdate="20240521T135622Z">
+        <seg>(b) llevar el número de la orden de compra;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>correspond to the description given in the contractor's tender and possess the&lt;t0/&gt; &lt;t1/&gt;characteristics of the supplies provided by the contractor to the contracting authority as&lt;t2/&gt; &lt;t3/&gt;a&lt;t4/&gt; &lt;t5/&gt;sample&lt;t6/&gt; &lt;t7/&gt;or&lt;t8/&gt; &lt;t9/&gt;model;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alumno" changedate="20240514T142455Z" creationid="alumno" creationdate="20240514T142455Z">
@@ -976,6 +1607,14 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>does&lt;t0/&gt; &lt;t1/&gt;not&lt;t2/&gt; &lt;t3/&gt;have&lt;t4/&gt; &lt;t5/&gt;the&lt;t6/&gt; &lt;t7/&gt;expertise&lt;t8/&gt; &lt;t9/&gt;required&lt;t10/&gt; &lt;t11/&gt;to&lt;t12/&gt; &lt;t13/&gt;provide&lt;t14/&gt; &lt;t15/&gt;the&lt;t16/&gt; &lt;t17/&gt;services;&lt;t18/&gt; &lt;t19/&gt;or</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135618Z" creationid="usuario" creationdate="20240521T135618Z">
+        <seg>(a) no posea la experiencia necesaria para prestar los servicios; o</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>either to have the supplies brought into conformity, free of charge, by repair or&lt;t0/&gt; &lt;t1/&gt;replacement;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alumno" changedate="20240514T143029Z" creationid="alumno" creationdate="20240514T143029Z">
@@ -988,6 +1627,14 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240426T151627Z" creationid="juanf" creationdate="20240426T151627Z">
         <seg>los derechos del usuario final, para todos los usos que les de la Unión o los subcontratistas que resulten del contrato y de la intención de las partes;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>has&lt;t0/&gt; &lt;t1/&gt;caused&lt;t2/&gt; &lt;t3/&gt;disruption&lt;t4/&gt; &lt;t5/&gt;on&lt;t6/&gt; &lt;t7/&gt;the&lt;t8/&gt; &lt;t9/&gt;premises&lt;t10/&gt; &lt;t11/&gt;of&lt;t12/&gt; &lt;t13/&gt;the contracting&lt;t14/&gt; &lt;t15/&gt;authority.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135619Z" creationid="usuario" creationdate="20240521T135619Z">
+        <seg>(b) haya causado perturbaciones en los locales del poder adjudicador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1148,6 +1795,14 @@ se han producido realmente</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>of&lt;t0/&gt; &lt;t1/&gt;its&lt;t2/&gt; &lt;t3/&gt;final&lt;t4/&gt; &lt;t5/&gt;decision&lt;t6/&gt; &lt;t7/&gt;to&lt;t8/&gt; &lt;t9/&gt;reduce&lt;t10/&gt; &lt;t11/&gt;payment&lt;t12/&gt; &lt;t13/&gt;and&lt;t14/&gt; &lt;t15/&gt;the&lt;t16/&gt; &lt;t17/&gt;corresponding&lt;t18/&gt; &lt;t19/&gt;amount.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240430T135147Z" creationid="usuario" creationdate="20240430T135147Z">
+        <seg>(b) de su decisión final de reducir el pago y del importe correspondiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>of&lt;t0/&gt; &lt;t1/&gt;the&lt;t2/&gt; &lt;t3/&gt;withdrawal&lt;t4/&gt; &lt;t5/&gt;of&lt;t6/&gt; &lt;t7/&gt;its&lt;t8/&gt; &lt;t9/&gt;intention to&lt;t10/&gt; &lt;t11/&gt;apply&lt;t12/&gt; &lt;t13/&gt;liquidated&lt;t14/&gt; &lt;t15/&gt;damages;&lt;t16/&gt; &lt;t17/&gt;or</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T140946Z" creationid="juanf" creationdate="20240514T140946Z">
@@ -1156,10 +1811,34 @@ se han producido realmente</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>of&lt;t0/&gt; &lt;t1/&gt;the&lt;t2/&gt; &lt;t3/&gt;withdrawal&lt;t4/&gt; &lt;t5/&gt;of&lt;t6/&gt; &lt;t7/&gt;its&lt;t8/&gt; &lt;t9/&gt;intention&lt;t10/&gt; &lt;t11/&gt;to reduce&lt;t12/&gt; &lt;t13/&gt;payment;&lt;t14/&gt; &lt;t15/&gt;or</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240430T135119Z" creationid="usuario" creationdate="20240430T135119Z">
+        <seg>a) de la retirada de su intención de reducir el pago; o</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>or&lt;t0/&gt; &lt;t1/&gt;to&lt;t2/&gt; &lt;t3/&gt;have&lt;t4/&gt; &lt;t5/&gt;an&lt;t6/&gt; &lt;t7/&gt;appropriate reduction&lt;t8/&gt; &lt;t9/&gt;made&lt;t10/&gt; &lt;t11/&gt;in&lt;t12/&gt; &lt;t13/&gt;the&lt;t14/&gt; &lt;t15/&gt;price.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alumno" changedate="20240514T143047Z" creationid="alumno" creationdate="20240514T143047Z">
         <seg>bien a una reducción adecuada del precio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>personnel &lt;t0/&gt;executing the tasks assigned to the contractor may not receive orders&lt;t1/&gt; &lt;t2/&gt;directly&lt;t3/&gt; &lt;t4/&gt;from the&lt;t5/&gt; &lt;t6/&gt;contracting&lt;t7/&gt; &lt;t8/&gt;authority;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135609Z" creationid="usuario" creationdate="20240521T135609Z">
+        <seg>el personal que ejecute las tareas encomendadas al contratista no podrá recibir órdenes directamente del poder adjudicador;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>personnel&lt;t0/&gt; &lt;t1/&gt;who:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135618Z" creationid="usuario" creationdate="20240521T135618Z">
+        <seg>el personal que:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1218,6 +1897,14 @@ conflicto de intereses profesional a que se refiere el artículo 7;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T141627Z" creationid="juanf" creationdate="20240514T141627Z">
         <seg>(b) el poder adjudicador incumple sus obligaciones, en particular la obligación de facilitar la información necesaria para que el contratista ejecute el contrato según lo previsto en el pliego de condiciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the contracting authority may not under any circumstances be considered to be the&lt;t0/&gt; &lt;t1/&gt;personnel's &lt;t2/&gt;employer and the said &lt;t3/&gt;personnel &lt;t4/&gt;must undertake not to invoke in respect&lt;t5/&gt; &lt;t6/&gt;of the contracting authority any right arising from the contractual relationship&lt;t7/&gt; &lt;t8/&gt;between&lt;t9/&gt; &lt;t10/&gt;the&lt;t11/&gt; &lt;t12/&gt;contracting authority&lt;t13/&gt; &lt;t14/&gt;and the&lt;t15/&gt; &lt;t16/&gt;contractor.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240521T135611Z" creationid="usuario" creationdate="20240521T135611Z">
+        <seg>- el poder adjudicador no podrá ser considerado en ningún caso como el empleador del personal y dicho personal deberá comprometerse a no invocar respecto del poder adjudicador ningún derecho derivado de la relación contractual entre el poder adjudicador y el contratista.</seg>
       </tuv>
     </tu>
     <tu>
