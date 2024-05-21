@@ -72,9 +72,8 @@
       <tuv lang="en">
         <seg>A &lt;t8/&gt;result &lt;t9/&gt;may, in addition to&lt;t10/&gt; &lt;t11/&gt;materials&lt;t12/&gt; &lt;t13/&gt;produced&lt;t14/&gt; &lt;t15/&gt;by&lt;t16/&gt; &lt;t17/&gt;the&lt;t18/&gt; &lt;t19/&gt;contractor&lt;t20/&gt; &lt;t21/&gt;or at its&lt;t22/&gt; &lt;t23/&gt;request, also&lt;t24/&gt; &lt;t25/&gt;include&lt;t26/&gt; &lt;t27/&gt;pre-existing&lt;t28/&gt; &lt;t29/&gt;materials&lt;t30/&gt;;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240521T140926Z" creationid="alumno" creationdate="20240514T141548Z">
-        <seg>(h) si el contratista se encuentra en una situación que pudiera constituir un conflicto de intereses o un
-conflicto de intereses profesional a que se refiere el artículo 7;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240521T142352Z" creationid="alumno" creationdate="20240514T141548Z">
+        <seg>(h) si el contratista se encuentra en una situación que pudiera constituir un conflicto de intereses o un conflicto de intereses profesional a que se refiere el artículo 7;</seg>
       </tuv>
     </tu>
     <tu>
@@ -99,6 +98,14 @@ conflicto de intereses profesional a que se refiere el artículo 7;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T141715Z" creationid="juanf" creationdate="20240514T141640Z">
         <seg> ANEXO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ASSIGNMENT</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20240507T141404Z" creationid="OmegaT Aligner" creationdate="20240507T141404Z">
+        <seg>CESIÓN</seg>
       </tuv>
     </tu>
     <tu>
@@ -200,6 +207,14 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>At the request of the&lt;t6/&gt; &lt;t7/&gt;contracting authority, the contractor must provide documentary evidence of this&lt;t8/&gt; &lt;t9/&gt;commitment.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="lopez" changedate="20240503T155224Z" creationid="lopez" creationdate="20240503T155224Z">
+        <seg>A petición de las autoridades contratantes, el contratista debe proveer pruebas documentales de este compromiso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At&lt;t0/&gt; &lt;t1/&gt;the&lt;t2/&gt; &lt;t3/&gt;contracting&lt;t4/&gt; &lt;t5/&gt;authority's&lt;t6/&gt; &lt;t7/&gt;reasoned request,&lt;t8/&gt; &lt;t9/&gt;the&lt;t10/&gt; &lt;t11/&gt;contractor&lt;t12/&gt; &lt;t13/&gt;must replace any&lt;t14/&gt; &lt;t15/&gt;member&lt;t16/&gt; &lt;t17/&gt;of</seg>
       </tuv>
       <tuv lang="es-ES" changeid="usuario" changedate="20240521T135612Z" creationid="usuario" creationdate="20240521T135612Z">
@@ -221,6 +236,22 @@ personal que:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="usuario" changedate="20240521T135620Z" creationid="usuario" creationdate="20240521T135620Z">
         <seg>COMUNICACIÓN ENTRE LAS PARTES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CONFIDENTIALITY</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20240430T134038Z" creationid="OmegaT Aligner" creationdate="20240430T134038Z">
+        <seg>CONFIDENCIALIDAD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CONFLICTS&lt;t0/&gt; &lt;t1/&gt;OF&lt;t2/&gt; &lt;t3/&gt;INTEREST&lt;t4/&gt; &lt;t5/&gt;AND&lt;t6/&gt; &lt;t7/&gt;PROFESSIONAL&lt;t8/&gt; &lt;t9/&gt;CONFLICTING&lt;t10/&gt; &lt;t11/&gt;INTERESTS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="lopez" changedate="20240426T152255Z" creationid="lopez" creationdate="20240426T150219Z">
+        <seg>Conflictos de interés e intereses profesionales opuestos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -309,6 +340,14 @@ personal que:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alumno" changedate="20240514T141810Z" creationid="alumno" creationdate="20240514T141741Z">
         <seg>Cada disposición del contrato es separable y distinta de las demás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each&lt;t0/&gt; &lt;t1/&gt;party&lt;t2/&gt; &lt;t3/&gt;must:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="lopez" changedate="20240430T134655Z" creationid="lopez" creationdate="20240430T134655Z">
+        <seg>Cada una de las partes deberá:</seg>
       </tuv>
     </tu>
     <tu>
@@ -433,6 +472,14 @@ personal que:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a third party brings any action against the contracting authority in connection with the&lt;t0/&gt; &lt;t1/&gt;performance of the contract&lt;t2/&gt;, including any action for alleged breach of intellectual property&lt;t3/&gt; &lt;t4/&gt;rights, the contractor must assist the contracting authority in the legal proceedings, including&lt;t5/&gt; &lt;t6/&gt;by&lt;t7/&gt; &lt;t8/&gt;intervening&lt;t9/&gt; &lt;t10/&gt;in support of&lt;t11/&gt; &lt;t12/&gt;the&lt;t13/&gt; &lt;t14/&gt;contracting authority&lt;t15/&gt; &lt;t16/&gt;upon request.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="lopez" changedate="20240426T150853Z" creationid="lopez" creationdate="20240426T150853Z">
+        <seg>Si una tercera parte emprende acciones contra la autoridad contratante en relación con lel rendimiento del contrato, incluyendo cualquier acción por presunta infracción de los derechos de la propiedad intelectual, el contratista debe ayudar a la autoridad contratante en los procedimientos legales, incluso mediante la intervención en apoyo de la autoridad contratante a petición de este.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If communication via the &lt;t0/&gt;supplier portal &lt;t1/&gt;or the EDI communication, as appropriate, is&lt;t2/&gt; &lt;t3/&gt;hindered by factors beyond the control of one party, it must notify the other immediately and&lt;t4/&gt; &lt;t5/&gt;the&lt;t6/&gt; &lt;t7/&gt;parties must take&lt;t8/&gt; &lt;t9/&gt;the necessary&lt;t10/&gt; &lt;t11/&gt;measures to restore&lt;t12/&gt; &lt;t13/&gt;this&lt;t14/&gt; &lt;t15/&gt;communication.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="usuario" changedate="20240521T135632Z" creationid="usuario" creationdate="20240521T135632Z">
@@ -497,6 +544,14 @@ personal que:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the contracting authority's liability towards the third party is established and if such&lt;t0/&gt; &lt;t1/&gt;liability is caused by the contractor during or as a consequence of the &lt;t2/&gt;performance of the&lt;t3/&gt; &lt;t4/&gt;contract&lt;t5/&gt;,&lt;t6/&gt; &lt;t7/&gt;Article&lt;t8/&gt; &lt;t9/&gt;6.3 applies.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="lopez" changedate="20240426T152118Z" creationid="lopez" creationdate="20240426T151125Z">
+        <seg>Si la responsabilidad de la autoridad contratante hacia la tercera parte está establecida y dicha responsabilidad es causada por el contratista durante o como consecuancia del rendimiento del contrato, se aplica el Artículo 6.3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the contractor fails to perform its contractual obligations within the applicable time limits&lt;t0/&gt; &lt;t1/&gt;set out in the contract, the contracting authority may claim liquidated damages for each day&lt;t2/&gt; &lt;t3/&gt;of&lt;t4/&gt; &lt;t5/&gt;delay&lt;t6/&gt; &lt;t7/&gt;using&lt;t8/&gt; &lt;t9/&gt;the&lt;t10/&gt; &lt;t11/&gt;following&lt;t12/&gt; &lt;t13/&gt;formula:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T140934Z" creationid="juanf" creationdate="20240514T140934Z">
@@ -517,6 +572,14 @@ personal que:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T141001Z" creationid="juanf" creationdate="20240514T141001Z">
         <seg>En caso de fuerza mayor, el contratista podrá suspender la ejecución del contrato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the contractor is composed of two or more economic operators (i.e. which submitted a&lt;t0/&gt; &lt;t1/&gt;joint tender), they are all jointly and severally liable to the contracting authority for the&lt;t2/&gt; &lt;t3/&gt;performance&lt;t4/&gt; &lt;t5/&gt;of the&lt;t6/&gt; &lt;t7/&gt;contract&lt;t8/&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="lopez" changedate="20240426T151541Z" creationid="lopez" creationdate="20240426T151541Z">
+        <seg>Si la parte contratante está compuesta por dos o más operadores económicos (es decir, presenta una oferta conjunta) es individual y colectivamente responsable ante la autoridad contratante en el rendimiento del contrato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -765,6 +828,14 @@ personal que:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>SUBCONTRACTING</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20240507T141404Z" creationid="OmegaT Aligner" creationdate="20240507T141404Z">
+        <seg>SUBCONTRATACIÓN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SUSPENSION&lt;t0/&gt; &lt;t1/&gt;OF&lt;t2/&gt; &lt;t3/&gt;THE&lt;t4/&gt; &lt;t5/&gt;PERFORMANCE&lt;t6/&gt; &lt;t7/&gt;OF&lt;t8/&gt; &lt;t9/&gt;THE&lt;t10/&gt; &lt;t11/&gt;CONTRACT</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T140959Z" creationid="juanf" creationdate="20240514T140959Z">
@@ -861,6 +932,14 @@ personal que:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The confidentiality obligations set out in this Article are binding on the contracting authority&lt;t0/&gt; &lt;t1/&gt;and the contractor during the &lt;t2/&gt;performance of the contract &lt;t3/&gt;and for as long as the information&lt;t4/&gt; &lt;t5/&gt;or&lt;t6/&gt; &lt;t7/&gt;documents remain confidential unless:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="lopez" changedate="20240503T153934Z" creationid="lopez" creationdate="20240503T153934Z">
+        <seg>Las obligaciones de confidencialidad que figuran en el artículo se vinculan a la autoridad contratante y al contratista durante la ejecución del contrato y mientras la información o los documentos sigan siendo oficiales a menos que: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The contract must be performed in such a way as to exclude the possibility of the contractor&lt;t0/&gt; &lt;t1/&gt;or its &lt;t2/&gt;personnel &lt;t3/&gt;executing tasks under conditions identical to the working conditions of a&lt;t4/&gt; &lt;t5/&gt;person employed by the contracting authority.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="usuario" changedate="20240503T154750Z" creationid="usuario" creationdate="20240503T154750Z">
@@ -869,10 +948,26 @@ personal que:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The contracting authority and the contractor must treat with confidentiality any information&lt;t0/&gt; &lt;t1/&gt;or documents, in any format, disclosed in writing or orally, relating to the &lt;t2/&gt;performance of&lt;t3/&gt; &lt;t4/&gt;the&lt;t5/&gt; &lt;t6/&gt;contract &lt;t7/&gt;and identified in writing&lt;t8/&gt; &lt;t9/&gt;as confidential.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="lopez" changedate="20240430T134655Z" creationid="lopez" creationdate="20240430T134655Z">
+        <seg>El poder adjudicador y el contratista deben tratar con confidencialidad cualquier información o documentos, en cualquier formato, divulgados por escrito u oralmente, relacionados con la ejecución del contrato e identificados por escrito como confidenciales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The contracting authority is not liable for any damage or loss caused by the contractor,&lt;t0/&gt; &lt;t1/&gt;including any damage or loss to third parties during or as a consequence of &lt;t2/&gt;performance of&lt;t3/&gt; &lt;t4/&gt;the&lt;t5/&gt; &lt;t6/&gt;contract&lt;t7/&gt;.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="usuario" changedate="20240521T135727Z" creationid="usuario" creationdate="20240521T135727Z">
         <seg>La Autoridad Contratante no será responsable de ningún daño o perjuicio causado por el contratista, incluidos los daños o perjuicios causados a terceros durante la ejecución del contrato o como consecuencia de la misma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The contracting authority is not liable for any loss or damage caused to the contractor during&lt;t0/&gt; &lt;t1/&gt;or&lt;t2/&gt; &lt;t3/&gt;as&lt;t4/&gt; &lt;t5/&gt;a&lt;t6/&gt; &lt;t7/&gt;consequence&lt;t8/&gt; &lt;t9/&gt;of&lt;t10/&gt; &lt;t11/&gt;performance&lt;t12/&gt; &lt;t13/&gt;of&lt;t14/&gt; &lt;t15/&gt;the&lt;t16/&gt; &lt;t17/&gt;contract&lt;t18/&gt;,&lt;t19/&gt; &lt;t20/&gt;unless&lt;t21/&gt; &lt;t22/&gt;the&lt;t23/&gt; &lt;t24/&gt;loss&lt;t25/&gt; &lt;t26/&gt;or&lt;t27/&gt; &lt;t28/&gt;damage&lt;t29/&gt; &lt;t30/&gt;was&lt;t31/&gt; &lt;t32/&gt;caused&lt;t33/&gt; &lt;t34/&gt;by&lt;t35/&gt; &lt;t36/&gt;wilful&lt;t37/&gt; misconduct or&lt;t38/&gt; &lt;t39/&gt;gross negligence&lt;t40/&gt; &lt;t41/&gt;of&lt;t42/&gt; &lt;t43/&gt;the&lt;t44/&gt; &lt;t45/&gt;contracting&lt;t46/&gt; &lt;t47/&gt;authority.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="lopez" changedate="20240426T152105Z" creationid="lopez" creationdate="20240426T152105Z">
+        <seg>La autoridad contratante no se hace responsable de ninguna pérdida o daño causada al contratista durante o como consecuencia del rendimiento del contrato, al menos que el daño o la pérdida fueran causados por una deliberada mala conducta o flagrante negligencia de la autoridad contratante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1021,6 +1116,23 @@ personal que:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The contractor must &lt;t0/&gt;notify &lt;t1/&gt;the contracting authority in writing as soon as possible of any&lt;t2/&gt; &lt;t3/&gt;situation&lt;t4/&gt; &lt;t5/&gt;that&lt;t6/&gt; &lt;t7/&gt;could&lt;t8/&gt; &lt;t9/&gt;constitute&lt;t10/&gt; &lt;t11/&gt;a&lt;t12/&gt; &lt;t13/&gt;conflict&lt;t14/&gt; &lt;t15/&gt;of&lt;t16/&gt; &lt;t17/&gt;interest&lt;t18/&gt; &lt;t19/&gt;or&lt;t20/&gt; &lt;t21/&gt;a&lt;t22/&gt; &lt;t23/&gt;professional&lt;t24/&gt; &lt;t25/&gt;conflicting&lt;t26/&gt; &lt;t27/&gt;interest</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="lopez" changedate="20240430T134634Z" creationid="lopez" creationdate="20240430T134634Z">
+        <seg>El contratista deberá notificar por escrito al órgano de contratación, lo antes posible, cualquier situación que pudiera constituir un conflicto de intereses o un conflicto de intereses profesionales
+durante la ejecución del contrato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The contractor must also ensure that the persons referred to above are not placed in a&lt;t0/&gt; &lt;t1/&gt;situation&lt;t2/&gt; &lt;t3/&gt;which could give&lt;t4/&gt; &lt;t5/&gt;rise&lt;t6/&gt; &lt;t7/&gt;to&lt;t8/&gt; &lt;t9/&gt;conflicts of interest&lt;t10/&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="lopez" changedate="20240430T134653Z" creationid="lopez" creationdate="20240430T134653Z">
+        <seg>Asimismo, el contratista deberá asegurarse de que las personas antes mencionadas no se encuentren en una situación que pueda dar lugar a conflictos de intereses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The contractor must be notified of changes in the &lt;t0/&gt;interface control document&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="usuario" changedate="20240521T135637Z" creationid="usuario" creationdate="20240521T135637Z">
@@ -1069,10 +1181,26 @@ personal que:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The contractor must immediately take action to&lt;t2/&gt; &lt;t3/&gt;rectify&lt;t4/&gt; &lt;t5/&gt;the&lt;t6/&gt; &lt;t7/&gt;situation.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="lopez" changedate="20240430T134638Z" creationid="lopez" creationdate="20240430T134638Z">
+        <seg>El contratista debe tomar inmediatamente medidas para rectificar la situación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The contractor must not present itself as a representative of the contracting authority and&lt;t0/&gt; &lt;t1/&gt;must&lt;t2/&gt; &lt;t3/&gt;inform third&lt;t4/&gt; &lt;t5/&gt;parties that&lt;t6/&gt; &lt;t7/&gt;it is&lt;t8/&gt; &lt;t9/&gt;not part of&lt;t10/&gt; &lt;t11/&gt;the&lt;t12/&gt; &lt;t13/&gt;European&lt;t14/&gt; &lt;t15/&gt;public&lt;t16/&gt; &lt;t17/&gt;service.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="usuario" changedate="20240503T154452Z" creationid="usuario" creationdate="20240503T154452Z">
         <seg>El contratante no debe de presentarse a sí mismo como representante de la autoridad contratante y debe de informar a las terceras partes que no es parte de los servicios públicos Europeos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The contractor must obtain from any natural person with the power to represent it or take&lt;t0/&gt; &lt;t1/&gt;decisions on its behalf, as well as from third parties involved in the &lt;t2/&gt;performance of the&lt;t3/&gt; &lt;t4/&gt;contract&lt;t5/&gt;, a commitment that they will comply with this Article.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="lopez" changedate="20240503T155116Z" creationid="lopez" creationdate="20240503T155116Z">
+        <seg>El contratista debe obtener de cualquier persona física con poder para representarle o tomar decisiones en su nombre, así como de los terceros que intervengan en la ejecución del contrato, el compromiso de que cumplirán lo dispuesto en este artículo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1097,6 +1225,14 @@ personal que:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alumno" changedate="20240514T143458Z" creationid="alumno" creationdate="20240514T143458Z">
         <seg>El contratista deberá sustituir a su costa, y en un plazo razonable que se determinará de común acuerdo entre las partes, los elementos que resulten dañados o defectuosos en el curso de un uso normal durante el periodo de garantía.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The contractor must take all the necessary measures to prevent any situation of &lt;t0/&gt;conflict of&lt;t1/&gt; &lt;t2/&gt;interest&lt;t3/&gt; &lt;t4/&gt;or&lt;t5/&gt; &lt;t6/&gt;professional conflicting interest&lt;t7/&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="lopez" changedate="20240426T152424Z" creationid="lopez" creationdate="20240426T152424Z">
+        <seg>El contratista debe tomar todas las medidas necesarias para prevenir cualquier situación de conflicto de interés o de intereses profesionales opuestos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1247,6 +1383,14 @@ personal que:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The&lt;t0/&gt; &lt;t1/&gt;contracting authority&lt;t2/&gt; &lt;t3/&gt;may&lt;t4/&gt; &lt;t5/&gt;do&lt;t6/&gt; &lt;t7/&gt;any&lt;t8/&gt; &lt;t9/&gt;of&lt;t10/&gt; &lt;t11/&gt;the&lt;t12/&gt; &lt;t13/&gt;following:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="lopez" changedate="20240430T134639Z" creationid="lopez" creationdate="20240430T134639Z">
+        <seg>El órgano de contratación podrá realizar cualquiera de las siguientes acciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The&lt;t0/&gt; &lt;t1/&gt;contracting authority&lt;t2/&gt; &lt;t3/&gt;may&lt;t4/&gt; &lt;t5/&gt;suspend the&lt;t6/&gt; &lt;t7/&gt;performance&lt;t8/&gt; &lt;t9/&gt;of the contract &lt;t10/&gt;or&lt;t11/&gt; &lt;t12/&gt;any&lt;t13/&gt; &lt;t14/&gt;part of&lt;t15/&gt; &lt;t16/&gt;it:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T141007Z" creationid="juanf" creationdate="20240514T141007Z">
@@ -1275,6 +1419,14 @@ personal que:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T141626Z" creationid="juanf" creationdate="20240514T141626Z">
         <seg>El contratista podrá rescindir el contrato si</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The&lt;t0/&gt; &lt;t1/&gt;contractor&lt;t2/&gt; &lt;t3/&gt;must&lt;t4/&gt; &lt;t5/&gt;pass&lt;t6/&gt; &lt;t7/&gt;on&lt;t8/&gt; &lt;t9/&gt;all&lt;t10/&gt; &lt;t11/&gt;the&lt;t12/&gt; &lt;t13/&gt;relevant&lt;t14/&gt; &lt;t15/&gt;obligations&lt;t16/&gt; &lt;t17/&gt;in&lt;t18/&gt; &lt;t19/&gt;writing&lt;t20/&gt; &lt;t21/&gt;to:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="lopez" changedate="20240430T134641Z" creationid="lopez" creationdate="20240430T134641Z">
+        <seg>El contratista deberá transmitir por escrito todas las obligaciones pertinentes a:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1519,6 +1671,14 @@ personal que:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>any&lt;t0/&gt; &lt;t1/&gt;natural&lt;t2/&gt; &lt;t3/&gt;person with&lt;t4/&gt; &lt;t5/&gt;the&lt;t6/&gt; &lt;t7/&gt;power&lt;t8/&gt; &lt;t9/&gt;to represent&lt;t10/&gt; &lt;t11/&gt;it or&lt;t12/&gt; &lt;t13/&gt;take&lt;t14/&gt; &lt;t15/&gt;decisions&lt;t16/&gt; &lt;t17/&gt;on its&lt;t18/&gt; &lt;t19/&gt;behalf;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="lopez" changedate="20240430T134651Z" creationid="lopez" creationdate="20240430T134651Z">
+        <seg>(b) cualquier persona física con poder para representarlo o tomar decisiones en su nombre;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>be fit for any specific purpose required of them by the contracting authority and made&lt;t0/&gt; &lt;t1/&gt;known to the contractor at the time of conclusion of the contract&lt;t2/&gt; &lt;t3/&gt;and accepted by the&lt;t4/&gt; &lt;t5/&gt;contractor;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alumno" changedate="20240514T142503Z" creationid="alumno" creationdate="20240514T142503Z">
@@ -1623,6 +1783,14 @@ personal que:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>during the &lt;t0/&gt;performance of the contract&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="lopez" changedate="20240430T134636Z" creationid="lopez" creationdate="20240430T134636Z">
+        <seg>(c) a los terceros que intervengan en la ejecución del contrato, incluidos los subcontratistas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>either to have the supplies brought into conformity, free of charge, by repair or&lt;t0/&gt; &lt;t1/&gt;replacement;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alumno" changedate="20240514T143029Z" creationid="alumno" creationdate="20240514T143029Z">
@@ -1635,6 +1803,14 @@ personal que:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240426T151627Z" creationid="juanf" creationdate="20240426T151627Z">
         <seg>los derechos del usuario final, para todos los usos que les de la Unión o los subcontratistas que resulten del contrato y de la intención de las partes;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ensure the protection of such &lt;t0/&gt;confidential information or documents &lt;t1/&gt;with the same&lt;t2/&gt; &lt;t3/&gt;level of protection as its own &lt;t4/&gt;confidential information &lt;t5/&gt;and in any case with due&lt;t6/&gt; &lt;t7/&gt;diligence;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="lopez" changedate="20240503T152835Z" creationid="lopez" creationdate="20240503T152835Z">
+        <seg>garantizar la protección de dicha información o documentos confidenciales con el mismo nibel de protección que su propia infoormación confidencial y, en todo caso, con la debida diligencia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1771,6 +1947,14 @@ se han producido realmente</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>its&lt;t0/&gt; &lt;t1/&gt;personnel&lt;t2/&gt;;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="lopez" changedate="20240430T134642Z" creationid="lopez" creationdate="20240430T134642Z">
+        <seg>(a) su personal;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>name&lt;t0/&gt; &lt;t1/&gt;of&lt;t2/&gt; &lt;t3/&gt;contracting&lt;t4/&gt; &lt;t5/&gt;authority&lt;t6/&gt; &lt;t7/&gt;and&lt;t8/&gt; &lt;t9/&gt;address&lt;t10/&gt; &lt;t11/&gt;for&lt;t12/&gt; &lt;t13/&gt;delivery;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alumno" changedate="20240514T143327Z" creationid="alumno" creationdate="20240514T143327Z">
@@ -1783,6 +1967,22 @@ se han producido realmente</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alumno" changedate="20240514T143341Z" creationid="alumno" creationdate="20240514T143341Z">
         <seg>nombre del contratista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>not disclose, directly or indirectly, &lt;t0/&gt;confidential information or documents &lt;t1/&gt;to third&lt;t2/&gt; &lt;t3/&gt;parties&lt;t4/&gt; &lt;t5/&gt;without the&lt;t6/&gt; &lt;t7/&gt;prior&lt;t8/&gt; &lt;t9/&gt;written agreement&lt;t10/&gt; &lt;t11/&gt;of&lt;t12/&gt; &lt;t13/&gt;the&lt;t14/&gt; &lt;t15/&gt;other&lt;t16/&gt; &lt;t17/&gt;party.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="lopez" changedate="20240503T153322Z" creationid="lopez" creationdate="20240503T153322Z">
+        <seg> nodivulgar, directa o indirectamente, información o documentos confidenciales a terceras parte sin el acuerdo previo por escrito de la otra parte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>not use &lt;t0/&gt;confidential information or documents &lt;t1/&gt;for any purpose other than to perform&lt;t2/&gt; &lt;t3/&gt;its obligations under the contract without the prior written agreement of the other&lt;t4/&gt; &lt;t5/&gt;party;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="lopez" changedate="20240430T134659Z" creationid="lopez" creationdate="20240430T134659Z">
+        <seg>(a) No utilizar la información o los documentos confidenciales para fines distintos del cumplimiento de sus obligaciones en virtud del contrato sin el acuerdo previo por escrito de la otra parte; </seg>
       </tuv>
     </tu>
     <tu>
@@ -1877,6 +2077,14 @@ conflicto de intereses profesional a que se refiere el artículo 7;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>require&lt;t0/&gt; &lt;t1/&gt;the contractor&lt;t2/&gt; &lt;t3/&gt;to&lt;t4/&gt; &lt;t5/&gt;take&lt;t6/&gt; &lt;t7/&gt;further&lt;t8/&gt; &lt;t9/&gt;action&lt;t10/&gt; &lt;t11/&gt;within&lt;t12/&gt; &lt;t13/&gt;a&lt;t14/&gt; &lt;t15/&gt;specified&lt;t16/&gt; &lt;t17/&gt;deadline.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="lopez" changedate="20240430T134640Z" creationid="lopez" creationdate="20240430T134640Z">
+        <seg>(b) exigir al contratista que adopte nuevas medidas en un plazo determinado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>that the &lt;t0/&gt;results &lt;t1/&gt;be adapted, provided that this is done in a manner which is not&lt;t2/&gt; &lt;t3/&gt;prejudicial&lt;t4/&gt; &lt;t5/&gt;to the&lt;t6/&gt; &lt;t7/&gt;creator&lt;t8/&gt;'s &lt;t9/&gt;honour&lt;t10/&gt; &lt;t11/&gt;or&lt;t12/&gt; &lt;t13/&gt;reputation.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T140847Z" creationid="juanf" creationdate="20240514T140847Z">
@@ -1901,6 +2109,22 @@ conflicto de intereses profesional a que se refiere el artículo 7;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>the &lt;t0/&gt;confidential information or documents &lt;t1/&gt;become public through means other than a&lt;t2/&gt; &lt;t3/&gt;breach&lt;t4/&gt; &lt;t5/&gt;of&lt;t6/&gt; &lt;t7/&gt;the&lt;t8/&gt; &lt;t9/&gt;confidentiality&lt;t10/&gt; &lt;t11/&gt;obligation;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="lopez" changedate="20240503T154447Z" creationid="lopez" creationdate="20240503T154447Z">
+        <seg> la información o documentos confidenciales se hagan públicos por medios distintos de una violación de la obligación de confidencialidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the applicable law requires the disclosure of the &lt;t0/&gt;confidential information or&lt;t1/&gt; &lt;t2/&gt;documents&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="lopez" changedate="20240503T154706Z" creationid="lopez" creationdate="20240503T154706Z">
+        <seg>la legislación aplicable exige la divulgación de la información o documentos confidenciales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>the contracting authority fails to comply with its obligations, in particular the&lt;t0/&gt; &lt;t1/&gt;obligation to provide the information needed for the contractor to perform the contract&lt;t2/&gt; &lt;t3/&gt;as&lt;t4/&gt; &lt;t5/&gt;provided for&lt;t6/&gt; &lt;t7/&gt;in the&lt;t8/&gt; &lt;t9/&gt;tender&lt;t10/&gt; &lt;t11/&gt;specifications.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T141627Z" creationid="juanf" creationdate="20240514T141627Z">
@@ -1913,6 +2137,14 @@ conflicto de intereses profesional a que se refiere el artículo 7;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="usuario" changedate="20240521T135611Z" creationid="usuario" creationdate="20240521T135611Z">
         <seg>- el poder adjudicador no podrá ser considerado en ningún caso como el empleador del personal y dicho personal deberá comprometerse a no invocar respecto del poder adjudicador ningún derecho derivado de la relación contractual entre el poder adjudicador y el contratista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the disclosing party agrees to release the receiving party from the confidentiality&lt;t0/&gt; &lt;t1/&gt;obligation&lt;t2/&gt; &lt;t3/&gt;earlier;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="lopez" changedate="20240503T154212Z" creationid="lopez" creationdate="20240503T154212Z">
+        <seg>la parte reveladora acepta liberar a la parte receptora de la obligación de confencialidad anterior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1949,10 +2181,26 @@ conflicto de intereses profesional a que se refiere el artículo 7;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>third&lt;t0/&gt; &lt;t1/&gt;parties&lt;t2/&gt; &lt;t3/&gt;involved&lt;t4/&gt; &lt;t5/&gt;in&lt;t6/&gt; &lt;t7/&gt;the&lt;t8/&gt; &lt;t9/&gt;performance&lt;t10/&gt; &lt;t11/&gt;of&lt;t12/&gt; &lt;t13/&gt;the contract&lt;t14/&gt;,&lt;t15/&gt; &lt;t16/&gt;including&lt;t17/&gt; &lt;t18/&gt;subcontractors.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="lopez" changedate="20240430T134652Z" creationid="lopez" creationdate="20240430T134652Z">
+        <seg>(c) a los terceros que intervengan en la ejecución del contrato, incluidos los subcontratistas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>to the extent that the contractor may invoke moral rights, the right for the contracting&lt;t0/&gt; &lt;t1/&gt;authority, except where otherwise provided in the contract, to publish the &lt;t2/&gt;results &lt;t3/&gt;with&lt;t4/&gt; &lt;t5/&gt;or without mentioning the name(s) of the &lt;t6/&gt;creator&lt;t7/&gt;(s), and the right to decide when and&lt;t8/&gt; &lt;t9/&gt;whether&lt;t10/&gt; &lt;t11/&gt;the&lt;t12/&gt; &lt;t13/&gt;results &lt;t14/&gt;may&lt;t15/&gt; &lt;t16/&gt;be&lt;t17/&gt; &lt;t18/&gt;disclosed and published.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240426T152131Z" creationid="juanf" creationdate="20240426T152131Z">
         <seg>hasta el punto en el que el contratador pueda favorecerse de los derechos morales, el derecho de la autoridad contratadora, excepto cuando se indique lo contrario en el contrato, a publicar los resultados mencionando o no el nombre de el/los creador/es, y el derecho a decidir cuándo y si los resultados puedan ser revelados y publicados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>verify&lt;t0/&gt; &lt;t1/&gt;that&lt;t2/&gt; &lt;t3/&gt;the&lt;t4/&gt; &lt;t5/&gt;contractor's&lt;t6/&gt; &lt;t7/&gt;action&lt;t8/&gt; &lt;t9/&gt;is&lt;t10/&gt; &lt;t11/&gt;appropriate;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="lopez" changedate="20240430T134640Z" creationid="lopez" creationdate="20240430T134640Z">
+        <seg>(a) verificar que la acción del contratista es apropiada;</seg>
       </tuv>
     </tu>
     <tu>
