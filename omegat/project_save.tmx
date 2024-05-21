@@ -681,6 +681,14 @@ personal que:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>PROCESSING&lt;t0/&gt; &lt;t1/&gt;OF&lt;t2/&gt; &lt;t3/&gt;PERSONAL&lt;t4/&gt; &lt;t5/&gt;DATA</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="lopez" changedate="20240521T141950Z" creationid="lopez" creationdate="20240521T141950Z">
+        <seg>PROCESAMIENTO DE DATOS PERSONALES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Packaging, pallets, etc.,&lt;t2/&gt; &lt;t3/&gt;including&lt;t4/&gt; &lt;t5/&gt;contents, must&lt;t6/&gt; &lt;t7/&gt;not weigh more&lt;t8/&gt; &lt;t9/&gt;than&lt;t10/&gt; &lt;t11/&gt;500&lt;t12/&gt; &lt;t13/&gt;kg.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alumno" changedate="20240514T143243Z" creationid="alumno" creationdate="20240514T143243Z">
