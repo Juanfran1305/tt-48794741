@@ -6,6 +6,118 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>'Back&lt;t0/&gt; &lt;t1/&gt;Office'&lt;t2/&gt;:&lt;t3/&gt; &lt;t4/&gt;the&lt;t5/&gt; &lt;t6/&gt;internal&lt;t7/&gt; &lt;t8/&gt;system(s)&lt;t9/&gt; &lt;t10/&gt;used&lt;t11/&gt; &lt;t12/&gt;by&lt;t13/&gt; &lt;t14/&gt;the parties&lt;t15/&gt; &lt;t16/&gt;to&lt;t17/&gt; &lt;t18/&gt;process&lt;t19/&gt; &lt;t20/&gt;electronic&lt;t21/&gt; &lt;t22/&gt;invoices;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T174006Z" creationid="juanf" creationdate="20240522T173944Z">
+        <seg>Back Office: el sistema o sistemas internos utilizados por las partes para procesar las facturas electrónicas;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>'Confidential information or document'&lt;t0/&gt;: any information or document received by either&lt;t1/&gt; &lt;t2/&gt;party from the other or accessed by either party in the context of the &lt;t3/&gt;performance of the&lt;t4/&gt; &lt;t5/&gt;contract, &lt;t6/&gt;that any of the parties has identified in writing as confidential.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T174021Z" creationid="juanf" creationdate="20240522T174021Z">
+        <seg>Información o documento confidencial: cualquier información o documento recibido por cualquiera de las partes de la otra parte o al que cualquiera de las partes tenga acceso en el contexto de la ejecución del contrato, que cualquiera de las partes haya identificado por escrito como confidencial. No puede incluir información que esté a disposición del público;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>'Conflict of Interest'&lt;t0/&gt;: a situation where the impartial and objective &lt;t1/&gt;performance of the&lt;t2/&gt; &lt;t3/&gt;contract &lt;t4/&gt;by the contractor is compromised for reasons involving family, emotional life,&lt;t5/&gt; &lt;t6/&gt;political or national affinity, economic interest, or any other shared interest with the&lt;t7/&gt; &lt;t8/&gt;contracting&lt;t9/&gt; &lt;t10/&gt;authority&lt;t11/&gt; &lt;t12/&gt;or&lt;t13/&gt; &lt;t14/&gt;any&lt;t15/&gt; &lt;t16/&gt;third party&lt;t17/&gt; &lt;t18/&gt;related to the&lt;t19/&gt; &lt;t20/&gt;subject-matter&lt;t21/&gt; &lt;t22/&gt;of&lt;t23/&gt; &lt;t24/&gt;the&lt;t25/&gt; &lt;t26/&gt;contract;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T174141Z" creationid="juanf" creationdate="20240522T174141Z">
+        <seg>Conflicto de intereses: situación en la que la ejecución imparcial y objetiva del contrato por parte del contratista se ve comprometida por razones familiares, afectivas, de afinidad política o nacional, de interés económico o por cualquier otro interés común con el poder adjudicador o con un tercero relacionado con el objeto del contrato;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>'Creator'&lt;t0/&gt;:&lt;t1/&gt; &lt;t2/&gt;means&lt;t3/&gt; &lt;t4/&gt;any&lt;t5/&gt; &lt;t6/&gt;natural&lt;t7/&gt; &lt;t8/&gt;person who&lt;t9/&gt; &lt;t10/&gt;contributes to&lt;t11/&gt; &lt;t12/&gt;the&lt;t13/&gt; &lt;t14/&gt;production&lt;t15/&gt; &lt;t16/&gt;of&lt;t17/&gt; &lt;t18/&gt;the&lt;t19/&gt; &lt;t20/&gt;result&lt;t21/&gt;;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T174156Z" creationid="juanf" creationdate="20240522T174156Z">
+        <seg>Creador: cualquier persona física que contribuya a la producción del resultado;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>'EDI message' &lt;t0/&gt;(electronic data interchange): a message created and exchanged through the&lt;t1/&gt; &lt;t2/&gt;electronic transfer, from computer to computer, of commercial and administrative data using&lt;t3/&gt; &lt;t4/&gt;an&lt;t5/&gt; &lt;t6/&gt;agreed &lt;t7/&gt;standard;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T174208Z" creationid="juanf" creationdate="20240522T174208Z">
+        <seg>Mensaje EDI (intercambio electrónico de datos): mensaje creado e intercambiado mediante la transferencia electrónica, de ordenador a ordenador, de datos comerciales y administrativos utilizando una norma acordada;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>'Force majeure'&lt;t0/&gt;: any unforeseeable, exceptional situation or event beyond the control of the&lt;t1/&gt; &lt;t2/&gt;parties that prevents either of them from fulfilling any of their obligations under the contract.&lt;t3/&gt; &lt;t4/&gt;The&lt;t5/&gt; &lt;t6/&gt;situation&lt;t7/&gt; &lt;t8/&gt;or&lt;t9/&gt; &lt;t10/&gt;event&lt;t11/&gt; &lt;t12/&gt;must&lt;t13/&gt; &lt;t14/&gt;not&lt;t15/&gt; &lt;t16/&gt;be&lt;t17/&gt; &lt;t18/&gt;attributable&lt;t19/&gt; &lt;t20/&gt;to&lt;t21/&gt; &lt;t22/&gt;error&lt;t23/&gt; &lt;t24/&gt;or&lt;t25/&gt; &lt;t26/&gt;negligence&lt;t27/&gt; &lt;t28/&gt;on&lt;t29/&gt; &lt;t30/&gt;the&lt;t31/&gt; &lt;t32/&gt;part&lt;t33/&gt; &lt;t34/&gt;of&lt;t35/&gt; &lt;t36/&gt;the&lt;t37/&gt; &lt;t38/&gt;parties or on the part of the subcontractors and must prove to be inevitable despite their&lt;t39/&gt; &lt;t40/&gt;exercising due diligence.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T174424Z" creationid="juanf" creationdate="20240522T174420Z">
+        <seg>Fuerza mayor: toda situación o acontecimiento imprevisible, excepcional y ajeno a la voluntad de las partes que impida a cualquiera de ellas cumplir alguna de las obligaciones derivadas del contrato. La situación o acontecimiento no debe ser imputable a error o negligencia de las partes o de los subcontratistas y debe resultar inevitable a pesar de que hayan actuado con la diligencia debida. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>'Formal notification' &lt;t0/&gt;(or 'formally notify'): form of communication between the parties&lt;t1/&gt; &lt;t2/&gt;made in writing by post or email, which provides the sender with compelling evidence that&lt;t3/&gt; &lt;t4/&gt;the&lt;t5/&gt; &lt;t6/&gt;message&lt;t7/&gt; &lt;t8/&gt;was delivered to the&lt;t9/&gt; &lt;t10/&gt;specified &lt;t11/&gt;recipient;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T174450Z" creationid="juanf" creationdate="20240522T174450Z">
+        <seg>Notificación formal (o «notificar formalmente»): forma de comunicación entre las partes realizada por escrito mediante correo postal o electrónico, que proporciona al remitente pruebas convincentes de que el mensaje fue entregado al destinatario especificado;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>'Fraud': &lt;t0/&gt;any intentional act or omission affecting the Union's financial interests relating to&lt;t1/&gt; &lt;t2/&gt;the use or presentation of false, incorrect or incomplete statements or documents or to non-&lt;t3/&gt; &lt;t4/&gt;disclosure&lt;t5/&gt; &lt;t6/&gt;of&lt;t7/&gt; &lt;t8/&gt;information&lt;t9/&gt; &lt;t10/&gt;in violation&lt;t11/&gt; &lt;t12/&gt;of&lt;t13/&gt; &lt;t14/&gt;a&lt;t15/&gt; &lt;t16/&gt;specific&lt;t17/&gt; &lt;t18/&gt;obligation;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T174506Z" creationid="juanf" creationdate="20240522T174506Z">
+        <seg>Fraude: todo acto u omisión intencionado que afecte a los intereses financieros de la Unión y esté relacionado con el uso o la presentación de declaraciones o documentos falsos, incorrectos o incompletos, o con la no divulgación de información incumpliendo una obligación específica;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>'Interface Control Document'&lt;t0/&gt;: the guideline document which lays down the technical&lt;t1/&gt; &lt;t2/&gt;specifications, message standards, security standards, checks of syntax and semantics, etc. to&lt;t3/&gt; &lt;t4/&gt;facilitate&lt;t5/&gt; &lt;t6/&gt;machine-to-machine&lt;t7/&gt; &lt;t8/&gt;connection.&lt;t9/&gt; &lt;t10/&gt;This&lt;t11/&gt; &lt;t12/&gt;document&lt;t13/&gt; &lt;t14/&gt;is&lt;t15/&gt; &lt;t16/&gt;updated on&lt;t17/&gt; &lt;t18/&gt;a regular&lt;t19/&gt; &lt;t20/&gt;basis;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T174520Z" creationid="juanf" creationdate="20240522T174520Z">
+        <seg>Documento de control de las interfaces: el documento de orientación que establece las especificaciones técnicas, las normas relativas a los mensajes, las normas de seguridad, las comprobaciones de sintaxis y semántica, etc. para facilitar la conexión entre máquinas. Este documento se actualiza periódicamente;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>'Irregularity'&lt;t0/&gt;: any infringement of a provision of Union law resulting from an act or&lt;t1/&gt; &lt;t2/&gt;omission by an economic operator, which has, or would have, the effect of prejudicing the&lt;t3/&gt; &lt;t4/&gt;Union's&lt;t5/&gt; &lt;t6/&gt;budget;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T174540Z" creationid="juanf" creationdate="20240522T174533Z">
+        <seg>Irregularidad: toda infracción de una disposición del Derecho de la Unión resultante de una acción u omisión de un agente económico, que tenga o tendría por efecto perjudicar al presupuesto de la Unión;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>'Notification' &lt;t0/&gt;(or 'notify'): form of communication between the parties made in writing,&lt;t1/&gt; &lt;t2/&gt;including&lt;t3/&gt; &lt;t4/&gt;by&lt;t5/&gt; &lt;t6/&gt;electronic&lt;t7/&gt; &lt;t8/&gt;means;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T174606Z" creationid="juanf" creationdate="20240522T174606Z">
+        <seg>Notificación (o “notificar”): forma de comunicación entre las partes realizada por escrito, incluso por medios electrónicos;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>'Performance of the contract'&lt;t0/&gt;: the execution of tasks and delivery of the purchased&lt;t1/&gt; &lt;t2/&gt;supplies/services&lt;t3/&gt; &lt;t4/&gt;by&lt;t5/&gt; &lt;t6/&gt;the&lt;t7/&gt; &lt;t8/&gt;contractor&lt;t9/&gt; &lt;t10/&gt;to the&lt;t11/&gt; &lt;t12/&gt;contracting&lt;t13/&gt; &lt;t14/&gt;authority;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T174619Z" creationid="juanf" creationdate="20240522T174619Z">
+        <seg>Ejecución del contrato: ejecución de las tareas y entrega de los suministros/servicios adquiridos por el contratista al poder adjudicador;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>'Personnel'&lt;t0/&gt;: persons employed directly or indirectly or contracted by the contractor to&lt;t1/&gt; &lt;t2/&gt;perform&lt;t3/&gt; &lt;t4/&gt;the&lt;t5/&gt; &lt;t6/&gt;contract;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T174627Z" creationid="juanf" creationdate="20240522T174627Z">
+        <seg>Personal: personas empleadas directa o indirectamente o contratadas por el contratista para ejecutar el contrato;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>'Pre-existing material'&lt;t0/&gt;: any material, document, technology or know-how which exists prior&lt;t1/&gt; &lt;t2/&gt;to&lt;t3/&gt; &lt;t4/&gt;the&lt;t5/&gt; &lt;t6/&gt;contractor&lt;t7/&gt; &lt;t8/&gt;using&lt;t9/&gt; &lt;t10/&gt;it&lt;t11/&gt; &lt;t12/&gt;for&lt;t13/&gt; &lt;t14/&gt;the&lt;t15/&gt; &lt;t16/&gt;production of&lt;t17/&gt; &lt;t18/&gt;a&lt;t19/&gt; &lt;t20/&gt;result&lt;t21/&gt; &lt;t22/&gt;in the&lt;t23/&gt; &lt;t24/&gt;performance&lt;t25/&gt; &lt;t26/&gt;of the&lt;t27/&gt; &lt;t28/&gt;contract&lt;t29/&gt;;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T174656Z" creationid="juanf" creationdate="20240522T174656Z">
+        <seg>Material preexistente: cualquier material, documento, tecnología o know-how que exista antes de que el contratista lo utilice para la producción de un resultado en la ejecución del contrato;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>'Pre-existing right'&lt;t0/&gt;: any industrial and intellectual property right on &lt;t1/&gt;pre-existing material&lt;t2/&gt;; it&lt;t3/&gt; &lt;t4/&gt;may be a right of ownership, a &lt;t5/&gt;licence&lt;t6/&gt; right and/or right of use belonging to the contractor, the&lt;t7/&gt; &lt;t8/&gt;creator&lt;t9/&gt;, the&lt;t10/&gt; &lt;t11/&gt;contracting&lt;t12/&gt; &lt;t13/&gt;authority&lt;t14/&gt; &lt;t15/&gt;or&lt;t16/&gt; &lt;t17/&gt;to any&lt;t18/&gt; &lt;t19/&gt;other&lt;t20/&gt; &lt;t21/&gt;third &lt;t22/&gt;parties;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alumno" changedate="20240514T141338Z" creationid="alumno" creationdate="20240514T141338Z">
@@ -54,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>'e-PRIOR'&lt;t0/&gt;: the service-oriented communication platform that provides a series of web&lt;t1/&gt; &lt;t2/&gt;services and allows the exchange of &lt;t3/&gt;standardised&lt;t4/&gt; electronic messages and documents&lt;t5/&gt; &lt;t6/&gt;between the parties.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T174237Z" creationid="juanf" creationdate="20240522T174237Z">
+        <seg>e-PRIOR: plataforma de comunicación orientada a los servicios que ofrece una serie de servicios web y permite el intercambio de mensajes y documentos electrónicos normalizados entre las partes. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>0.3 x (&lt;t0/&gt;V/d) &lt;t1/&gt;where &lt;t2/&gt;V &lt;t3/&gt;is the price of the relevant purchase or deliverable or &lt;t4/&gt;result &lt;t5/&gt;or, failing&lt;t6/&gt; &lt;t7/&gt;that,&lt;t8/&gt; &lt;t9/&gt;the&lt;t10/&gt; &lt;t11/&gt;amount specified in the&lt;t12/&gt; &lt;t13/&gt;purchase&lt;t14/&gt; &lt;t15/&gt;order;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T140935Z" creationid="juanf" creationdate="20240514T140935Z">
@@ -94,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>AMENDMENTS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173332Z" creationid="juanf" creationdate="20240522T173332Z">
+        <seg>MODIFICACIONES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ANNEX</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T141715Z" creationid="juanf" creationdate="20240514T141640Z">
@@ -126,10 +254,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All &lt;t10/&gt;pre-existing rights &lt;t11/&gt;are licensed to the Union from the&lt;t12/&gt; &lt;t13/&gt;moment&lt;t14/&gt; &lt;t15/&gt;the&lt;t16/&gt; &lt;t17/&gt;results &lt;t18/&gt;are&lt;t19/&gt; &lt;t20/&gt;delivered and&lt;t21/&gt; &lt;t22/&gt;approved by&lt;t23/&gt; &lt;t24/&gt;the&lt;t25/&gt; &lt;t26/&gt;contracting&lt;t27/&gt; &lt;t28/&gt;authority.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173410Z" creationid="juanf" creationdate="20240522T173410Z">
+        <seg>Todos los derechos preexistentes se licencian a la Unión desde el momento en que se entregan los resultados y son aprobados por la autoridad contratante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All deliveries must be made to the agreed place of delivery&lt;t4/&gt; &lt;t5/&gt;during&lt;t6/&gt; &lt;t7/&gt;the&lt;t8/&gt; &lt;t9/&gt;hours indicated in the&lt;t10/&gt; &lt;t11/&gt;purchase&lt;t12/&gt; &lt;t13/&gt;order.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alumno" changedate="20240514T142146Z" creationid="alumno" creationdate="20240514T142146Z">
         <seg>Todas las entregas deberán realizarse en el lugar de entrega acordado durante el horario indicado en la orden de compra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All documents issued by the contractor (end-user agreements, general &lt;t0/&gt;terms&lt;t1/&gt; and conditions, etc.),&lt;t2/&gt; &lt;t3/&gt;with the exception of its tender, are held inapplicable, unless explicitly mentioned in the special&lt;t4/&gt; &lt;t5/&gt;conditions of the contr&lt;t6/&gt;a&lt;t7/&gt;ct.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173857Z" creationid="juanf" creationdate="20240522T173857Z">
+        <seg>Todos los documentos emitidos por el contratista (acuerdos de usuario final, condiciones generales, etc.), a excepción de su oferta, se consideran inaplicables, a menos que se mencionen explícitamente en las condiciones especiales del contrato. </seg>
       </tuv>
     </tu>
     <tu>
@@ -150,10 +294,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An amendment must not make changes to the contract that might alter the initial conditions&lt;t0/&gt; &lt;t1/&gt;of&lt;t2/&gt; &lt;t3/&gt;the&lt;t4/&gt; &lt;t5/&gt;procurement procedure&lt;t6/&gt; &lt;t7/&gt;or&lt;t8/&gt; &lt;t9/&gt;result in unequal&lt;t10/&gt; &lt;t11/&gt;treatment of&lt;t12/&gt; &lt;t13/&gt;tenderers.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173336Z" creationid="juanf" creationdate="20240522T173336Z">
+        <seg>Una modificación no debe introducir cambios en el contrato que puedan alterar las condiciones iniciales del procedimiento de contratación o dar lugar a un trato desigual de los licitadores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An email is deemed to have been received by the receiving party on the day of dispatch of&lt;t0/&gt; &lt;t1/&gt;that email, provided that it is sent to the email address indicated in the purchase order.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="usuario" changedate="20240521T135626Z" creationid="usuario" creationdate="20240521T135626Z">
         <seg>Un correo electrónico se considera recibido por la parte receptora el día de envío de dicho correo, siempre que se envíe a la dirección de correo electrónico indicada en la orden de compra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An infringement by the contractor or its &lt;t0/&gt;personnel &lt;t1/&gt;of the provisions defined in this Article&lt;t2/&gt; &lt;t3/&gt;constitutes a breach of contract entitling the contracting authority to terminate the contract&lt;t4/&gt; &lt;t5/&gt;with immediate effect at the contractor's expense and will render the latter liable for&lt;t6/&gt; &lt;t7/&gt;damages,&lt;t8/&gt; &lt;t9/&gt;with interest, for&lt;t10/&gt; &lt;t11/&gt;any&lt;t12/&gt; &lt;t13/&gt;resulting&lt;t14/&gt; &lt;t15/&gt;loss.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173318Z" creationid="juanf" creationdate="20240522T173318Z">
+        <seg>La infracción por parte del contratista o de su personal de las disposiciones definidas en el presente artículo constituye un incumplimiento de contrato que da derecho al poder adjudicador a rescindir el contrato con efecto inmediato a expensas del contratista y le hará responsable de daños y perjuicios, con intereses, por cualquier pérdida resultante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any amendment to the contract must be made in writing before all contractual obligations&lt;t0/&gt; &lt;t1/&gt;have&lt;t2/&gt; &lt;t3/&gt;been fulfilled.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173335Z" creationid="juanf" creationdate="20240522T173335Z">
+        <seg>Cualquier modificación del contrato deberá hacerse por escrito antes de que se hayan cumplido todas las obligaciones contractuales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -183,6 +351,14 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any personal data included in the contract must be processed in accordance with Regulation&lt;t0/&gt; &lt;t1/&gt;(EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on&lt;t2/&gt; &lt;t3/&gt;the protection of individuals with regard to the processing of personal data by the&lt;t4/&gt; &lt;t5/&gt;Community institutions and bodies and on the free movement of such data.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173213Z" creationid="juanf" creationdate="20240522T173213Z">
+        <seg>Todos los datos personales incluidos en el contrato deberán tratarse de conformidad con el Reglamento (CE) nº 45/2001 del Parlamento Europeo y del Consejo, de 18 de diciembre de 2000, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales por las instituciones y los organismos comunitarios y a la libre circulación de estos datos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Any reduction in price does not affect the contractor's actual or potential liability or the&lt;t0/&gt; &lt;t1/&gt;contracting&lt;t2/&gt; &lt;t3/&gt;authority's rights under&lt;t4/&gt; &lt;t5/&gt;Article&lt;t6/&gt; &lt;t7/&gt;17.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="usuario" changedate="20240430T135235Z" creationid="usuario" creationdate="20240430T135235Z">
@@ -195,6 +371,22 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
       </tuv>
       <tuv lang="es-ES" changeid="alumno" changedate="20240514T143101Z" creationid="alumno" creationdate="20240514T143101Z">
         <seg>Cualquier reparación o sustitución deberá llevarse a cabo en un plazo razonable y sin inconvenientes significativos para el poder adjudicador, teniendo en cuenta la naturaleza de los suministros y la finalidad para la que el poder adjudicador los necesite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any request from a third party to the contract [be it a private person or any public&lt;t0/&gt; &lt;t1/&gt;authority]for&lt;t2/&gt; disclosure of personal data held by the contractor or to which the contractor&lt;t3/&gt; &lt;t4/&gt;has&lt;t5/&gt; &lt;t6/&gt;access must&lt;t7/&gt; &lt;t8/&gt;be&lt;t9/&gt; &lt;t10/&gt;immediately&lt;t11/&gt; &lt;t12/&gt;communicated to&lt;t13/&gt; &lt;t14/&gt;the&lt;t15/&gt; &lt;t16/&gt;contracting&lt;t17/&gt; &lt;t18/&gt;authority.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173308Z" creationid="juanf" creationdate="20240522T173308Z">
+        <seg>Cualquier solicitud de divulgación de datos personales que obren en poder del contratista o a los que éste tenga acceso, por parte de un tercero en el contrato [ya sea un particular o cualquier autoridad pública] deberá comunicarse inmediatamente a la autoridad contratante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any right or obligation assigned by the contractor without &lt;t0/&gt;authorisation&lt;t1/&gt; is not enforceable&lt;t2/&gt; &lt;t3/&gt;against&lt;t4/&gt; &lt;t5/&gt;the&lt;t6/&gt; &lt;t7/&gt;contracting authority.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173344Z" creationid="juanf" creationdate="20240522T173344Z">
+        <seg>12.2 Cualquier derecho u obligación cedido por el contratista sin autorización no es oponible al poder adjudicador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -304,10 +496,34 @@ personal que:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Council&lt;t0/&gt; &lt;t1/&gt;of&lt;t2/&gt; &lt;t3/&gt;the&lt;t4/&gt; &lt;t5/&gt;European&lt;t6/&gt; &lt;t7/&gt;Union</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173711Z" creationid="juanf" creationdate="20240522T173711Z">
+        <seg>Consejo de la Unión Europea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DEFINITIONS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173922Z" creationid="juanf" creationdate="20240522T173922Z">
+        <seg>DEFINICIONES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Date&lt;t0/&gt; &lt;t1/&gt;of&lt;t2/&gt; &lt;t3/&gt;communications&lt;t4/&gt; &lt;t5/&gt;by&lt;t6/&gt; &lt;t7/&gt;post&lt;t8/&gt; &lt;t9/&gt;and&lt;t10/&gt; &lt;t11/&gt;email</seg>
       </tuv>
       <tuv lang="es-ES" changeid="usuario" changedate="20240521T135624Z" creationid="usuario" creationdate="20240521T135624Z">
         <seg>Fecha de las comunicaciones por correo postal y electrónico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Defaults of service, defects in equipment or material or delays in&lt;t41/&gt; &lt;t42/&gt;making them available, &lt;t43/&gt;labour&lt;t44/&gt; disputes, strikes and financial difficulties may not be invoked&lt;t45/&gt; &lt;t46/&gt;as&lt;t47/&gt; &lt;t48/&gt;force&lt;t49/&gt; &lt;t50/&gt;majeure&lt;t51/&gt;, unless&lt;t52/&gt; &lt;t53/&gt;they&lt;t54/&gt; &lt;t55/&gt;stem directly&lt;t56/&gt; &lt;t57/&gt;from&lt;t58/&gt; &lt;t59/&gt;a&lt;t60/&gt; &lt;t61/&gt;relevant&lt;t62/&gt; &lt;t63/&gt;case&lt;t64/&gt; &lt;t65/&gt;of&lt;t66/&gt; &lt;t67/&gt;force&lt;t68/&gt; &lt;t69/&gt;majeure&lt;t70/&gt;;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T174433Z" creationid="juanf" creationdate="20240522T174433Z">
+        <seg>No podrán invocarse como causas de fuerza mayor los incumplimientos del servicio, los defectos del equipo o del material o los retrasos en su puesta a disposición, los conflictos laborales, las huelgas y las dificultades financieras, a menos que se deriven directamente de un caso de fuerza mayor pertinente;</seg>
       </tuv>
     </tu>
     <tu>
@@ -352,6 +568,14 @@ personal que:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Even if the contracting authority &lt;t0/&gt;authorises&lt;t1/&gt; subcontracting, the contractor remains bound by&lt;t2/&gt; &lt;t3/&gt;its&lt;t4/&gt; &lt;t5/&gt;contractual&lt;t6/&gt; &lt;t7/&gt;obligations and&lt;t8/&gt; &lt;t9/&gt;is solely&lt;t10/&gt; &lt;t11/&gt;responsible&lt;t12/&gt; &lt;t13/&gt;for&lt;t14/&gt; &lt;t15/&gt;the&lt;t16/&gt; &lt;t17/&gt;performance&lt;t18/&gt; &lt;t19/&gt;of&lt;t20/&gt; &lt;t21/&gt;the&lt;t22/&gt; &lt;t23/&gt;contract&lt;t24/&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173324Z" creationid="juanf" creationdate="20240522T173324Z">
+        <seg>Aunque la Autoridad Contratante autorice la subcontratación, el contratista seguirá estando vinculado por sus obligaciones contractuales y será el único responsable de la ejecución del contrato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Evidence&lt;t0/&gt; &lt;t1/&gt;of&lt;t2/&gt; &lt;t3/&gt;granting&lt;t4/&gt; &lt;t5/&gt;of&lt;t6/&gt; &lt;t7/&gt;pre-existing&lt;t8/&gt; &lt;t9/&gt;rights</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240430T133641Z" creationid="juanf" creationdate="20240430T133641Z">
@@ -392,6 +616,14 @@ personal que:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For the purpose of the contract, the following definitions (indicated in &lt;t0/&gt;italics &lt;t1/&gt;in the text)&lt;t2/&gt; &lt;t3/&gt;apply:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173935Z" creationid="juanf" creationdate="20240522T173935Z">
+        <seg>A efectos del contrato, se aplicarán las siguientes definiciones (indicadas en cursiva en el texto):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Form&lt;t0/&gt; &lt;t1/&gt;and&lt;t2/&gt; &lt;t3/&gt;means&lt;t4/&gt; &lt;t5/&gt;of&lt;t6/&gt; &lt;t7/&gt;communication</seg>
       </tuv>
       <tuv lang="es-ES" changeid="usuario" changedate="20240521T135621Z" creationid="usuario" creationdate="20240521T135621Z">
@@ -404,6 +636,30 @@ personal que:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="usuario" changedate="20240521T135628Z" creationid="usuario" creationdate="20240521T135628Z">
         <seg>Las notificaciones formales se consideran recibidas por la parte destinataria en la fecha de recepción indicada en el justificante recibido por la parte remitente de que el mensaje ha sido entregado al destinatario especificado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GENERAL&lt;t0/&gt; &lt;t1/&gt;CONDITIONS&lt;t2/&gt; &lt;t3/&gt;OF&lt;t4/&gt; &lt;t5/&gt;THE&lt;t6/&gt; &lt;t7/&gt;CONTRACT</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173748Z" creationid="juanf" creationdate="20240522T173748Z">
+        <seg>CONDICIONES GENERALES DEL CONTRATO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>General&lt;t0/&gt; &lt;t1/&gt;Conditions</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173715Z" creationid="juanf" creationdate="20240522T173715Z">
+        <seg>Condiciones generales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>General&lt;t0/&gt; &lt;t1/&gt;Secretariat</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173730Z" creationid="juanf" creationdate="20240522T173730Z">
+        <seg>Secretaría General </seg>
       </tuv>
     </tu>
     <tu>
@@ -428,6 +684,14 @@ personal que:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="usuario" changedate="20240521T141311Z" creationid="usuario" creationdate="20240521T141311Z">
         <seg>No obstante, si los daños o perjuicios son causados por negligencia grave o dolo del contratista o de su personal o subcontratistas, el contratista será responsable de la totalidad del importe de los daños o perjuicios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>INTELLECTUAL&lt;t0/&gt; &lt;t1/&gt;PROPERTY&lt;t2/&gt; &lt;t3/&gt;RIGHTS</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173347Z" creationid="juanf" creationdate="20240522T173347Z">
+        <seg>DERECHOS DE PROPIEDAD INTELECTUAL</seg>
       </tuv>
     </tu>
     <tu>
@@ -544,6 +808,14 @@ personal que:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the contract requires the contractor to process any personal data, the contractor may act&lt;t0/&gt; &lt;t1/&gt;only under the supervision of the data controller, in particular with regard to the purposes of&lt;t2/&gt; &lt;t3/&gt;the processing, the categories of data that may be processed, the recipients of the data and&lt;t4/&gt; &lt;t5/&gt;the&lt;t6/&gt; &lt;t7/&gt;means by&lt;t8/&gt; &lt;t9/&gt;which data&lt;t10/&gt; &lt;t11/&gt;subjects may&lt;t12/&gt; &lt;t13/&gt;exercise&lt;t14/&gt; &lt;t15/&gt;their&lt;t16/&gt; &lt;t17/&gt;rights.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173227Z" creationid="juanf" creationdate="20240522T173227Z">
+        <seg>Si el contrato exige que el contratista trate datos personales, sólo podrá actuar bajo la supervisión del responsable del tratamiento, en particular por lo que respecta a los fines del tratamiento, las categorías de datos que pueden tratarse, los destinatarios de los datos y los medios por los que los interesados pueden ejercer sus derechos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the contracting authority's liability towards the third party is established and if such&lt;t0/&gt; &lt;t1/&gt;liability is caused by the contractor during or as a consequence of the &lt;t2/&gt;performance of the&lt;t3/&gt; &lt;t4/&gt;contract&lt;t5/&gt;,&lt;t6/&gt; &lt;t7/&gt;Article&lt;t8/&gt; &lt;t9/&gt;6.3 applies.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="lopez" changedate="20240426T152118Z" creationid="lopez" creationdate="20240426T151125Z">
@@ -608,6 +880,14 @@ personal que:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If there is any conflict between different provisions in the contract, the following&lt;t2/&gt; &lt;t3/&gt;rules&lt;t4/&gt; &lt;t5/&gt;must be&lt;t6/&gt; &lt;t7/&gt;applied:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173816Z" creationid="juanf" creationdate="20240522T173816Z">
+        <seg>En caso de conflicto entre distintas disposiciones del contrato, deberán aplicarse las siguientes normas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If, for reasons attributable to the contractor, the contracting authority is unable to accept the&lt;t0/&gt; &lt;t1/&gt;supplies,&lt;t2/&gt; &lt;t3/&gt;the&lt;t4/&gt; &lt;t5/&gt;contractor must be&lt;t6/&gt; &lt;t7/&gt;notified&lt;t8/&gt; &lt;t9/&gt;at the&lt;t10/&gt; &lt;t11/&gt;latest by&lt;t12/&gt; &lt;t13/&gt;the&lt;t14/&gt; &lt;t15/&gt;deadline&lt;t16/&gt; &lt;t17/&gt;for&lt;t18/&gt; &lt;t19/&gt;conformity.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alumno" changedate="20240514T142357Z" creationid="alumno" creationdate="20240514T142357Z">
@@ -632,6 +912,14 @@ personal que:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In all circumstances, in the event of contradiction between the contract&lt;t8/&gt; &lt;t9/&gt;and documents issued by the contractor, the contract prevails, regardless of any provision to the&lt;t10/&gt; &lt;t11/&gt;contrary&lt;t12/&gt; &lt;t13/&gt;in the&lt;t14/&gt; &lt;t15/&gt;contractor's documents.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173916Z" creationid="juanf" creationdate="20240522T173916Z">
+        <seg>En cualquier circunstancia, en caso de contradicción entre el contrato y los documentos emitidos por el contratista, prevalecerá el contrato, independientemente de cualquier disposición en contrario en los documentos del contratista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In such a case, the contractor must inform the&lt;t14/&gt; &lt;t15/&gt;contracting authority before making such a choice and the contracting authority has the right&lt;t16/&gt; &lt;t17/&gt;to&lt;t18/&gt; &lt;t19/&gt;refuse&lt;t20/&gt; &lt;t21/&gt;it.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T140018Z" creationid="juanf" creationdate="20240514T140018Z">
@@ -644,6 +932,14 @@ personal que:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="usuario" changedate="20240521T135627Z" creationid="usuario" creationdate="20240521T135627Z">
         <seg>En tal caso, no se considera que la parte remitente haya incumplido su obligación de enviar dicha comunicación dentro de un plazo determinado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In such cases, the contractor must provide the contracting authority with the&lt;t6/&gt; &lt;t7/&gt;identity&lt;t8/&gt; &lt;t9/&gt;of&lt;t10/&gt; &lt;t11/&gt;the&lt;t12/&gt; &lt;t13/&gt;intended assignee.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173342Z" creationid="juanf" creationdate="20240522T173342Z">
+        <seg>En tal caso, el contratista deberá facilitar a la Autoridad contratante la identidad del cesionario previsto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -688,10 +984,26 @@ personal que:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It cannot include&lt;t7/&gt; &lt;t8/&gt;information&lt;t9/&gt; &lt;t10/&gt;that is publicly&lt;t11/&gt; &lt;t12/&gt;available;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T174105Z" creationid="juanf" creationdate="20240522T174105Z">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It must&lt;t4/&gt; &lt;t5/&gt;also take out supplementary insurance as reasonably required by standard practice in the&lt;t6/&gt; &lt;t7/&gt;industry.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="usuario" changedate="20240521T135728Z" creationid="usuario" creationdate="20240521T135728Z">
         <seg>Asimismo, deberá suscribir los seguros complementarios que razonablemente exija la práctica habitual en el sector.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>June&lt;t0/&gt; &lt;t1/&gt;2016&lt;t2/&gt; &lt;t3/&gt;-&lt;t4/&gt; &lt;t5/&gt;EN</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173735Z" creationid="juanf" creationdate="20240522T173735Z">
+        <seg>Junio de 2016 - ES</seg>
       </tuv>
     </tu>
     <tu>
@@ -708,6 +1020,22 @@ personal que:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T140930Z" creationid="juanf" creationdate="20240514T140930Z">
         <seg>LIQUIDACIÓN DE DAÑOS Y PERJUICIOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Licensing&lt;t0/&gt; &lt;t1/&gt;rights&lt;t2/&gt; &lt;t3/&gt;on&lt;t4/&gt; &lt;t5/&gt;pre-existing&lt;t6/&gt; &lt;t7/&gt;materials</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173404Z" creationid="juanf" creationdate="20240522T173404Z">
+        <seg>Derechos de licencia sobre materiales preexistentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modes&lt;t0/&gt; &lt;t1/&gt;of&lt;t2/&gt; &lt;t3/&gt;exploitation</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173426Z" creationid="juanf" creationdate="20240522T173426Z">
+        <seg>Modos de explotación</seg>
       </tuv>
     </tu>
     <tu>
@@ -732,6 +1060,14 @@ personal que:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alumno" changedate="20240514T142230Z" creationid="alumno" creationdate="20240514T142230Z">
         <seg>Un ejemplar de la carta de porte deberá ser refrendado por la Autoridad contratante y devuelto al contratista o a su transportista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ownership&lt;t0/&gt; &lt;t1/&gt;of&lt;t2/&gt; &lt;t3/&gt;the&lt;t4/&gt; &lt;t5/&gt;rights&lt;t6/&gt; &lt;t7/&gt;in&lt;t8/&gt; &lt;t9/&gt;the&lt;t10/&gt; &lt;t11/&gt;results</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173349Z" creationid="juanf" creationdate="20240522T173349Z">
+        <seg>Propiedad de los derechos sobre los resultados</seg>
       </tuv>
     </tu>
     <tu>
@@ -892,6 +1228,30 @@ personal que:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Such data must&lt;t6/&gt; &lt;t7/&gt;be processed by the data controller solely for the purposes of the performance, &lt;t8/&gt;management&lt;t9/&gt; &lt;t10/&gt;and monitoring of the contract.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173216Z" creationid="juanf" creationdate="20240522T173216Z">
+        <seg>Dichos datos deben ser tratados por el responsable del tratamiento únicamente a efectos de la ejecución, gestión y seguimiento del contrato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Such delivery and approval are deemed to constitute an effective assignment of&lt;t21/&gt; &lt;t22/&gt;rights&lt;t23/&gt; &lt;t24/&gt;from the&lt;t25/&gt; &lt;t26/&gt;contractor&lt;t27/&gt; &lt;t28/&gt;to the&lt;t29/&gt; &lt;t30/&gt;Union.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173359Z" creationid="juanf" creationdate="20240522T173359Z">
+        <seg>Se considera que dicha entrega y aprobación constituyen una cesión efectiva de derechos del contratista a la Unión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Such use by the contractor will not entail any&lt;t9/&gt; &lt;t10/&gt;transfer&lt;t11/&gt; &lt;t12/&gt;of&lt;t13/&gt; &lt;t14/&gt;rights to&lt;t15/&gt; &lt;t16/&gt;the&lt;t17/&gt; &lt;t18/&gt;contractor&lt;t19/&gt; &lt;t20/&gt;and&lt;t21/&gt; &lt;t22/&gt;is limited to the&lt;t23/&gt; &lt;t24/&gt;needs of&lt;t25/&gt; &lt;t26/&gt;the&lt;t27/&gt; &lt;t28/&gt;contract.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173424Z" creationid="juanf" creationdate="20240522T173424Z">
+        <seg>Esta utilización por parte del contratista no implicará ninguna cesión de derechos a su favor y se limitará a las necesidades del contrato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Suspension&lt;t0/&gt; &lt;t1/&gt;by&lt;t2/&gt; &lt;t3/&gt;the&lt;t4/&gt; &lt;t5/&gt;contracting&lt;t6/&gt; &lt;t7/&gt;authority</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T141006Z" creationid="juanf" creationdate="20240514T141006Z">
@@ -924,6 +1284,14 @@ personal que:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Technical&lt;t20/&gt; &lt;t21/&gt;specifications (i.e. the &lt;t22/&gt;interface control document&lt;t23/&gt;), details on access and user manuals are&lt;t24/&gt; &lt;t25/&gt;available&lt;t26/&gt; &lt;t27/&gt;on the&lt;t28/&gt; &lt;t29/&gt;following</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T174342Z" creationid="juanf" creationdate="20240522T174342Z">
+        <seg>Las especificaciones técnicas (es decir, el documento de control de la interfaz), los detalles sobre el acceso y los manuales de usuario están disponibles en el siguiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The PDF and XML documents generated in relation&lt;t6/&gt; &lt;t7/&gt;to the financial document are to be considered as proof of receipt by the contracting&lt;t8/&gt; &lt;t9/&gt;authority.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="usuario" changedate="20240521T135721Z" creationid="usuario" creationdate="20240521T135721Z">
@@ -932,10 +1300,34 @@ personal que:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Union acquires all&lt;t15/&gt; &lt;t16/&gt;the rights from the moment the contracting authority approves the &lt;t17/&gt;results &lt;t18/&gt;delivered by the&lt;t19/&gt; &lt;t20/&gt;contractor.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173357Z" creationid="juanf" creationdate="20240522T173357Z">
+        <seg>La Unión adquiere todos los derechos a partir del momento en que el poder adjudicador aprueba los resultados entregados por el contratista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Union irrevocably acquires worldwide ownership of the &lt;t0/&gt;results &lt;t1/&gt;and of all intellectual&lt;t2/&gt; &lt;t3/&gt;property rights under the contract.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173351Z" creationid="juanf" creationdate="20240522T173351Z">
+        <seg>La Unión adquiere irrevocablemente la propiedad mundial de los resultados y de todos los derechos de propiedad intelectual derivados del contrato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The confidentiality obligations set out in this Article are binding on the contracting authority&lt;t0/&gt; &lt;t1/&gt;and the contractor during the &lt;t2/&gt;performance of the contract &lt;t3/&gt;and for as long as the information&lt;t4/&gt; &lt;t5/&gt;or&lt;t6/&gt; &lt;t7/&gt;documents remain confidential unless:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="lopez" changedate="20240503T153934Z" creationid="lopez" creationdate="20240503T153934Z">
         <seg>Las obligaciones de confidencialidad que figuran en el artículo se vinculan a la autoridad contratante y al contratista durante la ejecución del contrato y mientras la información o los documentos sigan siendo oficiales a menos que: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The contract consists of a purchase order and these general conditions, including the Annex on&lt;t0/&gt; &lt;t1/&gt;security measures.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173809Z" creationid="juanf" creationdate="20240522T173809Z">
+        <seg>El contrato consta de una orden de compra y de las presentes condiciones generales, incluido el anexo sobre medidas de seguridad. </seg>
       </tuv>
     </tu>
     <tu>
@@ -968,6 +1360,14 @@ personal que:</seg>
       </tuv>
       <tuv lang="es-ES" changeid="lopez" changedate="20240426T152105Z" creationid="lopez" creationdate="20240426T152105Z">
         <seg>La autoridad contratante no se hace responsable de ninguna pérdida o daño causada al contratista durante o como consecuencia del rendimiento del contrato, al menos que el daño o la pérdida fueran causados por una deliberada mala conducta o flagrante negligencia de la autoridad contratante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The contracting authority may request that the contractor replace a subcontractor found to be&lt;t0/&gt; &lt;t1/&gt;in&lt;t2/&gt; &lt;t3/&gt;a&lt;t4/&gt; &lt;t5/&gt;situation provided for&lt;t6/&gt; &lt;t7/&gt;in points&lt;t8/&gt; &lt;t9/&gt;(d)&lt;t10/&gt; &lt;t11/&gt;and (e)&lt;t12/&gt; &lt;t13/&gt;of&lt;t14/&gt; &lt;t15/&gt;Article&lt;t16/&gt; &lt;t17/&gt;17.1.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173327Z" creationid="juanf" creationdate="20240522T173327Z">
+        <seg>El poder adjudicador podrá solicitar al contratista que sustituya a un subcontratista que se encuentre en una de las situaciones previstas en las letras d) y e) del artículo 17.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1028,6 +1428,14 @@ personal que:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The contracting authority&lt;t13/&gt; &lt;t14/&gt;may exploit and use the acquired rights as stipulated in the contract.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173355Z" creationid="juanf" creationdate="20240522T173355Z">
+        <seg>El poder adjudicador podrá explotar y utilizar los derechos adquiridos según lo estipulado en el contrato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The contracting&lt;t6/&gt; &lt;t7/&gt;authority&lt;t8/&gt; &lt;t9/&gt;may&lt;t10/&gt; &lt;t11/&gt;waive&lt;t12/&gt; &lt;t13/&gt;this&lt;t14/&gt; &lt;t15/&gt;obligation&lt;t16/&gt; &lt;t17/&gt;in writing&lt;t18/&gt; &lt;t19/&gt;or&lt;t20/&gt; &lt;t21/&gt;provide&lt;t22/&gt; &lt;t23/&gt;the&lt;t24/&gt; &lt;t25/&gt;text of&lt;t26/&gt; &lt;t27/&gt;the&lt;t28/&gt; &lt;t29/&gt;disclaimer.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T140920Z" creationid="juanf" creationdate="20240514T140920Z">
@@ -1076,6 +1484,14 @@ personal que:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The contractor has the right to access its personal data and the right to rectify any such data.&lt;t0/&gt; &lt;t1/&gt;The contractor should address any queries concerning the processing of its personal data to&lt;t2/&gt; &lt;t3/&gt;the&lt;t4/&gt; &lt;t5/&gt;data&lt;t6/&gt; &lt;t7/&gt;controller.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173221Z" creationid="juanf" creationdate="20240522T173221Z">
+        <seg>El contratista deberá dirigir cualquier consulta relativa al tratamiento de sus datos personales al responsable del tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The contractor is also responsible for any conformity defect which occurs after delivery and&lt;t0/&gt; &lt;t1/&gt;is ascribable to non-compliance with its obligations, including failure to provide a guarantee&lt;t2/&gt; &lt;t3/&gt;that, for a certain period, supplies used for the purposes for which they are normally used or&lt;t4/&gt; &lt;t5/&gt;for&lt;t6/&gt; &lt;t7/&gt;a&lt;t8/&gt; &lt;t9/&gt;specific&lt;t10/&gt; &lt;t11/&gt;purpose&lt;t12/&gt; &lt;t13/&gt;will&lt;t14/&gt; &lt;t15/&gt;preserve&lt;t16/&gt; &lt;t17/&gt;their&lt;t18/&gt; &lt;t19/&gt;qualities&lt;t20/&gt; &lt;t21/&gt;or&lt;t22/&gt; &lt;t23/&gt;characteristics as&lt;t24/&gt; &lt;t25/&gt;specified.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alumno" changedate="20240514T143530Z" creationid="alumno" creationdate="20240514T143530Z">
@@ -1108,6 +1524,14 @@ personal que:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The contractor licenses the &lt;t0/&gt;pre-existing rights &lt;t1/&gt;on a royalty-free, &lt;t2/&gt;non-exclusive&lt;t3/&gt; and&lt;t4/&gt; &lt;t5/&gt;irrevocable basis to the Union, which may use the &lt;t6/&gt;pre-existing materials &lt;t7/&gt;for all the modes of&lt;t8/&gt; &lt;t9/&gt;exploitation set out in the contract.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173408Z" creationid="juanf" creationdate="20240522T173408Z">
+        <seg>El contratista licencia los derechos preexistentes sobre una base libre de regalías, no exclusiva e irrevocable a la Unión, que puede utilizar los materiales preexistentes para todos los modos de explotación establecidos en el contrato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The contractor must &lt;t0/&gt;notify &lt;t1/&gt;the contracting authority as soon as it is able to resume&lt;t2/&gt; &lt;t3/&gt;performance of the &lt;t4/&gt;contract&lt;t5/&gt;, unless&lt;t6/&gt; the contracting authority has already terminated the&lt;t7/&gt; &lt;t8/&gt;contract.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T141003Z" creationid="juanf" creationdate="20240514T141003Z">
@@ -1121,6 +1545,14 @@ personal que:</seg>
       <tuv lang="es-ES" changeid="lopez" changedate="20240430T134634Z" creationid="lopez" creationdate="20240430T134634Z">
         <seg>El contratista deberá notificar por escrito al órgano de contratación, lo antes posible, cualquier situación que pudiera constituir un conflicto de intereses o un conflicto de intereses profesionales
 durante la ejecución del contrato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The contractor must adopt appropriate technical and &lt;t0/&gt;organisational&lt;t1/&gt; security measures,&lt;t2/&gt; &lt;t3/&gt;giving due regard to the risks inherent in the processing and to the nature of the personal&lt;t4/&gt; &lt;t5/&gt;data&lt;t6/&gt; &lt;t7/&gt;concerned, in order&lt;t8/&gt; &lt;t9/&gt;to:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173234Z" creationid="juanf" creationdate="20240522T173234Z">
+        <seg>El contratista deberá adoptar las medidas de seguridad técnicas y organizativas apropiadas, teniendo debidamente en cuenta los riesgos inherentes al tratamiento y la naturaleza de los datos personales de que se trate, a fin de</seg>
       </tuv>
     </tu>
     <tu>
@@ -1165,6 +1597,22 @@ durante la ejecución del contrato.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The contractor must ensure that the subcontract does not affect the rights of the contracting&lt;t0/&gt; &lt;t1/&gt;authority&lt;t2/&gt; &lt;t3/&gt;under&lt;t4/&gt; &lt;t5/&gt;the&lt;t6/&gt; &lt;t7/&gt;contract, particularly&lt;t8/&gt; &lt;t9/&gt;those&lt;t10/&gt; &lt;t11/&gt;under&lt;t12/&gt; &lt;t13/&gt;Articles 8, 13&lt;t14/&gt; &lt;t15/&gt;and 21.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173326Z" creationid="juanf" creationdate="20240522T173326Z">
+        <seg>El contratista debe velar por que el subcontrato no afecte a los derechos del poder adjudicador en virtud del contrato, en particular los contemplados en los artículos 8, 13 y 21.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The contractor must grant &lt;t0/&gt;personnel &lt;t1/&gt;access to the data to the extent strictly necessary for the&lt;t2/&gt; &lt;t3/&gt;performance,&lt;t4/&gt; &lt;t5/&gt;management&lt;t6/&gt; and monitoring&lt;t7/&gt; &lt;t8/&gt;of&lt;t9/&gt; &lt;t10/&gt;the&lt;t11/&gt; &lt;t12/&gt;contract.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173232Z" creationid="juanf" creationdate="20240522T173232Z">
+        <seg>El contratista deberá conceder al personal acceso a los datos en la medida estrictamente necesaria para la ejecución, gestión y seguimiento del contrato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The contractor must guarantee that any permits and &lt;t0/&gt;licences&lt;t1/&gt; required for manufacturing and&lt;t2/&gt; &lt;t3/&gt;selling&lt;t4/&gt; &lt;t5/&gt;the&lt;t6/&gt; &lt;t7/&gt;supplies have&lt;t8/&gt; &lt;t9/&gt;been obtained.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alumno" changedate="20240514T143448Z" creationid="alumno" creationdate="20240514T143448Z">
@@ -1189,10 +1637,26 @@ durante la ejecución del contrato.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The contractor must not assign the rights and obligations arising from the contract, including&lt;t0/&gt; &lt;t1/&gt;claims for payments or factoring, without prior written &lt;t2/&gt;authorisation&lt;t3/&gt; from the contracting&lt;t4/&gt; &lt;t5/&gt;authority.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173340Z" creationid="juanf" creationdate="20240522T173340Z">
+        <seg>El contratista no podrá ceder los derechos y obligaciones derivados del contrato, incluidas las reclamaciones de pago o el factoring, sin autorización previa y por escrito de la Autoridad Contratante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The contractor must not present itself as a representative of the contracting authority and&lt;t0/&gt; &lt;t1/&gt;must&lt;t2/&gt; &lt;t3/&gt;inform third&lt;t4/&gt; &lt;t5/&gt;parties that&lt;t6/&gt; &lt;t7/&gt;it is&lt;t8/&gt; &lt;t9/&gt;not part of&lt;t10/&gt; &lt;t11/&gt;the&lt;t12/&gt; &lt;t13/&gt;European&lt;t14/&gt; &lt;t15/&gt;public&lt;t16/&gt; &lt;t17/&gt;service.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="usuario" changedate="20240503T154452Z" creationid="usuario" creationdate="20240503T154452Z">
         <seg>El contratante no debe de presentarse a sí mismo como representante de la autoridad contratante y debe de informar a las terceras partes que no es parte de los servicios públicos Europeos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The contractor must not subcontract and have the contract performed by third parties beyond&lt;t0/&gt; &lt;t1/&gt;the third parties already mentioned in its tender without prior written &lt;t2/&gt;authorisation&lt;t3/&gt; from the&lt;t4/&gt; &lt;t5/&gt;contracting&lt;t6/&gt; &lt;t7/&gt;authority.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173322Z" creationid="juanf" creationdate="20240522T173322Z">
+        <seg>El contratista no podrá subcontratar y hacer ejecutar el contrato por terceros más allá de los terceros ya mencionados en su oferta sin la autorización previa y por escrito del órgano de contratación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1287,6 +1751,22 @@ durante la ejecución del contrato.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The intellectual property rights so acquired include any&lt;t4/&gt; &lt;t5/&gt;rights, such as copyright and other intellectual or industrial property rights, to any of the&lt;t6/&gt; &lt;t7/&gt;results &lt;t8/&gt;and to all technological solutions and information created or produced by the&lt;t9/&gt; &lt;t10/&gt;contractor or by its subcontractor in &lt;t11/&gt;performance of the contract&lt;t12/&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173352Z" creationid="juanf" creationdate="20240522T173352Z">
+        <seg>Los derechos de propiedad intelectual así adquiridos incluyen todos los derechos, como los derechos de autor y otros derechos de propiedad intelectual o industrial, sobre cualquiera de los resultados y sobre todas las soluciones tecnológicas y la información creadas o producidas por el contratista o por su subcontratista en ejecución del contrato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The licensing of &lt;t0/&gt;pre-existing rights &lt;t1/&gt;to the Union under the contract covers all territories&lt;t2/&gt; &lt;t3/&gt;worldwide&lt;t4/&gt; &lt;t5/&gt;and is valid&lt;t6/&gt; &lt;t7/&gt;for&lt;t8/&gt; &lt;t9/&gt;the&lt;t10/&gt; &lt;t11/&gt;duration&lt;t12/&gt; &lt;t13/&gt;of&lt;t14/&gt; &lt;t15/&gt;intellectual property&lt;t16/&gt; &lt;t17/&gt;rights protection.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173412Z" creationid="juanf" creationdate="20240522T173412Z">
+        <seg>La licencia de los derechos preexistentes a la Unión en virtud del contrato abarca todos los territorios del mundo y es válida mientras dure la protección de los derechos de propiedad intelectual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The parties agree that an invoice, sent via the &lt;t0/&gt;supplier portal&lt;t1/&gt;, qualifies as an electronic&lt;t2/&gt; &lt;t3/&gt;invoice.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="usuario" changedate="20240521T135719Z" creationid="usuario" creationdate="20240521T135719Z">
@@ -1315,6 +1795,30 @@ durante la ejecución del contrato.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="usuario" changedate="20240521T135630Z" creationid="usuario" creationdate="20240521T135630Z">
         <seg>Las partes acuerdan que todo documento financiero y sus anexos intercambiados a través del portal del proveedor o a través de una conexión directa establecida entre el contratista y los servicios administrativos de la Autoridad Contratante tendrán los mismos efectos jurídicos que las facturas en papel y serán admisibles como prueba en procedimientos judiciales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The payment of the price as set out in the contract is deemed to also include any fees&lt;t0/&gt; &lt;t1/&gt;payable to the contractor in relation to the licensing of &lt;t2/&gt;pre-existing rights &lt;t3/&gt;to the Union,&lt;t4/&gt; &lt;t5/&gt;including&lt;t6/&gt; &lt;t7/&gt;for&lt;t8/&gt; &lt;t9/&gt;all forms of&lt;t10/&gt; &lt;t11/&gt;exploitation and&lt;t12/&gt; &lt;t13/&gt;of&lt;t14/&gt; &lt;t15/&gt;use&lt;t16/&gt; &lt;t17/&gt;of&lt;t18/&gt; &lt;t19/&gt;the&lt;t20/&gt; &lt;t21/&gt;results&lt;t22/&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173413Z" creationid="juanf" creationdate="20240522T173413Z">
+        <seg>Se considera que el pago del precio establecido en el contrato incluye también cualquier tasa pagadera al contratista en relación con la concesión de licencias de derechos preexistentes a la Unión, incluidas todas las formas de explotación y de uso de los resultados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The payment of the price includes any fees payable to the contractor in relation to the&lt;t0/&gt; &lt;t1/&gt;acquisition of ownership of rights by the Union including for all forms of exploitation and of&lt;t2/&gt; &lt;t3/&gt;use&lt;t4/&gt; &lt;t5/&gt;of&lt;t6/&gt; &lt;t7/&gt;the&lt;t8/&gt; &lt;t9/&gt;results&lt;t10/&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173402Z" creationid="juanf" creationdate="20240522T173402Z">
+        <seg>El pago del precio incluye cualquier tasa pagadera al contratista en relación con la adquisición de la titularidad de los derechos por parte de la Unión, incluidas todas las formas de explotación y uso de los resultados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The platform may be used to exchange electronic&lt;t18/&gt; &lt;t19/&gt;documents (e-documents) such as electronic invoices between the parties.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T174325Z" creationid="juanf" creationdate="20240522T174325Z">
+        <seg>La plataforma puede utilizarse para intercambiar documentos electrónicos (e-documents), como facturas electrónicas, entre las partes. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1375,6 +1879,22 @@ durante la ejecución del contrato.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The&lt;t0/&gt; &lt;t1/&gt;Union&lt;t2/&gt; &lt;t3/&gt;acquires&lt;t4/&gt; &lt;t5/&gt;the&lt;t6/&gt; &lt;t7/&gt;rights&lt;t8/&gt; &lt;t9/&gt;to&lt;t10/&gt; &lt;t11/&gt;the&lt;t12/&gt; &lt;t13/&gt;results for&lt;t14/&gt; &lt;t15/&gt;the following&lt;t16/&gt; &lt;t17/&gt;modes&lt;t18/&gt; &lt;t19/&gt;of exploitation:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173428Z" creationid="juanf" creationdate="20240522T173428Z">
+        <seg>La Unión adquiere los derechos sobre los resultados para los siguientes modos de explotación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The&lt;t0/&gt; &lt;t1/&gt;Union&lt;t2/&gt; &lt;t3/&gt;does&lt;t4/&gt; &lt;t5/&gt;not&lt;t6/&gt; &lt;t7/&gt;acquire&lt;t8/&gt; &lt;t9/&gt;ownership&lt;t10/&gt; &lt;t11/&gt;of&lt;t12/&gt; &lt;t13/&gt;pre-existing&lt;t14/&gt; &lt;t15/&gt;rights&lt;t16/&gt; &lt;t17/&gt;under&lt;t18/&gt; &lt;t19/&gt;the&lt;t20/&gt; &lt;t21/&gt;contract.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173406Z" creationid="juanf" creationdate="20240522T173406Z">
+        <seg>La Unión no adquiere la propiedad de los derechos preexistentes en virtud del contrato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The&lt;t0/&gt; &lt;t1/&gt;contract must be interpreted as if it had contained the substitute provision as from its entry&lt;t2/&gt; &lt;t3/&gt;into&lt;t4/&gt; &lt;t5/&gt;force.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alumno" changedate="20240514T141954Z" creationid="alumno" creationdate="20240514T141954Z">
@@ -1411,6 +1931,14 @@ durante la ejecución del contrato.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T141607Z" creationid="juanf" creationdate="20240514T141607Z">
         <seg>El poder adjudicador debe notificar al contratista lo antes posible si:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The&lt;t0/&gt; &lt;t1/&gt;contractor&lt;t2/&gt; &lt;t3/&gt;has&lt;t4/&gt; &lt;t5/&gt;right&lt;t6/&gt; &lt;t7/&gt;of&lt;t8/&gt; &lt;t9/&gt;recourse&lt;t10/&gt; &lt;t11/&gt;at&lt;t12/&gt; &lt;t13/&gt;any&lt;t14/&gt; &lt;t15/&gt;time&lt;t16/&gt; &lt;t17/&gt;to&lt;t18/&gt; &lt;t19/&gt;the&lt;t20/&gt; &lt;t21/&gt;European&lt;t22/&gt; &lt;t23/&gt;Data&lt;t24/&gt; &lt;t25/&gt;Protection&lt;t26/&gt; &lt;t27/&gt;Supervisor.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173224Z" creationid="juanf" creationdate="20240522T173224Z">
+        <seg>El contratista tiene derecho a recurrir en cualquier momento al Supervisor Europeo de Protección de Datos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1471,6 +1999,14 @@ durante la ejecución del contrato.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This does not affect its possible transmission to bodies&lt;t11/&gt; &lt;t12/&gt;entrusted&lt;t13/&gt; &lt;t14/&gt;with monitoring&lt;t15/&gt; &lt;t16/&gt;or&lt;t17/&gt; &lt;t18/&gt;inspection tasks in application&lt;t19/&gt; &lt;t20/&gt;of&lt;t21/&gt; &lt;t22/&gt;Union law.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173219Z" creationid="juanf" creationdate="20240522T173219Z">
+        <seg>Ello no afecta a su posible transmisión a organismos encargados de tareas de control o inspección en aplicación del Derecho de la Unión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This does not affect the legality, &lt;t6/&gt;validity&lt;t7/&gt; or enforceability of any other&lt;t8/&gt; &lt;t9/&gt;provisions&lt;t10/&gt; &lt;t11/&gt;of&lt;t12/&gt; &lt;t13/&gt;the&lt;t14/&gt; &lt;t15/&gt;contract, which&lt;t16/&gt; &lt;t17/&gt;continue&lt;t18/&gt; &lt;t19/&gt;in full force&lt;t20/&gt; &lt;t21/&gt;and&lt;t22/&gt; &lt;t23/&gt;effect.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alumno" changedate="20240514T141805Z" creationid="alumno" creationdate="20240514T141805Z">
@@ -1499,6 +2035,14 @@ durante la ejecución del contrato.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="usuario" changedate="20240430T134919Z" creationid="usuario" creationdate="20240430T134919Z">
         <seg>Esto incluye, en particular, casos en los que el poder adjudicador no pueda aprobar un resultado, informe o entregable según lo definido en la orden de compra después de que el contratista haya presentado la información adicional, corrección o nueva versión requerida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is done either through web services, with a machine-to-machine&lt;t7/&gt; &lt;t8/&gt;connection between the parties' &lt;t9/&gt;back office&lt;t10/&gt; &lt;t11/&gt;systems (&lt;t12/&gt;EDI messages&lt;t13/&gt;), or through a web&lt;t14/&gt; &lt;t15/&gt;application (the s&lt;t16/&gt;upplier portal&lt;t17/&gt;).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T174305Z" creationid="juanf" creationdate="20240522T174305Z">
+        <seg>Esto se hace a través de servicios web, con una conexión de máquina a máquina entre los sistemas de back office de las partes (mensajes EDI), o a través de una aplicación web (el portal del proveedor).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1623,6 +2167,14 @@ durante la ejecución del contrato.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Where &lt;t0/&gt;performance of the contract &lt;t1/&gt;requires that the contractor use &lt;t2/&gt;pre-existing materials&lt;t3/&gt; &lt;t4/&gt;belonging to the contracting authority, the contracting authority may request that the&lt;t5/&gt; &lt;t6/&gt;contractor sign an adequate &lt;t7/&gt;licence&lt;t8/&gt; agreement.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173422Z" creationid="juanf" creationdate="20240522T173422Z">
+        <seg>Cuando la ejecución del contrato requiera que el contratista utilice materiales preexistentes pertenecientes al poder adjudicador, éste podrá solicitar que el contratista firme un acuerdo de licencia adecuado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Where &lt;t0/&gt;pre-existing materials &lt;t1/&gt;are inserted in the &lt;t2/&gt;results&lt;t3/&gt;, the contracting authority may accept&lt;t4/&gt; &lt;t5/&gt;reasonable restrictions impacting on the above list, provided that the said materials are easily&lt;t6/&gt; &lt;t7/&gt;identifiable and separable from the rest, that they do not correspond to substantial elements&lt;t8/&gt; &lt;t9/&gt;of the &lt;t10/&gt;results&lt;t11/&gt;, and that, should the need arise, satisfactory replacement solutions exist, at no&lt;t12/&gt; &lt;t13/&gt;additional cost to the contracting authority.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240426T152905Z" creationid="juanf" creationdate="20240426T152416Z">
@@ -1667,6 +2219,15 @@ durante la ejecución del contrato.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T141121Z" creationid="juanf" creationdate="20240514T141121Z">
         <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>adaptation:&lt;t0/&gt; &lt;t1/&gt;the&lt;t2/&gt; &lt;t3/&gt;exclusive&lt;t4/&gt; &lt;t5/&gt;right to&lt;t6/&gt; &lt;t7/&gt;authorise&lt;t8/&gt; &lt;t9/&gt;or&lt;t10/&gt; &lt;t11/&gt;prohibit any&lt;t12/&gt; &lt;t13/&gt;modification of&lt;t14/&gt; &lt;t15/&gt;the</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173449Z" creationid="juanf" creationdate="20240522T173449Z">
+        <seg>(e) adaptación: el derecho exclusivo de autorizar o prohibir cualquier modificación de los
+resultados;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1735,6 +2296,14 @@ durante la ejecución del contrato.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>communication to the public: the exclusive right to &lt;t0/&gt;authorise&lt;t1/&gt; or prohibit any display,&lt;t2/&gt; &lt;t3/&gt;performance or communication to the public, by wired or wireless means, including&lt;t4/&gt; &lt;t5/&gt;the making available to the public of the &lt;t6/&gt;results &lt;t7/&gt;in such a way that members of the&lt;t8/&gt; &lt;t9/&gt;public may access them from a place and at a time individually chosen by them; this&lt;t10/&gt; &lt;t11/&gt;right&lt;t12/&gt; &lt;t13/&gt;also includes&lt;t14/&gt; &lt;t15/&gt;communication and broadcasting&lt;t16/&gt; &lt;t17/&gt;by&lt;t18/&gt; &lt;t19/&gt;cable&lt;t20/&gt; &lt;t21/&gt;or&lt;t22/&gt; &lt;t23/&gt;by&lt;t24/&gt; &lt;t25/&gt;satellite;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173432Z" creationid="juanf" creationdate="20240522T173432Z">
+        <seg>(b) comunicación al público: el derecho exclusivo de autorizar o prohibir cualquier presentación, ejecución o comunicación al público, por medios alámbricos o inalámbricos, incluida la puesta a disposición del público de los resultados de forma que los miembros del público puedan acceder a ellos desde un lugar y en un momento elegidos individualmente por ellos; este derecho también incluye la comunicación y difusión por cable o por satélite;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>correspond to the description given in the contractor's tender and possess the&lt;t0/&gt; &lt;t1/&gt;characteristics of the supplies provided by the contractor to the contracting authority as&lt;t2/&gt; &lt;t3/&gt;a&lt;t4/&gt; &lt;t5/&gt;sample&lt;t6/&gt; &lt;t7/&gt;or&lt;t8/&gt; &lt;t9/&gt;model;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alumno" changedate="20240514T142455Z" creationid="alumno" creationdate="20240514T142455Z">
@@ -1775,6 +2344,23 @@ durante la ejecución del contrato.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>design its &lt;t0/&gt;organisational&lt;t1/&gt; structure in such a way that it meets data protection&lt;t2/&gt; &lt;t3/&gt;requirements.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173305Z" creationid="juanf" creationdate="20240522T173305Z">
+        <seg>(f) diseñar su estructura organizativa de forma que cumpla los requisitos de protección de datos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>distribution:&lt;t0/&gt; &lt;t1/&gt;the&lt;t2/&gt; &lt;t3/&gt;exclusive&lt;t4/&gt; &lt;t5/&gt;right&lt;t6/&gt; &lt;t7/&gt;to &lt;t8/&gt;authorise&lt;t9/&gt; &lt;t10/&gt;or&lt;t11/&gt; &lt;t12/&gt;prohibit&lt;t13/&gt; &lt;t14/&gt;any&lt;t15/&gt; &lt;t16/&gt;form&lt;t17/&gt; &lt;t18/&gt;of&lt;t19/&gt; &lt;t20/&gt;distribution&lt;t21/&gt; &lt;t22/&gt;of</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173434Z" creationid="juanf" creationdate="20240522T173434Z">
+        <seg>(e) adaptación: el derecho exclusivo de autorizar o prohibir cualquier modificación de los
+resultados;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>does&lt;t0/&gt; &lt;t1/&gt;not&lt;t2/&gt; &lt;t3/&gt;have&lt;t4/&gt; &lt;t5/&gt;the&lt;t6/&gt; &lt;t7/&gt;expertise&lt;t8/&gt; &lt;t9/&gt;required&lt;t10/&gt; &lt;t11/&gt;to&lt;t12/&gt; &lt;t13/&gt;provide&lt;t14/&gt; &lt;t15/&gt;the&lt;t16/&gt; &lt;t17/&gt;services;&lt;t18/&gt; &lt;t19/&gt;or</seg>
       </tuv>
       <tuv lang="es-ES" changeid="usuario" changedate="20240521T135618Z" creationid="usuario" creationdate="20240521T135618Z">
@@ -1807,10 +2393,36 @@ durante la ejecución del contrato.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ensure that &lt;t0/&gt;authorised&lt;t1/&gt; users of a data processing system can access only the personal&lt;t2/&gt; &lt;t3/&gt;data&lt;t4/&gt; &lt;t5/&gt;to which their&lt;t6/&gt; &lt;t7/&gt;access right &lt;t8/&gt;refers;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173256Z" creationid="juanf" creationdate="20240522T173256Z">
+        <seg>(b) garantizar que los usuarios autorizados de un sistema de tratamiento de datos sólo puedan acceder a los datos personales a los que se refiera su derecho de acceso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ensure that, during communication of personal data and transport of storage media,&lt;t0/&gt; &lt;t1/&gt;the&lt;t2/&gt; &lt;t3/&gt;data&lt;t4/&gt; &lt;t5/&gt;cannot be&lt;t6/&gt; &lt;t7/&gt;read, copied or&lt;t8/&gt; &lt;t9/&gt;erased without &lt;t10/&gt;authorisation&lt;t11/&gt;;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173302Z" creationid="juanf" creationdate="20240522T173302Z">
+        <seg>(d) garantizar que los datos personales tratados por cuenta de terceros sólo puedan serlo en la forma prescrita por el poder adjudicador;
+(e) garantizar que, durante la comunicación de datos personales y el transporte de soportes de almacenamiento, los datos no puedan leerse, copiarse o borrarse sin autorización;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ensure the protection of such &lt;t0/&gt;confidential information or documents &lt;t1/&gt;with the same&lt;t2/&gt; &lt;t3/&gt;level of protection as its own &lt;t4/&gt;confidential information &lt;t5/&gt;and in any case with due&lt;t6/&gt; &lt;t7/&gt;diligence;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="lopez" changedate="20240503T152835Z" creationid="lopez" creationdate="20240503T152835Z">
         <seg>garantizar la protección de dicha información o documentos confidenciales con el mismo nibel de protección que su propia infoormación confidencial y, en todo caso, con la debida diligencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ensure&lt;t0/&gt; &lt;t1/&gt;that&lt;t2/&gt; &lt;t3/&gt;personal&lt;t4/&gt; &lt;t5/&gt;data being&lt;t6/&gt; &lt;t7/&gt;processed&lt;t8/&gt; &lt;t9/&gt;on&lt;t10/&gt; &lt;t11/&gt;behalf&lt;t12/&gt; &lt;t13/&gt;of&lt;t14/&gt; &lt;t15/&gt;third&lt;t16/&gt; &lt;t17/&gt;parties&lt;t18/&gt; &lt;t19/&gt;can&lt;t20/&gt; &lt;t21/&gt;be&lt;t22/&gt; &lt;t23/&gt;processed&lt;t24/&gt; &lt;t25/&gt;only&lt;t26/&gt; &lt;t27/&gt;in the&lt;t28/&gt; &lt;t29/&gt;manner&lt;t30/&gt; &lt;t31/&gt;prescribed by&lt;t32/&gt; &lt;t33/&gt;the&lt;t34/&gt; &lt;t35/&gt;contracting &lt;t36/&gt;authority;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173259Z" creationid="juanf" creationdate="20240522T173259Z">
+        <seg>(d) garantizar que los datos personales tratados por cuenta de terceros sólo puedan serlo en la forma prescrita por el poder adjudicador;
+(e) garantizar que, durante la comunicación de datos personales y el transporte de soportes de almacenamiento, los datos no puedan leerse, copiarse o borrarse sin autorización;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2059,11 +2671,35 @@ se han producido realmente</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>prevent any &lt;t0/&gt;unauthorised&lt;t1/&gt; person from gaining access to computer systems&lt;t2/&gt; &lt;t3/&gt;processing&lt;t4/&gt; &lt;t5/&gt;personal data,&lt;t6/&gt; &lt;t7/&gt;and especially:</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173236Z" creationid="juanf" creationdate="20240522T173236Z">
+        <seg>(a) impedir que cualquier persona no autorizada pueda acceder a los sistemas informáticos que traten datos de carácter personal, y especialmente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>professional&lt;t0/&gt; &lt;t1/&gt;conflicting&lt;t2/&gt; &lt;t3/&gt;interest&lt;t4/&gt; &lt;t5/&gt;as&lt;t6/&gt; &lt;t7/&gt;referred&lt;t8/&gt; &lt;t9/&gt;to&lt;t10/&gt; &lt;t11/&gt;in&lt;t12/&gt; &lt;t13/&gt;Article&lt;t14/&gt; &lt;t15/&gt;7;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240514T141621Z" creationid="juanf" creationdate="20240514T141621Z">
         <seg>(h) si el contratista se encuentra en una situación que pudiera constituir un conflicto de intereses o un
 conflicto de intereses profesional a que se refiere el artículo 7;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>record which&lt;t0/&gt; &lt;t1/&gt;personal&lt;t2/&gt; &lt;t3/&gt;data&lt;t4/&gt; &lt;t5/&gt;have&lt;t6/&gt; &lt;t7/&gt;been&lt;t8/&gt; &lt;t9/&gt;communicated,&lt;t10/&gt; &lt;t11/&gt;when&lt;t12/&gt; &lt;t13/&gt;and&lt;t14/&gt; &lt;t15/&gt;to&lt;t16/&gt; &lt;t17/&gt;whom;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173258Z" creationid="juanf" creationdate="20240522T173258Z">
+        <seg>(c) registrar qué datos personales se han comunicado, cuándo y a quién;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>rental: the exclusive right to &lt;t0/&gt;authorise&lt;t1/&gt; or prohibit rental or lending of the &lt;t2/&gt;results &lt;t3/&gt;or&lt;t4/&gt; &lt;t5/&gt;of&lt;t6/&gt; &lt;t7/&gt;copies of&lt;t8/&gt; &lt;t9/&gt;the&lt;t10/&gt; &lt;t11/&gt;results&lt;t12/&gt;;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173447Z" creationid="juanf" creationdate="20240522T173447Z">
+        <seg>(d) alquiler: el derecho exclusivo de autorizar o prohibir el alquiler o préstamo de los resultados o de copias de los resultados;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2077,10 +2713,35 @@ conflicto de intereses profesional a que se refiere el artículo 7;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>reproduction: the right to &lt;t0/&gt;authorise&lt;t1/&gt; or prohibit direct or indirect, temporary or&lt;t2/&gt; &lt;t3/&gt;permanent reproduction of the &lt;t4/&gt;results &lt;t5/&gt;by any means (mechanical, digital or other)&lt;t6/&gt; &lt;t7/&gt;and&lt;t8/&gt; &lt;t9/&gt;in any&lt;t10/&gt; &lt;t11/&gt;form, in whole&lt;t12/&gt; &lt;t13/&gt;or&lt;t14/&gt; &lt;t15/&gt;in &lt;t16/&gt;part;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173430Z" creationid="juanf" creationdate="20240522T173430Z">
+        <seg>(a) reproducción: el derecho a autorizar o prohibir la reproducción directa o indirecta, temporal o permanente de los resultados por cualquier medio (mecánico, digital u otro) y en cualquier forma, total o parcialmente;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>require&lt;t0/&gt; &lt;t1/&gt;the contractor&lt;t2/&gt; &lt;t3/&gt;to&lt;t4/&gt; &lt;t5/&gt;take&lt;t6/&gt; &lt;t7/&gt;further&lt;t8/&gt; &lt;t9/&gt;action&lt;t10/&gt; &lt;t11/&gt;within&lt;t12/&gt; &lt;t13/&gt;a&lt;t14/&gt; &lt;t15/&gt;specified&lt;t16/&gt; &lt;t17/&gt;deadline.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="lopez" changedate="20240430T134640Z" creationid="lopez" creationdate="20240430T134640Z">
         <seg>(b) exigir al contratista que adopte nuevas medidas en un plazo determinado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>results&lt;t0/&gt; &lt;t1/&gt;or&lt;t2/&gt; &lt;t3/&gt;copies of&lt;t4/&gt; &lt;t5/&gt;the&lt;t6/&gt; &lt;t7/&gt;results &lt;t8/&gt;to the&lt;t9/&gt; &lt;t10/&gt;public, by&lt;t11/&gt; &lt;t12/&gt;sale&lt;t13/&gt; &lt;t14/&gt;or&lt;t15/&gt; &lt;t16/&gt;otherwise;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173442Z" creationid="juanf" creationdate="20240522T173442Z">
+        <seg>
+c) Distribución: derecho exclusivo de autorizar o prohibir cualquier forma de distribución de los resultados o de copias de los resultados al público, por venta o de otro modo;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>results&lt;t0/&gt;;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173511Z" creationid="juanf" creationdate="20240522T173454Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2157,6 +2818,30 @@ conflicto de intereses profesional a que se refiere el artículo 7;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>the provisions set out in the general conditions take precedence over those set out in the&lt;t0/&gt; &lt;t1/&gt;tender&lt;t2/&gt; &lt;t3/&gt;specifications;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173841Z" creationid="juanf" creationdate="20240522T173841Z">
+        <seg>las disposiciones de las condiciones generales prevalecen sobre las del pliego de condiciones;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the provisions set out in the purchase order take precedence over those set out in the general&lt;t0/&gt; &lt;t1/&gt;conditions;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173825Z" creationid="juanf" creationdate="20240522T173825Z">
+        <seg>las disposiciones establecidas en la orden de compra prevalecen sobre las establecidas en las condiciones generales;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the provisions set out in the tender specifications take precedence over those set out in the&lt;t0/&gt; &lt;t1/&gt;contractor's&lt;t2/&gt; &lt;t3/&gt;tender.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173844Z" creationid="juanf" creationdate="20240522T173844Z">
+        <seg>las disposiciones del pliego de condiciones prevalecen sobre las de la oferta del contratista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>the&lt;t0/&gt; &lt;t1/&gt;name&lt;t2/&gt; &lt;t3/&gt;and version number&lt;t4/&gt; &lt;t5/&gt;of&lt;t6/&gt; &lt;t7/&gt;a&lt;t8/&gt; &lt;t9/&gt;software&lt;t10/&gt; &lt;t11/&gt;product;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240503T151802Z" creationid="juanf" creationdate="20240503T151756Z">
@@ -2197,6 +2882,38 @@ conflicto de intereses profesional a que se refiere el artículo 7;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>translation: the exclusive right to &lt;t0/&gt;authorise&lt;t1/&gt; or prohibit any translation, adaptation,&lt;t2/&gt; &lt;t3/&gt;arrangement or creation of derivative works based on the &lt;t4/&gt;results&lt;t5/&gt;, and any other&lt;t6/&gt; &lt;t7/&gt;alteration of the &lt;t8/&gt;results&lt;t9/&gt;, subject to the respect of moral rights of authors, where&lt;t10/&gt; &lt;t11/&gt;applicable;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173504Z" creationid="juanf" creationdate="20240522T173504Z">
+        <seg>(f) traducción: el derecho exclusivo de autorizar o prohibir cualquier traducción, adaptación, arreglo o creación de obras derivadas basadas en los resultados, así como cualquier otra alteración de los resultados, sin perjuicio del respeto de los derechos morales de los autores, cuando proceda;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>unauthorised&lt;t0/&gt; &lt;t1/&gt;reading,&lt;t2/&gt; &lt;t3/&gt;copying,&lt;t4/&gt; &lt;t5/&gt;alteration&lt;t6/&gt; &lt;t7/&gt;or&lt;t8/&gt; &lt;t9/&gt;removal&lt;t10/&gt; &lt;t11/&gt;of&lt;t12/&gt; &lt;t13/&gt;storage&lt;t14/&gt; &lt;t15/&gt;media;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173249Z" creationid="juanf" creationdate="20240522T173249Z">
+        <seg>(i) la lectura, copia, alteración o extracción no autorizada de soportes de almacenamiento;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>unauthorised&lt;t0/&gt; data inputting, as well as any &lt;t1/&gt;unauthorised&lt;t2/&gt; disclosure, alteration&lt;t3/&gt; &lt;t4/&gt;or&lt;t5/&gt; &lt;t6/&gt;erasure&lt;t7/&gt; &lt;t8/&gt;of&lt;t9/&gt; &lt;t10/&gt;stored personal &lt;t11/&gt;data;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173251Z" creationid="juanf" creationdate="20240522T173251Z">
+        <seg>(ii) la introducción no autorizada de datos, así como cualquier divulgación, alteración o supresión no autorizada de datos personales almacenados;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>unauthorised&lt;t0/&gt; use of data processing systems by means of data transmission&lt;t1/&gt; &lt;t2/&gt;facilities;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173254Z" creationid="juanf" creationdate="20240522T173254Z">
+        <seg>(iii) la utilización no autorizada de sistemas de tratamiento de datos mediante instalaciones de transmisión de datos;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>verify&lt;t0/&gt; &lt;t1/&gt;that&lt;t2/&gt; &lt;t3/&gt;the&lt;t4/&gt; &lt;t5/&gt;contractor's&lt;t6/&gt; &lt;t7/&gt;action&lt;t8/&gt; &lt;t9/&gt;is&lt;t10/&gt; &lt;t11/&gt;appropriate;</seg>
       </tuv>
       <tuv lang="es-ES" changeid="lopez" changedate="20240430T134640Z" creationid="lopez" creationdate="20240430T134640Z">
@@ -2205,36 +2922,51 @@ conflicto de intereses profesional a que se refiere el artículo 7;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>website: &lt;t0/&gt;http://ec.europa.eu/dgs/informatics/supplier_portal/documentation/documentation_&lt;t1/&gt; &lt;t2/&gt;en.htm</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T174351Z" creationid="juanf" creationdate="20240522T174351Z">
+        <seg>sitio web: http://ec.europa.eu/dgs/informatics/supplier_portal/documentation/documentation_ en.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>where the &lt;t0/&gt;results &lt;t1/&gt;are documents: the right to store and archive the &lt;t2/&gt;results &lt;t3/&gt;in line with&lt;t4/&gt; &lt;t5/&gt;the document&lt;t6/&gt; &lt;t7/&gt;management rules applicable to the contracting authority, including&lt;t8/&gt; &lt;t9/&gt;digitisation&lt;t10/&gt; &lt;t11/&gt;or&lt;t12/&gt; &lt;t13/&gt;converting the&lt;t14/&gt; &lt;t15/&gt;format for&lt;t16/&gt; &lt;t17/&gt;preservation&lt;t18/&gt; &lt;t19/&gt;or&lt;t20/&gt; &lt;t21/&gt;new&lt;t22/&gt; &lt;t23/&gt;use&lt;t24/&gt; &lt;t25/&gt;purposes;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Deyanira" changedate="20240521T202932Z" creationid="Deyanira" creationdate="20240521T202932Z">
-        <seg> 13.3	Modos de explotación
-
-La Unión adquiere los derechos sobre los resultados para los siguientes modos de explotación
-
-(a) reproducción: el derecho a autorizar o prohibir la reproducción directa o indirecta, temporal o permanente de los resultados por cualquier medio (mecánico, digital u otro) y en cualquier forma, total o parcialmente;
-
-(b) comunicación al público: el derecho exclusivo de autorizar o prohibir cualquier presentación, ejecución o comunicación al público, por medios alámbricos o inalámbricos, incluida la puesta a disposición del público de los resultados de forma que los miembros del público puedan acceder a ellos desde un lugar y en un momento elegidos individualmente por ellos; este derecho también incluye la comunicación y difusión por cable o por satélite;
-
-(c) Distribución: derecho exclusivo de autorizar o prohibir cualquier forma de distribución de los resultados o de copias de los resultados al público, por venta o de otro modo;
-
-(d) alquiler: el derecho exclusivo de autorizar o prohibir el alquiler o préstamo de los resultados o de copias de los resultados;
-
-(e) adaptación: el derecho exclusivo de autorizar o prohibir cualquier modificación de los
-resultados;
-
-(f) traducción: el derecho exclusivo de autorizar o prohibir cualquier traducción, adaptación, arreglo o creación de obras derivadas basadas en los resultados, así como cualquier otra alteración de los resultados, sin perjuicio del respeto de los derechos morales de los autores, cuando proceda;
-
-(g) cuando los resultados sean o incluyan una base de datos: el derecho exclusivo de autorizar o prohibir la extracción de la totalidad o de una parte sustancial del contenido de la base de datos a otro soporte por cualquier medio o en cualquier forma; y el derecho exclusivo de autorizar o prohibir la reutilización de la totalidad o de una parte sustancial del contenido de la base de datos mediante la distribución de copias, el alquiler, la transmisión en línea u otras formas de transmisión;
-
-(h) cuando los resultados sean o incluyan materia patentable: el derecho a registrarlos como patente y a explotar dicha patente en toda su extensión;
-
-(i) cuando los resultados sean o incluyan logotipos o prestaciones susceptibles de ser registrados como marca: el derecho a registrar dicho logotipo o prestación como marca y a seguir explotándolo y utilizándolo;
-
-(j) cuando los resultados sean o incluyan conocimientos técnicos: el derecho a utilizar dichos conocimientos técnicos en la medida necesaria para aprovechar los resultados en toda la extensión prevista en el contrato, y el derecho a ponerlos a disposición de los contratistas o subcontratistas que actúen por cuenta del poder adjudicador, a condición de que firmen los compromisos de confidencialidad adecuados cuando sea necesario;
-
-(k) cuando los resultados sean documentos: derecho a almacenar y archivar los resultados de acuerdo con las normas de gestión de documentos aplicables al poder adjudicador, incluida la digitalización o conversión del formato con fines de conservación o nueva utilización;
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173606Z" creationid="Deyanira" creationdate="20240521T202932Z">
+        <seg>cuando los resultados sean documentos: derecho a almacenar y archivar los resultados de acuerdo con las normas de gestión de documentos aplicables al poder adjudicador, incluida la digitalización o conversión del formato con fines de conservación o nueva utilización;
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>where the &lt;t0/&gt;results &lt;t1/&gt;are or include a database: the exclusive right to &lt;t2/&gt;authorise&lt;t3/&gt; or&lt;t4/&gt; &lt;t5/&gt;prohibit the extraction of all or a substantial part of the contents of the database to&lt;t6/&gt; &lt;t7/&gt;another medium by any means or in any form; and the exclusive right to &lt;t8/&gt;authorise&lt;t9/&gt; or&lt;t10/&gt; &lt;t11/&gt;prohibit the &lt;t12/&gt;reutilisation&lt;t13/&gt; of all or a substantial part of the contents of the database by&lt;t14/&gt; &lt;t15/&gt;the&lt;t16/&gt; &lt;t17/&gt;distribution of&lt;t18/&gt; &lt;t19/&gt;copies, by&lt;t20/&gt; &lt;t21/&gt;renting, by&lt;t22/&gt; &lt;t23/&gt;online&lt;t24/&gt; &lt;t25/&gt;or&lt;t26/&gt; &lt;t27/&gt;other&lt;t28/&gt; &lt;t29/&gt;forms of&lt;t30/&gt; &lt;t31/&gt;transmission;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173515Z" creationid="juanf" creationdate="20240522T173515Z">
+        <seg>(g) cuando los resultados sean o incluyan una base de datos: el derecho exclusivo de autorizar o prohibir la extracción de la totalidad o de una parte sustancial del contenido de la base de datos a otro soporte por cualquier medio o en cualquier forma; y el derecho exclusivo de autorizar o prohibir la reutilización de la totalidad o de una parte sustancial del contenido de la base de datos mediante la distribución de copias, el alquiler, la transmisión en línea u otras formas de transmisión;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>where the &lt;t0/&gt;results &lt;t1/&gt;are or include know-how: the right to use such know-how as is&lt;t2/&gt; &lt;t3/&gt;necessary to make use of the &lt;t4/&gt;results &lt;t5/&gt;to the full extent provided for by the contract,&lt;t6/&gt; &lt;t7/&gt;and the right to make it available to contractors or subcontractors acting on behalf of&lt;t8/&gt; &lt;t9/&gt;the contracting authority, subject to their signing of adequate confidentiality&lt;t10/&gt; &lt;t11/&gt;undertakings&lt;t12/&gt; &lt;t13/&gt;where&lt;t14/&gt; &lt;t15/&gt;necessary;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173524Z" creationid="juanf" creationdate="20240522T173524Z">
+        <seg>(j) cuando los resultados sean o incluyan conocimientos técnicos: el derecho a utilizar dichos conocimientos técnicos en la medida necesaria para aprovechar los resultados en toda la extensión prevista en el contrato, y el derecho a ponerlos a disposición de los contratistas o subcontratistas que actúen por cuenta del poder adjudicador, a condición de que firmen los compromisos de confidencialidad adecuados cuando sea necesario;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>where the &lt;t0/&gt;results &lt;t1/&gt;are or include logos or subject-matter which could be registered as&lt;t2/&gt; &lt;t3/&gt;a trademark: the right to register that logo or subject-matter as a trademark and to&lt;t4/&gt; &lt;t5/&gt;further exploit and use&lt;t6/&gt; &lt;t7/&gt;it;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173520Z" creationid="juanf" creationdate="20240522T173520Z">
+        <seg>(i) cuando los resultados sean o incluyan logotipos o prestaciones susceptibles de ser registrados como marca: el derecho a registrar dicho logotipo o prestación como marca y a seguir explotándolo y utilizándolo;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>where the &lt;t0/&gt;results &lt;t1/&gt;are or include patentable subject-matter: the right to register them&lt;t2/&gt; &lt;t3/&gt;as&lt;t4/&gt; &lt;t5/&gt;a&lt;t6/&gt; &lt;t7/&gt;patent&lt;t8/&gt; &lt;t9/&gt;and&lt;t10/&gt; &lt;t11/&gt;to further&lt;t12/&gt; &lt;t13/&gt;exploit such&lt;t14/&gt; &lt;t15/&gt;a&lt;t16/&gt; &lt;t17/&gt;patent to the&lt;t18/&gt; &lt;t19/&gt;fullest &lt;t20/&gt;extent;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240522T173518Z" creationid="juanf" creationdate="20240522T173518Z">
+        <seg>(h) cuando los resultados sean o incluyan materia patentable: el derecho a registrarlos como patente y a explotar dicha patente en toda su extensión;</seg>
       </tuv>
     </tu>
     <tu>
