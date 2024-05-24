@@ -474,8 +474,8 @@ personal que:&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&
       <tuv lang="en">
         <seg>Conformity of the supplies delivered must be evidenced by the signature of a certificate to&lt;t0/&gt; &lt;t1/&gt;that effect by the contracting authority no later than one month after the date of delivery,&lt;t2/&gt; &lt;t3/&gt;unless&lt;t4/&gt; &lt;t5/&gt;otherwise&lt;t6/&gt; &lt;t7/&gt;specified in the&lt;t8/&gt; &lt;t9/&gt;purchase&lt;t10/&gt; &lt;t11/&gt;order.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115210Z" creationid="alumno" creationdate="20240514T142322Z">
-        <seg>La conformidad de los suministros entregados deberá acreditarse mediante la firma de un certificado a tal efecto por la Autoridad Contratante, a más tardar un mes después de la fecha de entrega, salvo que se especifique otra cosa en el pedido.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;</seg>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240524T162915Z" creationid="alumno" creationdate="20240514T142322Z">
+        <seg>La conformidad de los suministros entregados deberá acreditarse mediante la firma de un certificado a tal efecto por la Autoridad Contratante, como muy tarde en un mes después de la fecha de entrega, salvo que se especifique otra cosa en el pedido.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -890,8 +890,8 @@ personal que:&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&
       <tuv lang="en">
         <seg>If, for reasons attributable to the contractor, the contracting authority is unable to accept the&lt;t0/&gt; &lt;t1/&gt;supplies,&lt;t2/&gt; &lt;t3/&gt;the&lt;t4/&gt; &lt;t5/&gt;contractor must be&lt;t6/&gt; &lt;t7/&gt;notified&lt;t8/&gt; &lt;t9/&gt;at the&lt;t10/&gt; &lt;t11/&gt;latest by&lt;t12/&gt; &lt;t13/&gt;the&lt;t14/&gt; &lt;t15/&gt;deadline&lt;t16/&gt; &lt;t17/&gt;for&lt;t18/&gt; &lt;t19/&gt;conformity.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115212Z" creationid="alumno" creationdate="20240514T142357Z">
-        <seg>Si, por razones imputables al contratista, el poder adjudicador no puede aceptar los suministros, deberá notificarlo al contratista a más tardar en la fecha límite de conformidad.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;</seg>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240524T162944Z" creationid="alumno" creationdate="20240514T142357Z">
+        <seg>Si, por razones imputables al contratista, el poder adjudicador no puede aceptar los suministros, deberá notificarlo al contratista como muy tarde en la fecha límite de conformidad.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1066,8 +1066,8 @@ personal que:&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&
       <tuv lang="en">
         <seg>One copy of the consignment note must be countersigned by the&lt;t6/&gt; &lt;t7/&gt;contracting&lt;t8/&gt; &lt;t9/&gt;authority&lt;t10/&gt; &lt;t11/&gt;and&lt;t12/&gt; &lt;t13/&gt;returned to the contractor&lt;t14/&gt; &lt;t15/&gt;or&lt;t16/&gt; &lt;t17/&gt;to its carrier.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="usuario" changedate="20240524T162650Z" creationid="alumno" creationdate="20240514T142230Z">
-        <seg>Una copia de la carta de porte deberá ser refrendada por la Autoridad contratante y devuelto al contratista o a su transportista.&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;</seg>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240524T162816Z" creationid="alumno" creationdate="20240514T142230Z">
+        <seg>Una copia de la carta de porte deberá ser refrendada por la Autoridad contratante y devuelta al contratista o a su transportista.&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;</seg>
       </tuv>
     </tu>
     <tu>
