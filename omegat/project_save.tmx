@@ -280,8 +280,8 @@
       <tuv lang="en">
         <seg>All periods specified in the contract are calculated in calendar days, unless otherwise&lt;t0/&gt; &lt;t1/&gt;specified.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T161434Z" creationid="usuario" creationdate="20240503T154312Z">
-        <seg>Todos las fechas especificadas en el contrato son calculadas en días del calendario, salvo que se indique otra cosa.&lt;t0/&gt;&lt;t1/&gt; </seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T191427Z" creationid="usuario" creationdate="20240503T154312Z">
+        <seg>Todos las fechas especificadas en el contrato son calculadas en días naturales, salvo que se indique otra cosa.&lt;t0/&gt;&lt;t1/&gt; </seg>
       </tuv>
     </tu>
     <tu>
@@ -481,8 +481,8 @@ personal que:&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&
       <tuv lang="en">
         <seg>Contractors who are natural persons are required to provide proof of their status as a self-&lt;t0/&gt; &lt;t1/&gt;employed person.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115402Z" creationid="usuario" creationdate="20240503T153128Z">
-        <seg>Se requiere que los contratantes que son personas físicas aporten pruebas de su estátus de autónomos.&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T191338Z" creationid="usuario" creationdate="20240503T153128Z">
+        <seg>Se requiere que los contratantes que son personas físicas aporten pruebas de su estatus de autónomos.&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -609,8 +609,8 @@ personal que:&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&
       <tuv lang="en">
         <seg>For that &lt;t2/&gt;purpose&lt;t3/&gt; they must submit supporting documents concerning their&lt;t4/&gt; &lt;t5/&gt;social&lt;t6/&gt; &lt;t7/&gt;security&lt;t8/&gt; &lt;t9/&gt;cover&lt;t10/&gt; &lt;t11/&gt;and&lt;t12/&gt; &lt;t13/&gt;value&lt;t14/&gt; &lt;t15/&gt;added tax&lt;t16/&gt; &lt;t17/&gt;(VAT)&lt;t18/&gt; &lt;t19/&gt;status.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115403Z" creationid="usuario" creationdate="20240503T153256Z">
-        <seg>Con esa finalidad ellos deben de presentar docuementos sobre su covertura de la seguridad social y el estátus del Impuesto sobre el Valor Añadido (IVA).&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T191358Z" creationid="usuario" creationdate="20240503T153256Z">
+        <seg>Con esa finalidad ellos deben presentar docuementos sobre su covertura de la seguridad social y el estatus del Impuesto sobre el Valor Añadido (IVA).&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -713,8 +713,8 @@ personal que:&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&
       <tuv lang="en">
         <seg>If a defect is found to originate in a systematic flaw in design, the contractor must replace or&lt;t0/&gt; &lt;t1/&gt;modify all identical parts incorporated in the other supplies that are part of the order, even&lt;t2/&gt; &lt;t3/&gt;though they may not have been the cause of any incident.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T163337Z" creationid="usuario" creationdate="20240426T153131Z">
-        <seg>Si se encuentra un defecto que origine un fallo sistemático en el diseño, el contratador debe reemplazar o modificar todas las partes idénticas incorporadas en los otros sumininstros que son parte del orden, incluso si no han sido la causa de un incidente, En este caso, la garantia del periodo debe de ser extendida como se indica anteriormente. &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T191240Z" creationid="usuario" creationdate="20240426T153131Z">
+        <seg>Si se encuentra un defecto que origine un fallo sistemático en el diseño, el contratador debe reemplazar o modificar todas las partes idénticas incorporadas en los otros sumininstros que son parte del orden, incluso si no han sido la causa de un incidente, En este caso, la garantía del periodo debe ser extendida como se indica anteriormente. &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1485,8 +1485,8 @@ El documento puede consultarse en https://circabc.europa.eu/w/browse/5290b7b0- 8
       <tuv lang="en">
         <seg>The contractor has sole responsibility for taking the necessary steps to obtain any permit or&lt;t0/&gt; &lt;t1/&gt;licence&lt;t2/&gt; &lt;t3/&gt;required&lt;t4/&gt; &lt;t5/&gt;for&lt;t6/&gt; &lt;t7/&gt;performance&lt;t8/&gt; &lt;t9/&gt;of&lt;t10/&gt; &lt;t11/&gt;the&lt;t12/&gt; &lt;t13/&gt;contract&lt;t14/&gt; &lt;t15/&gt;under&lt;t16/&gt; &lt;t17/&gt;Belgian laws&lt;t18/&gt; &lt;t19/&gt;and&lt;t20/&gt; &lt;t21/&gt;regulations.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T161343Z" creationid="usuario" creationdate="20240503T154156Z">
-        <seg>El contratante tiene la única responsabilidad de llevar a cabo los pasos necesarios para obtener cualquier permiso o licencia que esa requerida para el redimiento del contrato bajo las leyes y regulaciones Belgas.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt; </seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T191410Z" creationid="usuario" creationdate="20240503T154156Z">
+        <seg>El contratante tiene la única responsabilidad de llevar a cabo los pasos necesarios para obtener cualquier permiso o licencia que sea requerida para el redimiento del contrato bajo las leyes y regulaciones Belgas.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt; </seg>
       </tuv>
     </tu>
     <tu>
@@ -2032,8 +2032,8 @@ El documento puede consultarse en &lt;t0/&gt;https://circabc.europa.eu/w/browse/
       <tuv lang="en">
         <seg>This includes compliance with applicable obligations under environmental,&lt;t2/&gt; &lt;t3/&gt;social&lt;t4/&gt; and &lt;t5/&gt;labour&lt;t6/&gt; law established by Union law, national law and collective agreements or&lt;t7/&gt; &lt;t8/&gt;by the international environmental, social and &lt;t9/&gt;labour&lt;t10/&gt; law provisions listed in Annex X to&lt;t11/&gt; &lt;t12/&gt;Directive&lt;t13/&gt; &lt;t14/&gt;2014/24/EU&lt;t15/&gt;1&lt;t16/&gt;.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T120612Z" creationid="usuario" creationdate="20240426T152545Z">
-        <seg>Esto incluye cumplimiento de las obligaciones aplicables bajo la ley medioambiental, &lt;t2/&gt;&lt;t3/&gt;social&lt;t4/&gt; y &lt;t5/&gt;laboral&lt;t6/&gt;, establecidas por la ley de la Unión, la ley nacional y &lt;t7/&gt;&lt;t8/&gt;los acuerdos colectivos de las provisiones medioambientales internacionales, sociales y &lt;t9/&gt;laborales&lt;t10/&gt;enumeradas en el Anexo X &lt;t11/&gt;&lt;t12/&gt;del Directivo&lt;t13/&gt;&lt;t14/&gt;2014/24/EU &lt;t15/&gt;1&lt;t16/&gt; </seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T191330Z" creationid="usuario" creationdate="20240426T152545Z">
+        <seg>Esto incluye el cumplimiento de las obligaciones aplicables bajo la ley medioambiental, &lt;t2/&gt;&lt;t3/&gt;social&lt;t4/&gt; y &lt;t5/&gt;laboral&lt;t6/&gt;, establecidas por la ley de la Unión, la ley nacional y &lt;t7/&gt;&lt;t8/&gt;los acuerdos colectivos de las provisiones medioambientales internacionales, sociales y &lt;t9/&gt;laborales&lt;t10/&gt;enumeradas en el Anexo X &lt;t11/&gt;&lt;t12/&gt;del Directivo&lt;t13/&gt;&lt;t14/&gt;2014/24/EU &lt;t15/&gt;1&lt;t16/&gt; </seg>
       </tuv>
     </tu>
     <tu>
