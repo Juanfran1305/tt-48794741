@@ -288,8 +288,8 @@
       <tuv lang="en">
         <seg>All rights reserved.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20240514T140716Z" creationid="OmegaT Aligner" creationdate="20240514T140716Z">
-        <seg>Todos los derechos reservados.</seg>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240524T165530Z" creationid="OmegaT Aligner" creationdate="20240514T140716Z">
+        <seg>Todos los derechos estan reservados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -450,8 +450,8 @@ personal que:&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&
       <tuv lang="en">
         <seg>Certain parts are licensed&lt;t10/&gt; &lt;t11/&gt;under conditions to the EU', or with any other equivalent disclaimer as the contracting&lt;t12/&gt; &lt;t13/&gt;authority may consider best appropriate, or as the parties may agree on a case-by-case basis.&lt;t14/&gt; &lt;t15/&gt;This does not apply where inserting such reference would be impossible, notably for&lt;t16/&gt; &lt;t17/&gt;practical&lt;t18/&gt; &lt;t19/&gt;reasons.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115842Z" creationid="juanf" creationdate="20240514T140915Z">
-        <seg>Ciertas partes están autorizadas bajo condiciones a la UE", o con cualquier otra cláusula de exención de responsabilidad equivalente que el poder adjudicador considere más adecuada, o que las partes acuerden en cada caso.&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;</seg>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240524T165543Z" creationid="juanf" creationdate="20240514T140915Z">
+        <seg>Ciertas partes están autorizadas bajo condiciones a la UE, o con cualquier otra cláusula de exención de responsabilidad equivalente que el poder adjudicador considere más adecuada, o que las partes acuerden en cada caso.&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -722,8 +722,8 @@ personal que:&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&
       <tuv lang="en">
         <seg>If a party is affected by &lt;t0/&gt;force majeure&lt;t1/&gt;, it must immediately &lt;t2/&gt;notify &lt;t3/&gt;the other party, stating the&lt;t4/&gt; &lt;t5/&gt;nature&lt;t6/&gt; &lt;t7/&gt;of&lt;t8/&gt; &lt;t9/&gt;the&lt;t10/&gt; &lt;t11/&gt;circumstances, their&lt;t12/&gt; &lt;t13/&gt;likely&lt;t14/&gt; &lt;t15/&gt;duration&lt;t16/&gt; and foreseeable effects.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115846Z" creationid="juanf" creationdate="20240514T140922Z">
-        <seg>Si una de las partes se ve afectada por un caso de fuerza mayor, deberá notificarlo inmediatamente a la otra parte, indicando la naturaleza de las circunstancias, su duración probable y sus efectos previsibles.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;</seg>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240524T165629Z" creationid="juanf" creationdate="20240514T140922Z">
+        <seg>Si una de las partes se ve afectada por un caso de fuerza mayor, deberá notificarlo inmediatamente a la otra parte, indicando la naturaleza de las circunstancias, su duración estimada y sus efectos previsibles.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -778,8 +778,8 @@ personal que:&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&
       <tuv lang="en">
         <seg>If natural persons appear in a &lt;t0/&gt;result &lt;t1/&gt;or their voice or any other private element is recorded in&lt;t2/&gt; &lt;t3/&gt;a &lt;t4/&gt;recognisable&lt;t5/&gt; manner, the contractor must obtain a statement by these persons (or, in the&lt;t6/&gt; &lt;t7/&gt;case of minors, by the persons exercising parental authority) giving their permission for the&lt;t8/&gt; &lt;t9/&gt;described use of their image, voice or private element and, on request, submit a copy of the&lt;t10/&gt; &lt;t11/&gt;permission to the contracting authority.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115807Z" creationid="juanf" creationdate="20240514T140910Z">
-        <seg>Si en un resultado aparecen personas físicas o se graba su voz o cualquier otro elemento privado de forma reconocible, el contratista deberá obtener una declaración de estas personas (o, en el caso de los menores, de las personas que ejerzan la patria potestad) en la que autoricen el uso descrito de su imagen, voz o elemento privado y, previa solicitud, presentar una copia de la autorización al poder adjudicador.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;</seg>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240524T165441Z" creationid="juanf" creationdate="20240514T140910Z">
+        <seg>Si en un resultado aparecen personas físicas o se graba su voz o cualquier otro elemento privado de forma reconocible, el contratista deberá obtener una declaración de estas personas (o, en el caso de menores, de las personas que ejerzan la patria potestad) en la que autoricen el uso descrito de su imagen, voz o elemento privado y, previa solicitud, presentar una copia de la autorización al poder adjudicador.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;</seg>
       </tuv>
     </tu>
     <tu>
