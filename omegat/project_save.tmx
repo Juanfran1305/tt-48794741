@@ -1115,10 +1115,10 @@ El documento puede consultarse en https://circabc.europa.eu/w/browse/5290b7b0- 8
       <tuv lang="en">
         <seg>Please&lt;t0/&gt; &lt;t1/&gt;see&lt;t2/&gt; &lt;t3/&gt;http://ec.europa.eu/dgs/informatics/supplier_portal/doc/um_sp_e-invoicing.pdf</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115505Z" creationid="usuario" creationdate="20240521T135635Z">
-        <seg>2 Véase http://ec.europa.eu/dgs/informatics/supplier_portal/doc/um_supplier_portal_overview.pdf
-3 Véase http://ec.europa.eu/dgs/informatics/supplier_portal/doc/um_sp_e-invoicing.pdf
-4 El documento puede consultarse en https://circabc.europa.eu/w/browse/5290b7b0- 8ca8-454b-87eb-0ac990362861&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T185547Z" creationid="usuario" creationdate="20240521T135635Z">
+        <seg>Véase http://ec.europa.eu/dgs/informatics/supplier_portal/doc/um_supplier_portal_overview.pdf
+Véase http://ec.europa.eu/dgs/informatics/supplier_portal/doc/um_sp_e-invoicing.pdf
+El documento puede consultarse en https://circabc.europa.eu/w/browse/5290b7b0- 8ca8-454b-87eb-0ac990362861&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1734,10 +1734,10 @@ durante la ejecución del contrato.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&
       <tuv lang="en">
         <seg>The document is available for consultation at &lt;t0/&gt;https://circabc.europa.eu/w/browse/5290b7b0-&lt;t1/&gt; &lt;t2/&gt;8ca8-454b-87eb-0ac990362861</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T121006Z" creationid="usuario" creationdate="20240521T135636Z">
-        <seg>2 Véase http://ec.europa.eu/dgs/informatics/supplier_portal/doc/um_supplier_portal_overview.pdf
-3 Véase http://ec.europa.eu/dgs/informatics/supplier_portal/doc/um_sp_e-invoicing.pdf
-4 El documento puede consultarse en &lt;t0/&gt;https://circabc.europa.eu/w/browse/5290b7b0-&lt;t1/&gt;&lt;t2/&gt;8ca8-454b-87eb-0ac990362861</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T185617Z" creationid="usuario" creationdate="20240521T135636Z">
+        <seg>Véase http://ec.europa.eu/dgs/informatics/supplier_portal/doc/um_supplier_portal_overview.pdf
+Véase http://ec.europa.eu/dgs/informatics/supplier_portal/doc/um_sp_e-invoicing.pdf
+El documento puede consultarse en &lt;t0/&gt;https://circabc.europa.eu/w/browse/5290b7b0-&lt;t1/&gt;&lt;t2/&gt;8ca8-454b-87eb-0ac990362861</seg>
       </tuv>
     </tu>
     <tu>
@@ -2337,8 +2337,8 @@ resultados;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt
       <tuv lang="en">
         <seg>d &lt;t0/&gt;is the duration specified for delivery of the relevant purchase or deliverable or &lt;t1/&gt;result &lt;t2/&gt;or,&lt;t3/&gt; &lt;t4/&gt;failing that, the duration of &lt;t5/&gt;performance of the contract &lt;t6/&gt;specified in the purchase order,&lt;t7/&gt; &lt;t8/&gt;expressed&lt;t9/&gt; &lt;t10/&gt;in days.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115855Z" creationid="juanf" creationdate="20240514T140936Z">
-        <seg>d es la duración especificada para la entrega de la compra, producto o resultado en cuestión o, en su defecto, la duración de la ejecución del contrato especificada en la orden de compra, expresada en días.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T185741Z" creationid="juanf" creationdate="20240514T140936Z">
+        <seg>es la duración especificada para la entrega de la compra, producto o resultado en cuestión o, en su defecto, la duración de la ejecución del contrato especificada en la orden de compra, expresada en días.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2525,8 +2525,8 @@ garantizar que, durante la comunicación de datos personales y el transporte de 
       <tuv lang="en">
         <seg>if the procedure for awarding the contract or the performance of the contract&lt;t0/&gt; &lt;t1/&gt;proves&lt;t2/&gt; &lt;t3/&gt;to have&lt;t4/&gt; &lt;t5/&gt;been subject&lt;t6/&gt; &lt;t7/&gt;to &lt;t8/&gt;substantial errors,&lt;t9/&gt; &lt;t10/&gt;irregularities or&lt;t11/&gt; &lt;t12/&gt;fraud&lt;t13/&gt;;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115912Z" creationid="juanf" creationdate="20240514T141008Z">
-        <seg>(a) si se demuestra que el procedimiento de adjudicación o la ejecución del contrato han adolecido de errores sustanciales, irregularidades o fraude;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T185808Z" creationid="juanf" creationdate="20240514T141008Z">
+        <seg>si se demuestra que el procedimiento de adjudicación o la ejecución del contrato han adolecido de errores sustanciales, irregularidades o fraude;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2550,8 +2550,8 @@ garantizar que, durante la comunicación de datos personales y el transporte de 
       <tuv lang="en">
         <seg>in&lt;t0/&gt; &lt;t1/&gt;order&lt;t2/&gt; &lt;t3/&gt;to&lt;t4/&gt; &lt;t5/&gt;verify&lt;t6/&gt; &lt;t7/&gt;whether&lt;t8/&gt; &lt;t9/&gt;the&lt;t10/&gt; &lt;t11/&gt;presumed &lt;t12/&gt;substantial&lt;t13/&gt; &lt;t14/&gt;errors,&lt;t15/&gt; &lt;t16/&gt;irregularities or&lt;t17/&gt; &lt;t18/&gt;fraud</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115913Z" creationid="juanf" creationdate="20240514T141010Z">
-        <seg>(b) con el fin de comprobar si los presuntos errores sustanciales, irregularidades o fraudes
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T185816Z" creationid="juanf" creationdate="20240514T141010Z">
+        <seg>con el fin de comprobar si los presuntos errores sustanciales, irregularidades o fraudes
 se han producido realmente&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;</seg>
       </tuv>
     </tu>
@@ -2575,8 +2575,8 @@ se han producido realmente&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt
       <tuv lang="en">
         <seg>it&lt;t0/&gt; &lt;t1/&gt;is lifting&lt;t2/&gt; &lt;t3/&gt;the&lt;t4/&gt; &lt;t5/&gt;suspension; or</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115917Z" creationid="juanf" creationdate="20240514T141609Z">
-        <seg>(a) si levanta la suspensión; o&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T185947Z" creationid="juanf" creationdate="20240514T141609Z">
+        <seg>si levanta la suspensión; o&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2615,8 +2615,8 @@ se han producido realmente&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt
       <tuv lang="en">
         <seg>not use &lt;t0/&gt;confidential information or documents &lt;t1/&gt;for any purpose other than to perform&lt;t2/&gt; &lt;t3/&gt;its obligations under the contract without the prior written agreement of the other&lt;t4/&gt; &lt;t5/&gt;party;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115558Z" creationid="lopez" creationdate="20240430T134659Z">
-        <seg>(a) No utilizar la información o los documentos confidenciales para fines distintos del cumplimiento de sus obligaciones en virtud del contrato sin el acuerdo previo por escrito de la otra parte; &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T185656Z" creationid="lopez" creationdate="20240430T134659Z">
+        <seg>No utilizar la información o los documentos confidenciales para fines distintos del cumplimiento de sus obligaciones en virtud del contrato sin el acuerdo previo por escrito de la otra parte; &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2631,8 +2631,8 @@ se han producido realmente&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt
       <tuv lang="en">
         <seg>of&lt;t0/&gt; &lt;t1/&gt;its final&lt;t2/&gt; &lt;t3/&gt;decision to apply&lt;t4/&gt; &lt;t5/&gt;liquidated&lt;t6/&gt; &lt;t7/&gt;damages and&lt;t8/&gt; &lt;t9/&gt;the&lt;t10/&gt; &lt;t11/&gt;corresponding amount.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115858Z" creationid="juanf" creationdate="20240514T140947Z">
-        <seg>(b) de su decisión definitiva de aplicar la liquidación de daños y perjuicios y del importe correspondiente.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T185802Z" creationid="juanf" creationdate="20240514T140947Z">
+        <seg>de su decisión definitiva de aplicar la liquidación de daños y perjuicios y del importe correspondiente.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2647,8 +2647,8 @@ se han producido realmente&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt
       <tuv lang="en">
         <seg>of&lt;t0/&gt; &lt;t1/&gt;the&lt;t2/&gt; &lt;t3/&gt;withdrawal&lt;t4/&gt; &lt;t5/&gt;of&lt;t6/&gt; &lt;t7/&gt;its&lt;t8/&gt; &lt;t9/&gt;intention to&lt;t10/&gt; &lt;t11/&gt;apply&lt;t12/&gt; &lt;t13/&gt;liquidated&lt;t14/&gt; &lt;t15/&gt;damages;&lt;t16/&gt; &lt;t17/&gt;or</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115857Z" creationid="juanf" creationdate="20240514T140946Z">
-        <seg>(a) la retirada de su intención de aplicar la liquidación de daños y perjuicios; o&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T185749Z" creationid="juanf" creationdate="20240514T140946Z">
+        <seg>la retirada de su intención de aplicar la liquidación de daños y perjuicios; o&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2769,24 +2769,24 @@ Distribución: derecho exclusivo de autorizar o prohibir cualquier forma de dist
       <tuv lang="en">
         <seg>that the &lt;t0/&gt;results &lt;t1/&gt;be adapted, provided that this is done in a manner which is not&lt;t2/&gt; &lt;t3/&gt;prejudicial&lt;t4/&gt; &lt;t5/&gt;to the&lt;t6/&gt; &lt;t7/&gt;creator&lt;t8/&gt;'s &lt;t9/&gt;honour&lt;t10/&gt; &lt;t11/&gt;or&lt;t12/&gt; &lt;t13/&gt;reputation.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115804Z" creationid="juanf" creationdate="20240514T140847Z">
-        <seg>(c) que se adapten los resultados, siempre que se haga de manera que no se perjudique el honor o la reputación del creador.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T185729Z" creationid="juanf" creationdate="20240514T140847Z">
+        <seg>que se adapten los resultados, siempre que se haga de manera que no se perjudique el honor o la reputación del creador.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>that the &lt;t0/&gt;results &lt;t1/&gt;be divulged or not after they have been delivered in their final version&lt;t2/&gt; &lt;t3/&gt;to&lt;t4/&gt; &lt;t5/&gt;the&lt;t6/&gt; &lt;t7/&gt;contracting&lt;t8/&gt; &lt;t9/&gt;authority;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115803Z" creationid="juanf" creationdate="20240514T140846Z">
-        <seg>(b) que los resultados se divulguen o no una vez entregados en su versión definitiva al poder adjudicador;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T185715Z" creationid="juanf" creationdate="20240514T140846Z">
+        <seg>que los resultados se divulguen o no una vez entregados en su versión definitiva al poder adjudicador;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt; </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>that their names be mentioned or not mentioned when the &lt;t0/&gt;results &lt;t1/&gt;are presented to the&lt;t2/&gt; &lt;t3/&gt;public;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115802Z" creationid="juanf" creationdate="20240514T140845Z">
-        <seg>(a) que se mencionen o no sus nombres cuando se presenten los resultados al público;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T185701Z" creationid="juanf" creationdate="20240514T140845Z">
+        <seg>que se mencionen o no sus nombres cuando se presenten los resultados al público;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
