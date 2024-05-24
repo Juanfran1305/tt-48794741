@@ -706,8 +706,8 @@ personal que:&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&
       <tuv lang="en">
         <seg>If a &lt;t0/&gt;party requests&lt;t1/&gt; written confirmation of an email within a reasonable time, the other party&lt;t2/&gt; &lt;t3/&gt;must&lt;t4/&gt; &lt;t5/&gt;provide&lt;t6/&gt; &lt;t7/&gt;an original&lt;t8/&gt; &lt;t9/&gt;signed paper&lt;t10/&gt; &lt;t11/&gt;version&lt;t12/&gt; &lt;t13/&gt;of&lt;t14/&gt; &lt;t15/&gt;the&lt;t16/&gt; &lt;t17/&gt;communication as&lt;t18/&gt; &lt;t19/&gt;soon&lt;t20/&gt; &lt;t21/&gt;as possible.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115429Z" creationid="usuario" creationdate="20240521T135623Z">
-        <seg>Si una de las partes solicita confirmación por escrito de un correo electrónico en un plazo razonable, la otra parte deberá proporcionar una versión original firmada en papel de la comunicación lo antes posible.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;</seg>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240524T163539Z" creationid="usuario" creationdate="20240521T135623Z">
+        <seg>Si una de las partes solicita confirmación por escrito de un correo electrónico en un plazo razonable de tiempo, la otra parte deberá proporcionar una versión original firmada en papel de la comunicación lo antes posible.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2875,8 +2875,8 @@ c) Distribución: derecho exclusivo de autorizar o prohibir cualquier forma de d
       <tuv lang="en">
         <seg>the&lt;t0/&gt; &lt;t1/&gt;rights&lt;t2/&gt; &lt;t3/&gt;to&lt;t4/&gt; &lt;t5/&gt;decompile&lt;t6/&gt; &lt;t7/&gt;or&lt;t8/&gt; &lt;t9/&gt;disassemble&lt;t10/&gt; &lt;t11/&gt;the&lt;t12/&gt; &lt;t13/&gt;software;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115738Z" creationid="juanf" creationdate="20240426T151704Z">
-        <seg>los derechos para descompilar o desamblar el programa;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;</seg>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240524T164012Z" creationid="juanf" creationdate="20240426T151704Z">
+        <seg>los derechos para descompilar o desconfigurar el programa;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;</seg>
       </tuv>
     </tu>
     <tu>
