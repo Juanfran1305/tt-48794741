@@ -2081,8 +2081,8 @@ durante la ejecución del contrato.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&
       <tuv lang="en">
         <seg>This&lt;t0/&gt; &lt;t1/&gt;evidence&lt;t2/&gt; &lt;t3/&gt;must&lt;t4/&gt; &lt;t5/&gt;include,&lt;t6/&gt; &lt;t7/&gt;as&lt;t8/&gt; &lt;t9/&gt;appropriate:</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115751Z" creationid="juanf" creationdate="20240503T151657Z">
-        <seg>La evidencia deberá comprender, cuando proceda:&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240524T164849Z" creationid="juanf" creationdate="20240503T151657Z">
+        <seg>La evidencia deberá incluir, cuando proceda:&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2233,8 +2233,8 @@ durante la ejecución del contrato.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&
       <tuv lang="en">
         <seg>a copy of the agreement or extract from the employment contract granting the&lt;t0/&gt; &lt;t1/&gt;relevant rights to the contractor where parts of the &lt;t2/&gt;results &lt;t3/&gt;were created by its&lt;t4/&gt; &lt;t5/&gt;personnel&lt;t6/&gt;;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115754Z" creationid="juanf" creationdate="20240503T152312Z">
-        <seg>una copia de la licencia del extracto del contrato de empleo garantizando los datos relevantes al contratista donde las partes de los resultados fueron creados por su personal&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;</seg>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240524T165021Z" creationid="juanf" creationdate="20240503T152312Z">
+        <seg>una copia de la licencia del extracto del contrato de empleo garantizando los datos relevantes al contratista donde las partes de los resultados fueron creadas por su personal&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2867,8 +2867,8 @@ c) Distribución: derecho exclusivo de autorizar o prohibir cualquier forma de d
       <tuv lang="en">
         <seg>the&lt;t0/&gt; &lt;t1/&gt;name&lt;t2/&gt; &lt;t3/&gt;and version number&lt;t4/&gt; &lt;t5/&gt;of&lt;t6/&gt; &lt;t7/&gt;a&lt;t8/&gt; &lt;t9/&gt;software&lt;t10/&gt; &lt;t11/&gt;product;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115751Z" creationid="juanf" creationdate="20240503T151756Z">
-        <seg>el nombre y número de la versión específica de cada producto de software&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;</seg>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240524T164922Z" creationid="juanf" creationdate="20240503T151756Z">
+        <seg>el nombre y número de la versión específica de cada producto del programa; &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2883,8 +2883,8 @@ c) Distribución: derecho exclusivo de autorizar o prohibir cualquier forma de d
       <tuv lang="en">
         <seg>the&lt;t0/&gt; &lt;t1/&gt;text&lt;t2/&gt; &lt;t3/&gt;of&lt;t4/&gt; &lt;t5/&gt;the&lt;t6/&gt; &lt;t7/&gt;disclaimer&lt;t8/&gt; &lt;t9/&gt;notice&lt;t10/&gt; &lt;t11/&gt;if&lt;t12/&gt; &lt;t13/&gt;any.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115755Z" creationid="juanf" creationdate="20240503T152406Z">
-        <seg>el texto del aviso de descargo de responsabilidad, si hay&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;</seg>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240524T165136Z" creationid="juanf" creationdate="20240503T152406Z">
+        <seg>el texto de aviso de denuncia, si lo hay&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;</seg>
       </tuv>
     </tu>
     <tu>
