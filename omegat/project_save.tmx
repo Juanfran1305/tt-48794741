@@ -152,16 +152,16 @@
       <tuv lang="en">
         <seg>'Substantial error'&lt;t0/&gt;: any infringement of a contract provision resulting from an act or&lt;t1/&gt; &lt;t2/&gt;omission,&lt;t3/&gt; &lt;t4/&gt;which causes or&lt;t5/&gt; &lt;t6/&gt;might&lt;t7/&gt; &lt;t8/&gt;cause&lt;t9/&gt; &lt;t10/&gt;a&lt;t11/&gt; &lt;t12/&gt;loss to the&lt;t13/&gt; &lt;t14/&gt;Union's &lt;t15/&gt;budget;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240524T085626Z" creationid="alumno" creationdate="20240514T141606Z">
-        <seg>Error sustancial&lt;t0/&gt;: toda infracción de una disposición contractual resultante de una acción u omisión que cause o pueda causar un perjuicio al presupuesto de la Unión;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;</seg>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240524T161539Z" creationid="alumno" creationdate="20240514T141606Z">
+        <seg>Error sustancial&lt;t0/&gt;: toda infracción de una disposición contractual resultante de una acción u omisión que cause o pueda causar un perjuicio al presupuesto de la Unión;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt; </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>'Supplier portal'&lt;t0/&gt;: the &lt;t1/&gt;e-PRIOR &lt;t2/&gt;portal, which allows the contractor to exchange electronic&lt;t3/&gt; &lt;t4/&gt;business documents, such as invoices, through a graphical user interface; its main features can&lt;t5/&gt; &lt;t6/&gt;be found in the supplier portal overview document available on the following website:&lt;t7/&gt; &lt;t8/&gt;http://ec.europa.eu/dgs/informatics/supplier_portal/doc/um_supplier_portal_overview.pdf</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240524T085659Z" creationid="alumno" creationdate="20240514T141616Z">
-        <seg>Portal del proveedor&lt;t0/&gt;: el portal e-PRIOR, que permite al contratista intercambiar documentos comerciales electrónicos, como facturas, a través de una interfaz gráfica de usuario; sus principales características pueden consultarse en el documento de descripción general del portal del proveedor disponible en el siguiente sitio web: http://ec.europa.eu/dgs/informatics/supplier_portal/doc/um_supplier_portal_overview.pdf.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;</seg>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240524T161613Z" creationid="alumno" creationdate="20240514T141616Z">
+        <seg>Portal del proveedor&lt;t0/&gt;: el portal e-PRIOR, que permite al contratista intercambiar documentos comerciales electrónicos, como facturas, a través de una interfaz gráfica de usuario. Sus principales características pueden consultarse en el documento de descripción general del portal del proveedor disponible en el siguiente sitio web: http://ec.europa.eu/dgs/informatics/supplier_portal/doc/um_supplier_portal_overview.pdf.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1753,8 +1753,8 @@ durante la ejecución del contrato.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&
       <tuv lang="en">
         <seg>The illegal, &lt;t0/&gt;invalid&lt;t1/&gt; or unenforceable provision must be replaced by a legal, valid and&lt;t2/&gt; &lt;t3/&gt;enforceable substitute provision which corresponds as closely as possible with the actual&lt;t4/&gt; &lt;t5/&gt;intent&lt;t6/&gt; &lt;t7/&gt;of&lt;t8/&gt; &lt;t9/&gt;the&lt;t10/&gt; &lt;t11/&gt;parties under&lt;t12/&gt; &lt;t13/&gt;the&lt;t14/&gt; &lt;t15/&gt;illegal, invalid or&lt;t16/&gt; &lt;t17/&gt;unenforceable&lt;t18/&gt; &lt;t19/&gt;provision.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115159Z" creationid="alumno" creationdate="20240514T141855Z">
-        <seg>La disposición ilegal, inválida o inaplicable debe ser sustituida por una disposición sustitutiva legal, válida y aplicable que se corresponda en la mayor medida posible con la intención real de las partes en virtud de la disposición ilegal, inválida o inaplicable.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;</seg>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240524T161829Z" creationid="alumno" creationdate="20240514T141855Z">
+        <seg>La disposición ilegal, inválida o inaplicable debe ser sustituida por una disposición sustitutiva legal, válida y aplicable que se corresponda en la mayor medida de lo posible con la intención real de las partes en virtud de la disposición ilegal, inválida o inaplicable.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;</seg>
       </tuv>
     </tu>
     <tu>
