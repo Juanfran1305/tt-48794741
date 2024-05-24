@@ -328,9 +328,8 @@
       <tuv lang="en">
         <seg>Any claim for liquidated damages does not affect the contractor's actual or potential liability&lt;t0/&gt; &lt;t1/&gt;or&lt;t2/&gt; &lt;t3/&gt;the&lt;t4/&gt; &lt;t5/&gt;contracting authority's rights under&lt;t6/&gt; &lt;t7/&gt;Article&lt;t8/&gt; &lt;t9/&gt;17.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115904Z" creationid="juanf" creationdate="20240514T140950Z">
-        <seg>Reclamaciones y responsabilidad
-Cualquier reclamación de indemnización por daños y perjuicios no afectará a la responsabilidad real o potencial del contratista ni a los derechos del poder adjudicador en virtud del artículo .&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;17</seg>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240524T170128Z" creationid="juanf" creationdate="20240514T140950Z">
+        <seg>Cualquier reclamación de indemnización por daños y perjuicios no afectará a la responsabilidad real o potencial del contratista ni a los derechos del poder adjudicador en virtud del artículo .&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;17</seg>
       </tuv>
     </tu>
     <tu>
@@ -458,8 +457,8 @@ personal que:&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&
       <tuv lang="en">
         <seg>Claims&lt;t0/&gt; &lt;t1/&gt;and&lt;t2/&gt; &lt;t3/&gt;liability</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115901Z" creationid="juanf" creationdate="20240514T140949Z">
-        <seg>Derechos de imagen y grabaciones sonoras&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240524T170139Z" creationid="juanf" creationdate="20240514T140949Z">
+        <seg>Reclamaciones y responsabilidades&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1182,8 +1181,8 @@ personal que:&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&
       <tuv lang="en">
         <seg>SUSPENSION&lt;t0/&gt; &lt;t1/&gt;OF&lt;t2/&gt; &lt;t3/&gt;THE&lt;t4/&gt; &lt;t5/&gt;PERFORMANCE&lt;t6/&gt; &lt;t7/&gt;OF&lt;t8/&gt; &lt;t9/&gt;THE&lt;t10/&gt; &lt;t11/&gt;CONTRACT</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115905Z" creationid="juanf" creationdate="20240514T140959Z">
-        <seg>SUSPENSIÓN DE LA EJECUCIÓN DEL CONTRATO 16.1.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;</seg>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240524T170145Z" creationid="juanf" creationdate="20240514T140959Z">
+        <seg>SUSPENSIÓN DE LA EJECUCIÓN DEL CONTRATO &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1793,8 +1792,8 @@ durante la ejecución del contrato.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&
       <tuv lang="en">
         <seg>The parties expressly acknowledge and agree that any amount payable under this Article is&lt;t0/&gt; &lt;t1/&gt;not a penalty and represents a reasonable estimate of fair compensation for the damage&lt;t2/&gt; &lt;t3/&gt;incurred due to failure to provide the services within the applicable time limits set out in the&lt;t4/&gt; &lt;t5/&gt;contract.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115900Z" creationid="juanf" creationdate="20240514T140949Z">
-        <seg>Las partes reconocen y acuerdan expresamente que cualquier cantidad pagadera en virtud de este Artículo no es una penalización y representa una estimación razonable de una compensación justa por los daños sufridos debido a la falta de prestación de los servicios dentro de los plazos aplicables establecidos en el contrato.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240524T170024Z" creationid="juanf" creationdate="20240514T140949Z">
+        <seg>Las partes reconocen y acuerdan expresamente que cualquier cantidad que se pueda pagar en virtud de este Artículo no es una penalización y representa una estimación razonable de una compensación justa por los daños sufridos debido a la falta de prestación de los servicios dentro de los plazos aplicables establecidos en el contrato.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
