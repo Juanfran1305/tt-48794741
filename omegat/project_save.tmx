@@ -1066,8 +1066,8 @@ personal que:&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&
       <tuv lang="en">
         <seg>One copy of the consignment note must be countersigned by the&lt;t6/&gt; &lt;t7/&gt;contracting&lt;t8/&gt; &lt;t9/&gt;authority&lt;t10/&gt; &lt;t11/&gt;and&lt;t12/&gt; &lt;t13/&gt;returned to the contractor&lt;t14/&gt; &lt;t15/&gt;or&lt;t16/&gt; &lt;t17/&gt;to its carrier.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240524T085849Z" creationid="alumno" creationdate="20240514T142230Z">
-        <seg>Una copia de la carta de porte deberá ser refrendado por la Autoridad contratante y devuelto al contratista o a su transportista.&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;</seg>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240524T162650Z" creationid="alumno" creationdate="20240514T142230Z">
+        <seg>Una copia de la carta de porte deberá ser refrendada por la Autoridad contratante y devuelto al contratista o a su transportista.&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1833,8 +1833,8 @@ durante la ejecución del contrato.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&
       <tuv lang="en">
         <seg>The replacement of such a provision must be made in accordance with Article 11.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="alumno" changedate="20240514T141915Z" creationid="alumno" creationdate="20240514T141915Z">
-        <seg>La sustitución de dicha disposición debe realizarse de conformidad con el artículo 11. </seg>
+      <tuv lang="es-ES" changeid="usuario" changedate="20240524T162658Z" creationid="alumno" creationdate="20240514T141915Z">
+        <seg>La sustitución de dicha disposición debe realizarse en conformidad con el artículo 11. </seg>
       </tuv>
     </tu>
     <tu>
