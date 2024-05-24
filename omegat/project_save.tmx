@@ -2111,6 +2111,14 @@ durante la ejecución del contrato.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>V&lt;t0/&gt;alidity&lt;t1/&gt; &lt;t2/&gt;and&lt;t3/&gt; &lt;t4/&gt;acceptance&lt;t5/&gt; &lt;t6/&gt;of&lt;t7/&gt; &lt;t8/&gt;electronic&lt;t9/&gt; &lt;t10/&gt;invoices</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T152108Z" creationid="Deyanira" creationdate="20240524T152108Z">
+        <seg>V&lt;t0/&gt;alidez&lt;t1/&gt; &lt;t2/&gt;y&lt;t3/&gt; &lt;t4/&gt;aceptación&lt;t5/&gt; &lt;t6/&gt;de&lt;t7/&gt; &lt;t8/&gt;facturas electrónicas&lt;t9/&gt; &lt;t10/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Validity&lt;t0/&gt; &lt;t1/&gt;and&lt;t2/&gt; &lt;t3/&gt;acceptance&lt;t4/&gt; &lt;t5/&gt;of&lt;t6/&gt; &lt;t7/&gt;electronic&lt;t8/&gt; &lt;t9/&gt;invoices</seg>
       </tuv>
       <tuv lang="es-ES" changeid="juanf" changedate="20240523T115515Z" creationid="usuario" creationdate="20240521T135639Z">
