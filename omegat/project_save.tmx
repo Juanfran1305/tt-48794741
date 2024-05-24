@@ -8,168 +8,168 @@
       <tuv lang="en">
         <seg>'Back&lt;t0/&gt; &lt;t1/&gt;Office'&lt;t2/&gt;:&lt;t3/&gt; &lt;t4/&gt;the&lt;t5/&gt; &lt;t6/&gt;internal&lt;t7/&gt; &lt;t8/&gt;system(s)&lt;t9/&gt; &lt;t10/&gt;used&lt;t11/&gt; &lt;t12/&gt;by&lt;t13/&gt; &lt;t14/&gt;the parties&lt;t15/&gt; &lt;t16/&gt;to&lt;t17/&gt; &lt;t18/&gt;process&lt;t19/&gt; &lt;t20/&gt;electronic&lt;t21/&gt; &lt;t22/&gt;invoices;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115131Z" creationid="juanf" creationdate="20240522T173944Z">
-        <seg>Back Office: el sistema o sistemas internos utilizados por las partes para procesar las facturas electrónicas;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;&lt;t22/&gt;</seg>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240524T085112Z" creationid="juanf" creationdate="20240522T173944Z">
+        <seg>Back&lt;t0/&gt;&lt;t1/&gt; Office&lt;t2/&gt;&lt;t3/&gt;: &lt;t4/&gt;el &lt;t5/&gt;sistema o sistemas internos utilizados por las partes para procesar las facturas electrónicas;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;&lt;t22/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>'Confidential information or document'&lt;t0/&gt;: any information or document received by either&lt;t1/&gt; &lt;t2/&gt;party from the other or accessed by either party in the context of the &lt;t3/&gt;performance of the&lt;t4/&gt; &lt;t5/&gt;contract, &lt;t6/&gt;that any of the parties has identified in writing as confidential.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115132Z" creationid="juanf" creationdate="20240522T174021Z">
-        <seg>Información o documento confidencial: cualquier información o documento recibido por cualquiera de las partes de la otra parte o al que cualquiera de las partes tenga acceso en el contexto de la ejecución del contrato, que cualquiera de las partes haya identificado por escrito como confidencial. No puede incluir información que esté a disposición del público;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;</seg>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240524T085127Z" creationid="juanf" creationdate="20240522T174021Z">
+        <seg>Información o documento confidencial&lt;t0/&gt;: cualquier información o documento recibido por cualquiera de las partes de la otra parte o al que cualquiera de las partes tenga acceso en el contexto de la ejecución del contrato, que cualquiera de las partes haya identificado por escrito como confidencial. No puede incluir información que esté a disposición del público;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>'Conflict of Interest'&lt;t0/&gt;: a situation where the impartial and objective &lt;t1/&gt;performance of the&lt;t2/&gt; &lt;t3/&gt;contract &lt;t4/&gt;by the contractor is compromised for reasons involving family, emotional life,&lt;t5/&gt; &lt;t6/&gt;political or national affinity, economic interest, or any other shared interest with the&lt;t7/&gt; &lt;t8/&gt;contracting&lt;t9/&gt; &lt;t10/&gt;authority&lt;t11/&gt; &lt;t12/&gt;or&lt;t13/&gt; &lt;t14/&gt;any&lt;t15/&gt; &lt;t16/&gt;third party&lt;t17/&gt; &lt;t18/&gt;related to the&lt;t19/&gt; &lt;t20/&gt;subject-matter&lt;t21/&gt; &lt;t22/&gt;of&lt;t23/&gt; &lt;t24/&gt;the&lt;t25/&gt; &lt;t26/&gt;contract;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115134Z" creationid="juanf" creationdate="20240522T174141Z">
-        <seg>Conflicto de intereses: situación en la que la ejecución imparcial y objetiva del contrato por parte del contratista se ve comprometida por razones familiares, afectivas, de afinidad política o nacional, de interés económico o por cualquier otro interés común con el poder adjudicador o con un tercero relacionado con el objeto del contrato;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt;&lt;t25/&gt;&lt;t26/&gt;</seg>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240524T085139Z" creationid="juanf" creationdate="20240522T174141Z">
+        <seg>Conflicto de intereses&lt;t0/&gt;: situación en la que la ejecución imparcial y objetiva del contrato por parte del contratista se ve comprometida por razones familiares, afectivas, de afinidad política o nacional, de interés económico o por cualquier otro interés común con el poder adjudicador o con un tercero relacionado con el objeto del contrato;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt;&lt;t25/&gt;&lt;t26/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>'Creator'&lt;t0/&gt;:&lt;t1/&gt; &lt;t2/&gt;means&lt;t3/&gt; &lt;t4/&gt;any&lt;t5/&gt; &lt;t6/&gt;natural&lt;t7/&gt; &lt;t8/&gt;person who&lt;t9/&gt; &lt;t10/&gt;contributes to&lt;t11/&gt; &lt;t12/&gt;the&lt;t13/&gt; &lt;t14/&gt;production&lt;t15/&gt; &lt;t16/&gt;of&lt;t17/&gt; &lt;t18/&gt;the&lt;t19/&gt; &lt;t20/&gt;result&lt;t21/&gt;;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115135Z" creationid="juanf" creationdate="20240522T174156Z">
-        <seg>Creador: cualquier persona física que contribuya a la producción del resultado;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;</seg>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240524T085152Z" creationid="juanf" creationdate="20240522T174156Z">
+        <seg>Creador&lt;t0/&gt;: cualquier persona física que contribuya a la producción del resultado;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>'EDI message' &lt;t0/&gt;(electronic data interchange): a message created and exchanged through the&lt;t1/&gt; &lt;t2/&gt;electronic transfer, from computer to computer, of commercial and administrative data using&lt;t3/&gt; &lt;t4/&gt;an&lt;t5/&gt; &lt;t6/&gt;agreed &lt;t7/&gt;standard;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115136Z" creationid="juanf" creationdate="20240522T174208Z">
-        <seg>Mensaje EDI (intercambio electrónico de datos): mensaje creado e intercambiado mediante la transferencia electrónica, de ordenador a ordenador, de datos comerciales y administrativos utilizando una norma acordada;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240524T085206Z" creationid="juanf" creationdate="20240522T174208Z">
+        <seg>Mensaje EDI &lt;t0/&gt;(intercambio electrónico de datos): mensaje creado e intercambiado mediante la transferencia electrónica, de ordenador a ordenador, de datos comerciales y administrativos utilizando una norma acordada;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>'Force majeure'&lt;t0/&gt;: any unforeseeable, exceptional situation or event beyond the control of the&lt;t1/&gt; &lt;t2/&gt;parties that prevents either of them from fulfilling any of their obligations under the contract.&lt;t3/&gt; &lt;t4/&gt;The&lt;t5/&gt; &lt;t6/&gt;situation&lt;t7/&gt; &lt;t8/&gt;or&lt;t9/&gt; &lt;t10/&gt;event&lt;t11/&gt; &lt;t12/&gt;must&lt;t13/&gt; &lt;t14/&gt;not&lt;t15/&gt; &lt;t16/&gt;be&lt;t17/&gt; &lt;t18/&gt;attributable&lt;t19/&gt; &lt;t20/&gt;to&lt;t21/&gt; &lt;t22/&gt;error&lt;t23/&gt; &lt;t24/&gt;or&lt;t25/&gt; &lt;t26/&gt;negligence&lt;t27/&gt; &lt;t28/&gt;on&lt;t29/&gt; &lt;t30/&gt;the&lt;t31/&gt; &lt;t32/&gt;part&lt;t33/&gt; &lt;t34/&gt;of&lt;t35/&gt; &lt;t36/&gt;the&lt;t37/&gt; &lt;t38/&gt;parties or on the part of the subcontractors and must prove to be inevitable despite their&lt;t39/&gt; &lt;t40/&gt;exercising due diligence.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115139Z" creationid="juanf" creationdate="20240522T174420Z">
-        <seg>Fuerza mayor: toda situación o acontecimiento imprevisible, excepcional y ajeno a la voluntad de las partes que impida a cualquiera de ellas cumplir alguna de las obligaciones derivadas del contrato. La situación o acontecimiento no debe ser imputable a error o negligencia de las partes o de los subcontratistas y debe resultar inevitable a pesar de que hayan actuado con la diligencia debida. &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt;&lt;t25/&gt;&lt;t26/&gt;&lt;t27/&gt;&lt;t28/&gt;&lt;t29/&gt;&lt;t30/&gt;&lt;t31/&gt;&lt;t32/&gt;&lt;t33/&gt;&lt;t34/&gt;&lt;t35/&gt;&lt;t36/&gt;&lt;t37/&gt;&lt;t38/&gt;&lt;t39/&gt;&lt;t40/&gt;</seg>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240524T085226Z" creationid="juanf" creationdate="20240522T174420Z">
+        <seg>Fuerza mayor&lt;t0/&gt;: toda situación o acontecimiento imprevisible, excepcional y ajeno a la voluntad de las partes que impida a cualquiera de ellas cumplir alguna de las obligaciones derivadas del contrato. La situación o acontecimiento no debe ser imputable a error o negligencia de las partes o de los subcontratistas y debe resultar inevitable a pesar de que hayan actuado con la diligencia debida. &lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt;&lt;t25/&gt;&lt;t26/&gt;&lt;t27/&gt;&lt;t28/&gt;&lt;t29/&gt;&lt;t30/&gt;&lt;t31/&gt;&lt;t32/&gt;&lt;t33/&gt;&lt;t34/&gt;&lt;t35/&gt;&lt;t36/&gt;&lt;t37/&gt;&lt;t38/&gt;&lt;t39/&gt;&lt;t40/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>'Formal notification' &lt;t0/&gt;(or 'formally notify'): form of communication between the parties&lt;t1/&gt; &lt;t2/&gt;made in writing by post or email, which provides the sender with compelling evidence that&lt;t3/&gt; &lt;t4/&gt;the&lt;t5/&gt; &lt;t6/&gt;message&lt;t7/&gt; &lt;t8/&gt;was delivered to the&lt;t9/&gt; &lt;t10/&gt;specified &lt;t11/&gt;recipient;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115140Z" creationid="juanf" creationdate="20240522T174450Z">
-        <seg>Notificación formal (o «notificar formalmente»): forma de comunicación entre las partes realizada por escrito mediante correo postal o electrónico, que proporciona al remitente pruebas convincentes de que el mensaje fue entregado al destinatario especificado;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;</seg>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240524T085238Z" creationid="juanf" creationdate="20240522T174450Z">
+        <seg>Notificación formal (o notificar formalmente)&lt;t0/&gt;: método de comunicación entre las partes realizada por escrito mediante correo postal o electrónico, que proporciona al remitente pruebas convincentes de que el mensaje fue entregado al destinatario especificado;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>'Fraud': &lt;t0/&gt;any intentional act or omission affecting the Union's financial interests relating to&lt;t1/&gt; &lt;t2/&gt;the use or presentation of false, incorrect or incomplete statements or documents or to non-&lt;t3/&gt; &lt;t4/&gt;disclosure&lt;t5/&gt; &lt;t6/&gt;of&lt;t7/&gt; &lt;t8/&gt;information&lt;t9/&gt; &lt;t10/&gt;in violation&lt;t11/&gt; &lt;t12/&gt;of&lt;t13/&gt; &lt;t14/&gt;a&lt;t15/&gt; &lt;t16/&gt;specific&lt;t17/&gt; &lt;t18/&gt;obligation;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115140Z" creationid="juanf" creationdate="20240522T174506Z">
-        <seg>Fraude: todo acto u omisión intencionado que afecte a los intereses financieros de la Unión y esté relacionado con el uso o la presentación de declaraciones o documentos falsos, incorrectos o incompletos, o con la no divulgación de información incumpliendo una obligación específica;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;</seg>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240524T085250Z" creationid="juanf" creationdate="20240522T174506Z">
+        <seg>Fraude&lt;t0/&gt;: todo acto u omisión intencionado que afecte a los intereses financieros de la Unión y esté relacionado con el uso o la presentación de declaraciones o documentos falsos, incorrectos o incompletos, o incumplir una obligación específica con al no divulgar la información;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>'Interface Control Document'&lt;t0/&gt;: the guideline document which lays down the technical&lt;t1/&gt; &lt;t2/&gt;specifications, message standards, security standards, checks of syntax and semantics, etc. to&lt;t3/&gt; &lt;t4/&gt;facilitate&lt;t5/&gt; &lt;t6/&gt;machine-to-machine&lt;t7/&gt; &lt;t8/&gt;connection.&lt;t9/&gt; &lt;t10/&gt;This&lt;t11/&gt; &lt;t12/&gt;document&lt;t13/&gt; &lt;t14/&gt;is&lt;t15/&gt; &lt;t16/&gt;updated on&lt;t17/&gt; &lt;t18/&gt;a regular&lt;t19/&gt; &lt;t20/&gt;basis;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115141Z" creationid="juanf" creationdate="20240522T174520Z">
-        <seg>Documento de control de las interfaces: el documento de orientación que establece las especificaciones técnicas, las normas relativas a los mensajes, las normas de seguridad, las comprobaciones de sintaxis y semántica, etc. para facilitar la conexión entre máquinas. Este documento se actualiza periódicamente;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;</seg>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240524T085257Z" creationid="juanf" creationdate="20240522T174520Z">
+        <seg>Documento de control de las interfaces&lt;t0/&gt;: el documento de orientación que establece las especificaciones técnicas, las normas relativas a los mensajes, las normas de seguridad, las comprobaciones de sintaxis y semántica, etc. para facilitar la conexión entre máquinas. Este documento se actualiza de forma regular;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>'Irregularity'&lt;t0/&gt;: any infringement of a provision of Union law resulting from an act or&lt;t1/&gt; &lt;t2/&gt;omission by an economic operator, which has, or would have, the effect of prejudicing the&lt;t3/&gt; &lt;t4/&gt;Union's&lt;t5/&gt; &lt;t6/&gt;budget;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115142Z" creationid="juanf" creationdate="20240522T174533Z">
-        <seg>Irregularidad: toda infracción de una disposición del Derecho de la Unión resultante de una acción u omisión de un agente económico, que tenga o tendría por efecto perjudicar al presupuesto de la Unión;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;</seg>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240524T085302Z" creationid="juanf" creationdate="20240522T174533Z">
+        <seg>Irregularidad&lt;t0/&gt;: toda infracción de una disposición del Derecho de la Unión resultante de una acción u omisión de un agente económico, que tenga o tendría por efecto perjudicar al presupuesto de la Unión;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>'Notification' &lt;t0/&gt;(or 'notify'): form of communication between the parties made in writing,&lt;t1/&gt; &lt;t2/&gt;including&lt;t3/&gt; &lt;t4/&gt;by&lt;t5/&gt; &lt;t6/&gt;electronic&lt;t7/&gt; &lt;t8/&gt;means;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115142Z" creationid="juanf" creationdate="20240522T174606Z">
-        <seg>Notificación (o “notificar”): forma de comunicación entre las partes realizada por escrito, incluso por medios electrónicos;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;</seg>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240524T085309Z" creationid="juanf" creationdate="20240522T174606Z">
+        <seg>Notificación (o “notificar”)&lt;t0/&gt;: método de comunicación entre las partes realizada por escrito, incluso por medios electrónicos;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>'Performance of the contract'&lt;t0/&gt;: the execution of tasks and delivery of the purchased&lt;t1/&gt; &lt;t2/&gt;supplies/services&lt;t3/&gt; &lt;t4/&gt;by&lt;t5/&gt; &lt;t6/&gt;the&lt;t7/&gt; &lt;t8/&gt;contractor&lt;t9/&gt; &lt;t10/&gt;to the&lt;t11/&gt; &lt;t12/&gt;contracting&lt;t13/&gt; &lt;t14/&gt;authority;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115142Z" creationid="juanf" creationdate="20240522T174619Z">
-        <seg>Ejecución del contrato: ejecución de las tareas y entrega de los suministros/servicios adquiridos por el contratista al poder adjudicador;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;</seg>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240524T085316Z" creationid="juanf" creationdate="20240522T174619Z">
+        <seg>Ejecución del contrato&lt;t0/&gt;: ejecución de las tareas y entrega de los suministros/servicios adquiridos por el contratista al poder adjudicador;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>'Personnel'&lt;t0/&gt;: persons employed directly or indirectly or contracted by the contractor to&lt;t1/&gt; &lt;t2/&gt;perform&lt;t3/&gt; &lt;t4/&gt;the&lt;t5/&gt; &lt;t6/&gt;contract;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115143Z" creationid="juanf" creationdate="20240522T174627Z">
-        <seg>Personal: personas empleadas directa o indirectamente o contratadas por el contratista para ejecutar el contrato;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;</seg>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240524T085325Z" creationid="juanf" creationdate="20240522T174627Z">
+        <seg>Personal&lt;t0/&gt;: personas empleadas directa o indirectamente o contratadas por el contratista para ejecutar el contrato;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>'Pre-existing material'&lt;t0/&gt;: any material, document, technology or know-how which exists prior&lt;t1/&gt; &lt;t2/&gt;to&lt;t3/&gt; &lt;t4/&gt;the&lt;t5/&gt; &lt;t6/&gt;contractor&lt;t7/&gt; &lt;t8/&gt;using&lt;t9/&gt; &lt;t10/&gt;it&lt;t11/&gt; &lt;t12/&gt;for&lt;t13/&gt; &lt;t14/&gt;the&lt;t15/&gt; &lt;t16/&gt;production of&lt;t17/&gt; &lt;t18/&gt;a&lt;t19/&gt; &lt;t20/&gt;result&lt;t21/&gt; &lt;t22/&gt;in the&lt;t23/&gt; &lt;t24/&gt;performance&lt;t25/&gt; &lt;t26/&gt;of the&lt;t27/&gt; &lt;t28/&gt;contract&lt;t29/&gt;;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115143Z" creationid="juanf" creationdate="20240522T174656Z">
-        <seg>Material preexistente: cualquier material, documento, tecnología o know-how que exista antes de que el contratista lo utilice para la producción de un resultado en la ejecución del contrato;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt;&lt;t25/&gt;&lt;t26/&gt;&lt;t27/&gt;&lt;t28/&gt;&lt;t29/&gt;</seg>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240524T085417Z" creationid="juanf" creationdate="20240522T174656Z">
+        <seg>Material preexistente&lt;t0/&gt;: cualquier material, documento, tecnología o destreza que exista antes de que el contratista lo utilice para la producción de un resultado en la ejecución del contrato;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt;&lt;t25/&gt;&lt;t26/&gt;&lt;t27/&gt;&lt;t28/&gt;&lt;t29/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>'Pre-existing right'&lt;t0/&gt;: any industrial and intellectual property right on &lt;t1/&gt;pre-existing material&lt;t2/&gt;; it&lt;t3/&gt; &lt;t4/&gt;may be a right of ownership, a &lt;t5/&gt;licence&lt;t6/&gt; right and/or right of use belonging to the contractor, the&lt;t7/&gt; &lt;t8/&gt;creator&lt;t9/&gt;, the&lt;t10/&gt; &lt;t11/&gt;contracting&lt;t12/&gt; &lt;t13/&gt;authority&lt;t14/&gt; &lt;t15/&gt;or&lt;t16/&gt; &lt;t17/&gt;to any&lt;t18/&gt; &lt;t19/&gt;other&lt;t20/&gt; &lt;t21/&gt;third &lt;t22/&gt;parties;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115144Z" creationid="alumno" creationdate="20240514T141338Z">
-        <seg>"Derecho preexistente": todo derecho de propiedad industrial e intelectual sobre un material preexistente; puede tratarse de un derecho de propiedad, un derecho de licencia y/o un derecho de uso perteneciente al contratista, al creador, al poder adjudicador o a cualquier otro tercero;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;&lt;t22/&gt;</seg>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240524T085648Z" creationid="alumno" creationdate="20240514T141338Z">
+        <seg>Derecho preexistente&lt;t0/&gt;: todo derecho de propiedad industrial e intelectual sobre un material preexistente; puede tratarse de un derecho de propiedad, un derecho de licencia y/o un derecho de uso perteneciente al contratista, al creador, al poder adjudicador o a cualquier otro tercero;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;&lt;t22/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>'Professional conflicting interest'&lt;t0/&gt;: a situation in which the contractor's previous or ongoing&lt;t1/&gt; &lt;t2/&gt;professional activities affect its capacity to perform the contract to an appropriate quality&lt;t3/&gt; &lt;t4/&gt;standard;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115144Z" creationid="alumno" creationdate="20240514T141353Z">
-        <seg>"Conflicto de intereses profesionales": situación en la que las actividades profesionales pasadas o presentes del contratista afectan a su capacidad para ejecutar el contrato con un nivel de calidad adecuado;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;</seg>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240524T085640Z" creationid="alumno" creationdate="20240514T141353Z">
+        <seg>Conflicto de intereses profesionales&lt;t0/&gt;: situación en la que las actividades profesionales pasadas o presentes del contratista afectan a su capacidad para ejecutar el contrato con un nivel de calidad adecuado;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>'Related person'&lt;t0/&gt;: any person who has the power to represent the contractor or to take&lt;t1/&gt; &lt;t2/&gt;decisions&lt;t3/&gt; &lt;t4/&gt;on its &lt;t5/&gt;behalf;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115145Z" creationid="alumno" creationdate="20240514T141417Z">
-        <seg>"Persona vinculada": cualquier persona que tenga poder para representar al contratista o para tomar decisiones en su nombre;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240524T085637Z" creationid="alumno" creationdate="20240514T141417Z">
+        <seg>Persona vinculada&lt;t0/&gt;: cualquier persona que tenga poder para representar al contratista o para tomar decisiones en su nombre;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>'Result'&lt;t0/&gt;: any intended outcome of &lt;t1/&gt;the performance of the contract&lt;t2/&gt;, whatever its form or&lt;t3/&gt; &lt;t4/&gt;nature, which is delivered and finally or partially approved by the contracting authority.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115145Z" creationid="alumno" creationdate="20240514T141504Z">
-        <seg>"Resultado": todo resultado previsto de la ejecución del contrato, cualquiera que sea su forma o naturaleza, que se entrega y es aprobado definitiva o parcialmente por el poder adjudicador.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;</seg>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240524T085631Z" creationid="alumno" creationdate="20240514T141504Z">
+        <seg>Resultado&lt;t0/&gt;: todo resultado previsto de la ejecución del contrato, cualquiera que sea su forma o naturaleza, que se entrega y es aprobado definitiva o parcialmente por el poder adjudicador.&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>'Substantial error'&lt;t0/&gt;: any infringement of a contract provision resulting from an act or&lt;t1/&gt; &lt;t2/&gt;omission,&lt;t3/&gt; &lt;t4/&gt;which causes or&lt;t5/&gt; &lt;t6/&gt;might&lt;t7/&gt; &lt;t8/&gt;cause&lt;t9/&gt; &lt;t10/&gt;a&lt;t11/&gt; &lt;t12/&gt;loss to the&lt;t13/&gt; &lt;t14/&gt;Union's &lt;t15/&gt;budget;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115150Z" creationid="alumno" creationdate="20240514T141606Z">
-        <seg>"Error sustancial": toda infracción de una disposición contractual resultante de una acción u omisión que cause o pueda causar un perjuicio al presupuesto de la Unión;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;</seg>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240524T085626Z" creationid="alumno" creationdate="20240514T141606Z">
+        <seg>Error sustancial&lt;t0/&gt;: toda infracción de una disposición contractual resultante de una acción u omisión que cause o pueda causar un perjuicio al presupuesto de la Unión;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>'Supplier portal'&lt;t0/&gt;: the &lt;t1/&gt;e-PRIOR &lt;t2/&gt;portal, which allows the contractor to exchange electronic&lt;t3/&gt; &lt;t4/&gt;business documents, such as invoices, through a graphical user interface; its main features can&lt;t5/&gt; &lt;t6/&gt;be found in the supplier portal overview document available on the following website:&lt;t7/&gt; &lt;t8/&gt;http://ec.europa.eu/dgs/informatics/supplier_portal/doc/um_supplier_portal_overview.pdf</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115151Z" creationid="alumno" creationdate="20240514T141616Z">
-        <seg>Portal del proveedor": el portal e-PRIOR, que permite al contratista intercambiar documentos comerciales electrónicos, como facturas, a través de una interfaz gráfica de usuario; sus principales características pueden consultarse en el documento de descripción general del portal del proveedor disponible en el siguiente sitio web: http://ec.europa.eu/dgs/informatics/supplier_portal/doc/um_supplier_portal_overview.pdf.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;</seg>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240524T085659Z" creationid="alumno" creationdate="20240514T141616Z">
+        <seg>Portal del proveedor&lt;t0/&gt;: el portal e-PRIOR, que permite al contratista intercambiar documentos comerciales electrónicos, como facturas, a través de una interfaz gráfica de usuario; sus principales características pueden consultarse en el documento de descripción general del portal del proveedor disponible en el siguiente sitio web: http://ec.europa.eu/dgs/informatics/supplier_portal/doc/um_supplier_portal_overview.pdf.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>'e-PRIOR'&lt;t0/&gt;: the service-oriented communication platform that provides a series of web&lt;t1/&gt; &lt;t2/&gt;services and allows the exchange of &lt;t3/&gt;standardised&lt;t4/&gt; electronic messages and documents&lt;t5/&gt; &lt;t6/&gt;between the parties.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115136Z" creationid="juanf" creationdate="20240522T174237Z">
-        <seg>e-PRIOR: plataforma de comunicación orientada a los servicios que ofrece una serie de servicios web y permite el intercambio de mensajes y documentos electrónicos normalizados entre las partes. &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;</seg>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240524T085213Z" creationid="juanf" creationdate="20240522T174237Z">
+        <seg>e-PRIOR&lt;t0/&gt;: plataforma de comunicación orientada a los servicios que ofrece una serie de servicios web y permite el intercambio de mensajes y documentos electrónicos normalizados entre las partes. &lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -192,8 +192,8 @@
       <tuv lang="en">
         <seg>A &lt;t8/&gt;result &lt;t9/&gt;may, in addition to&lt;t10/&gt; &lt;t11/&gt;materials&lt;t12/&gt; &lt;t13/&gt;produced&lt;t14/&gt; &lt;t15/&gt;by&lt;t16/&gt; &lt;t17/&gt;the&lt;t18/&gt; &lt;t19/&gt;contractor&lt;t20/&gt; &lt;t21/&gt;or at its&lt;t22/&gt; &lt;t23/&gt;request, also&lt;t24/&gt; &lt;t25/&gt;include&lt;t26/&gt; &lt;t27/&gt;pre-existing&lt;t28/&gt; &lt;t29/&gt;materials&lt;t30/&gt;;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115147Z" creationid="alumno" creationdate="20240514T141548Z">
-        <seg>(h) si el contratista se encuentra en una situación que pudiera constituir un conflicto de intereses o un conflicto de intereses profesional a que se refiere el artículo 7;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt;&lt;t25/&gt;&lt;t26/&gt;&lt;t27/&gt;&lt;t28/&gt;&lt;t29/&gt;&lt;t30/&gt;</seg>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240524T084818Z" creationid="alumno" creationdate="20240514T141548Z">
+        <seg>Un resultado podría incluir también materiales preexistentes, además de los materiales producidos o encargados por el contratista;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt;&lt;t25/&gt;&lt;t26/&gt;&lt;t27/&gt;&lt;t28/&gt;&lt;t29/&gt;&lt;t30/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -208,8 +208,8 @@
       <tuv lang="en">
         <seg>A&lt;t5/&gt; &lt;t6/&gt;result &lt;t7/&gt;may be further defined in the contract as a deliverable.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115146Z" creationid="alumno" creationdate="20240514T141508Z">
-        <seg>Un resultado puede definirse en el contrato como un entregable. &lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240524T084627Z" creationid="alumno" creationdate="20240514T141508Z">
+        <seg>Un resultado puede definirse en el contrato como una entrega. &lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -345,8 +345,8 @@ Cualquier reclamación de indemnización por daños y perjuicios no afectará a 
       <tuv lang="en">
         <seg>Any lack of conformity resulting from incorrect installation of the supplies must be deemed&lt;t0/&gt; &lt;t1/&gt;to be equivalent to lack of conformity of the supplies if installation was provided for by the&lt;t2/&gt; &lt;t3/&gt;purchase order and the supplies were installed by the contractor or under its responsibility.&lt;t4/&gt; &lt;t5/&gt;This applies equally if the product was to be installed by the contracting authority and was&lt;t6/&gt; &lt;t7/&gt;incorrectly&lt;t8/&gt; &lt;t9/&gt;installed owing&lt;t10/&gt; &lt;t11/&gt;to a&lt;t12/&gt; &lt;t13/&gt;shortcoming&lt;t14/&gt; &lt;t15/&gt;in the&lt;t16/&gt; &lt;t17/&gt;installation instructions.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115225Z" creationid="alumno" creationdate="20240514T143220Z">
-        <seg>Cualquier falta de conformidad resultante de una instalación incorrecta de los suministros deberá considerarse equivalente a una falta de conformidad de los suministros si la instalación estaba prevista en la orden de compra y los suministros fueron instalados por el contratista o bajo su responsabilidad. Esto se aplica igualmente si el producto debía ser instalado por la entidad adjudicadora y se instaló incorrectamente debido a una deficiencia en las instrucciones de instalación.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;</seg>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240524T090151Z" creationid="alumno" creationdate="20240514T143220Z">
+        <seg>Cualquier falta de conformidad proveniente de una instalación incorrecta de los suministros deberá considerarse equivalente a una falta de conformidad de los suministros si la instalación estaba prevista en la orden de compra y los suministros fueron instalados por el contratista o bajo su responsabilidad. Esto se aplica igualmente si el producto debía ser instalado por la entidad adjudicadora y se instaló incorrectamente debido a una deficiencia en las instrucciones de instalación.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -978,8 +978,8 @@ personal que:&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&
       <tuv lang="en">
         <seg>In&lt;t0/&gt; &lt;t1/&gt;the&lt;t2/&gt; &lt;t3/&gt;event&lt;t4/&gt; &lt;t5/&gt;of&lt;t6/&gt; &lt;t7/&gt;a&lt;t8/&gt; &lt;t9/&gt;joint&lt;t10/&gt; &lt;t11/&gt;tender&lt;t12/&gt; &lt;t13/&gt;submitted&lt;t14/&gt; &lt;t15/&gt;by&lt;t16/&gt; &lt;t17/&gt;a&lt;t18/&gt; &lt;t19/&gt;group&lt;t20/&gt; &lt;t21/&gt;of&lt;t22/&gt; &lt;t23/&gt;economic&lt;t24/&gt; &lt;t25/&gt;operators&lt;t26/&gt; &lt;t27/&gt;and&lt;t28/&gt; &lt;t29/&gt;where&lt;t30/&gt; &lt;t31/&gt;the&lt;t32/&gt; &lt;t33/&gt;group does not have legal personality or legal capacity, one member of the group is appointed&lt;t34/&gt; &lt;t35/&gt;as&lt;t36/&gt; &lt;t37/&gt;leader&lt;t38/&gt; &lt;t39/&gt;of&lt;t40/&gt; &lt;t41/&gt;the&lt;t42/&gt; &lt;t43/&gt;group.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115153Z" creationid="alumno" creationdate="20240514T141640Z">
-        <seg>En caso de oferta conjunta presentada por una agrupación de operadores económicos y cuando la agrupación no tenga personalidad jurídica o capacidad jurídica, se designa a un miembro de la agrupación como líder de la misma.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt;&lt;t25/&gt;&lt;t26/&gt;&lt;t27/&gt;&lt;t28/&gt;&lt;t29/&gt;&lt;t30/&gt;&lt;t31/&gt;&lt;t32/&gt;&lt;t33/&gt;&lt;t34/&gt;&lt;t35/&gt;&lt;t36/&gt;&lt;t37/&gt;&lt;t38/&gt;&lt;t39/&gt;&lt;t40/&gt;&lt;t41/&gt;&lt;t42/&gt;&lt;t43/&gt;</seg>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240524T084847Z" creationid="alumno" creationdate="20240514T141640Z">
+        <seg>En caso de oferta conjunta presentada por un grupo de operadores económicos y cuando la agrupación no tenga personalidad jurídica o capacidad jurídica, se designa a un miembro de la agrupación como líder de la misma.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt;&lt;t25/&gt;&lt;t26/&gt;&lt;t27/&gt;&lt;t28/&gt;&lt;t29/&gt;&lt;t30/&gt;&lt;t31/&gt;&lt;t32/&gt;&lt;t33/&gt;&lt;t34/&gt;&lt;t35/&gt;&lt;t36/&gt;&lt;t37/&gt;&lt;t38/&gt;&lt;t39/&gt;&lt;t40/&gt;&lt;t41/&gt;&lt;t42/&gt;&lt;t43/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1058,8 +1058,8 @@ personal que:&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&
       <tuv lang="en">
         <seg>One copy of the consignment note must be countersigned by the&lt;t6/&gt; &lt;t7/&gt;contracting&lt;t8/&gt; &lt;t9/&gt;authority&lt;t10/&gt; &lt;t11/&gt;and&lt;t12/&gt; &lt;t13/&gt;returned to the contractor&lt;t14/&gt; &lt;t15/&gt;or&lt;t16/&gt; &lt;t17/&gt;to its carrier.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115208Z" creationid="alumno" creationdate="20240514T142230Z">
-        <seg>Un ejemplar de la carta de porte deberá ser refrendado por la Autoridad contratante y devuelto al contratista o a su transportista.&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;</seg>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240524T085849Z" creationid="alumno" creationdate="20240514T142230Z">
+        <seg>Una copia de la carta de porte deberá ser refrendado por la Autoridad contratante y devuelto al contratista o a su transportista.&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1090,8 +1090,8 @@ personal que:&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&
       <tuv lang="en">
         <seg>Packaging, pallets, etc.,&lt;t2/&gt; &lt;t3/&gt;including&lt;t4/&gt; &lt;t5/&gt;contents, must&lt;t6/&gt; &lt;t7/&gt;not weigh more&lt;t8/&gt; &lt;t9/&gt;than&lt;t10/&gt; &lt;t11/&gt;500&lt;t12/&gt; &lt;t13/&gt;kg.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115228Z" creationid="alumno" creationdate="20240514T143243Z">
-        <seg>Los embalajes, palés, etc., incluido el contenido, no deben pesar más de  kg.&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;500&lt;t12/&gt;&lt;t13/&gt;</seg>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240524T090259Z" creationid="alumno" creationdate="20240514T143243Z">
+        <seg>Los embalajes, palés, etc., &lt;t2/&gt;&lt;t3/&gt;incluido &lt;t4/&gt;&lt;t5/&gt;el contenido, no deben&lt;t6/&gt;&lt;t7/&gt; pesar más &lt;t8/&gt;&lt;t9/&gt;de &lt;t10/&gt;&lt;t11/&gt;500&lt;t12/&gt; &lt;t13/&gt; kg.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1857,8 +1857,8 @@ durante la ejecución del contrato.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&
       <tuv lang="en">
         <seg>The supplies must be guaranteed against all defects in manufacture or materials for two&lt;t0/&gt; &lt;t1/&gt;years from the date of &lt;t2/&gt;delivery, unless&lt;t3/&gt; provision is made for a longer period in the tender&lt;t4/&gt; &lt;t5/&gt;specifications.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115234Z" creationid="alumno" creationdate="20240514T143440Z">
-        <seg>Los suministros deberán estar garantizados contra todo defecto de fabricación o de materiales durante dos años a partir de la fecha de entrega, salvo que en el pliego de condiciones se prevea un plazo más largo.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240524T090536Z" creationid="alumno" creationdate="20240514T143440Z">
+        <seg>Deberá asegurarse de que los suministros carezcan de cualquier defecto de fabricación o materiales durante dos años a partir de la fecha de entrega, salvo que en el pliego de condiciones se prevea un plazo más largo.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2081,8 +2081,8 @@ durante la ejecución del contrato.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&
       <tuv lang="en">
         <seg>Unless otherwise specified in the purchase order, pallets must be considered as one-way&lt;t0/&gt; &lt;t1/&gt;packaging and do not need to be returned.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115228Z" creationid="alumno" creationdate="20240514T143253Z">
-        <seg>Salvo que se especifique lo contrario en la orden de compra, los palés deben considerarse embalajes de un solo uso y no es necesario devolverlos.&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240524T090354Z" creationid="alumno" creationdate="20240514T143253Z">
+        <seg>A menos que se especifique lo contrario en la orden de compra, los palés deben considerarse embalajes de un solo uso y no es necesario devolverlos.&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2600,8 +2600,8 @@ se han producido realmente&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt
       <tuv lang="en">
         <seg>number&lt;t0/&gt; &lt;t1/&gt;and&lt;t2/&gt; &lt;t3/&gt;date&lt;t4/&gt; &lt;t5/&gt;of&lt;t6/&gt; &lt;t7/&gt;purchase&lt;t8/&gt; &lt;t9/&gt;order.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115233Z" creationid="alumno" creationdate="20240514T143427Z">
-        <seg> número y fecha de la orden de compra.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240524T090423Z" creationid="alumno" creationdate="20240514T143427Z">
+        <seg>número y fecha del pedido de compra.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2705,8 +2705,8 @@ conflicto de intereses profesional a que se refiere el artículo ;&lt;t0/&gt;&lt
       <tuv lang="en">
         <seg>representative, particularly in advertising or on labelling, in accordance with the state&lt;t0/&gt; &lt;t1/&gt;of&lt;t2/&gt; &lt;t3/&gt;the&lt;t4/&gt; &lt;t5/&gt;art in the&lt;t6/&gt; &lt;t7/&gt;industry&lt;t8/&gt; &lt;t9/&gt;and the&lt;t10/&gt; &lt;t11/&gt;provisions of&lt;t12/&gt; &lt;t13/&gt;the contractor's &lt;t14/&gt;tender;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115218Z" creationid="alumno" creationdate="20240514T142756Z">
-        <seg>representativa, especialmente en la publicidad o en el etiquetado, de acuerdo con el estado de la técnica en el sector y las disposiciones de la oferta del contratista;
+      <tuv lang="es-ES" changeid="juanf" changedate="20240524T085953Z" creationid="alumno" creationdate="20240514T142756Z">
+        <seg>representante, especialmente en la publicidad o en el etiquetado, de acuerdo con el estado de la técnica en el sector y las disposiciones de la oferta del contratista;
 &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;</seg>
       </tuv>
     </tu>
