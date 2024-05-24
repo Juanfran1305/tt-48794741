@@ -530,8 +530,8 @@ personal que:&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&
       <tuv lang="en">
         <seg>Delay&lt;t0/&gt; &lt;t1/&gt;in&lt;t2/&gt; &lt;t3/&gt;delivery</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115852Z" creationid="juanf" creationdate="20240514T140932Z">
-        <seg>15.1.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240524T165733Z" creationid="juanf" creationdate="20240514T140932Z">
+        <seg>Retraso en la entrega.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -594,8 +594,8 @@ personal que:&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&
       <tuv lang="en">
         <seg>Failing that,&lt;t0/&gt; &lt;t1/&gt;the decision becomes enforceable the day after the time limit for submitting observations has&lt;t2/&gt; &lt;t3/&gt;elapsed.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115352Z" creationid="juanf" creationdate="20240514T140944Z">
-        <seg>En su defecto, la decisión será ejecutiva al día siguiente de la expiración del plazo de presentación de observaciones.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240524T165841Z" creationid="juanf" creationdate="20240514T140944Z">
+        <seg>En su defecto, la decisión será ejecutable al día siguiente de la expiración del plazo de presentación de observaciones.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -826,8 +826,8 @@ personal que:&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&
       <tuv lang="en">
         <seg>If the contractor fails to perform its contractual obligations within the applicable time limits&lt;t0/&gt; &lt;t1/&gt;set out in the contract, the contracting authority may claim liquidated damages for each day&lt;t2/&gt; &lt;t3/&gt;of&lt;t4/&gt; &lt;t5/&gt;delay&lt;t6/&gt; &lt;t7/&gt;using&lt;t8/&gt; &lt;t9/&gt;the&lt;t10/&gt; &lt;t11/&gt;following&lt;t12/&gt; &lt;t13/&gt;formula:</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115853Z" creationid="juanf" creationdate="20240514T140934Z">
-        <seg>Retraso en la entrega Si el contratista no cumple sus obligaciones contractuales dentro de los plazos aplicables establecidos en el contrato, la Autoridad Contratante podrá reclamar daños y perjuicios liquidados por cada día de retraso utilizando la siguiente fórmula:&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;</seg>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240524T165746Z" creationid="juanf" creationdate="20240514T140934Z">
+        <seg>Si el contratista no cumple sus obligaciones contractuales dentro de los plazos aplicables establecidos en el contrato, la Autoridad Contratante podrá reclamar daños y perjuicios liquidados por cada día de retraso utilizando la siguiente fórmula:&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -866,8 +866,8 @@ personal que:&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&
       <tuv lang="en">
         <seg>If the contractor submits observations, the contracting authority, &lt;t0/&gt;taking into account&lt;t1/&gt; the&lt;t2/&gt; &lt;t3/&gt;relevant&lt;t4/&gt; &lt;t5/&gt;observations, must &lt;t6/&gt;notify&lt;t7/&gt; &lt;t8/&gt;the&lt;t9/&gt; &lt;t10/&gt;contractor:</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115353Z" creationid="juanf" creationdate="20240514T140945Z">
-        <seg>Si el contratista presenta observaciones, el poder adjudicador, teniendo en cuenta las observaciones pertinentes, debe notificar al contratista&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;</seg>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240524T165925Z" creationid="juanf" creationdate="20240514T140945Z">
+        <seg>Si el contratista presenta observaciones, el poder adjudicador, teniendo en cuenta las observaciones pertinentes, deberá notificar al contratista:&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;</seg>
       </tuv>
     </tu>
     <tu>
