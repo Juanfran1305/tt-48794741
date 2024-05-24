@@ -280,8 +280,8 @@
       <tuv lang="en">
         <seg>All periods specified in the contract are calculated in calendar days, unless otherwise&lt;t0/&gt; &lt;t1/&gt;specified.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115406Z" creationid="usuario" creationdate="20240503T154312Z">
-        <seg>Todos loas fechas especificadas en el contrato son calculadas en días del calendario, salvo que se indique otra cosa.&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240524T162343Z" creationid="usuario" creationdate="20240503T154312Z">
+        <seg>Todos loas fechas especificadas en el contrato son calculadas en días naturales, salvo que se indique otra cosa.&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1591,8 +1591,8 @@ durante la ejecución del contrato.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&
       <tuv lang="en">
         <seg>The contractor must comply with the minimum requirements provided for in the tender&lt;t0/&gt; &lt;t1/&gt;specifications.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115245Z" creationid="usuario" creationdate="20240426T151720Z">
-        <seg>El contratante ha de cumplir un minimo de requerimientos proporcionados en las especificaciones del pliege.&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="es-ES" changeid="alumno" changedate="20240524T162226Z" creationid="usuario" creationdate="20240426T151720Z">
+        <seg>El contratante ha de cumplir un minimo de requerimientos proporcionados en las especificaciones del pliego.&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
