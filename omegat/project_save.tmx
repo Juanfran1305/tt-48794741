@@ -280,8 +280,8 @@
       <tuv lang="en">
         <seg>All periods specified in the contract are calculated in calendar days, unless otherwise&lt;t0/&gt; &lt;t1/&gt;specified.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="alumno" changedate="20240524T162343Z" creationid="usuario" creationdate="20240503T154312Z">
-        <seg>Todos loas fechas especificadas en el contrato son calculadas en días naturales, salvo que se indique otra cosa.&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T161434Z" creationid="usuario" creationdate="20240503T154312Z">
+        <seg>Todos las fechas especificadas en el contrato son calculadas en días del calendario, salvo que se indique otra cosa.&lt;t0/&gt;&lt;t1/&gt; </seg>
       </tuv>
     </tu>
     <tu>
@@ -714,8 +714,8 @@ personal que:&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&
       <tuv lang="en">
         <seg>If a defect is found to originate in a systematic flaw in design, the contractor must replace or&lt;t0/&gt; &lt;t1/&gt;modify all identical parts incorporated in the other supplies that are part of the order, even&lt;t2/&gt; &lt;t3/&gt;though they may not have been the cause of any incident.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115243Z" creationid="usuario" creationdate="20240426T153131Z">
-        <seg>Si se encuentra un defecto que origine un fallo sistemático en el diseño, el contratador debe de reemplazar o modificar todas las partes idénticas incorporadas en los otros sumininstros que son parte del orden, incluso si no han sido la causa de un incidente, En este caso, la garantia del periodo debe de ser extendida como se indica anteriormente. &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T163337Z" creationid="usuario" creationdate="20240426T153131Z">
+        <seg>Si se encuentra un defecto que origine un fallo sistemático en el diseño, el contratador debe reemplazar o modificar todas las partes idénticas incorporadas en los otros sumininstros que son parte del orden, incluso si no han sido la causa de un incidente, En este caso, la garantia del periodo debe de ser extendida como se indica anteriormente. &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -786,8 +786,8 @@ personal que:&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&
       <tuv lang="en">
         <seg>If part of an item is replaced, the replacement part must be guaranteed under the same terms&lt;t0/&gt; &lt;t1/&gt;and&lt;t2/&gt; &lt;t3/&gt;conditions for&lt;t4/&gt; &lt;t5/&gt;a&lt;t6/&gt; &lt;t7/&gt;further&lt;t8/&gt; &lt;t9/&gt;period of&lt;t10/&gt; &lt;t11/&gt;the&lt;t12/&gt; &lt;t13/&gt;same&lt;t14/&gt; &lt;t15/&gt;duration&lt;t16/&gt; &lt;t17/&gt;as that specified&lt;t18/&gt; &lt;t19/&gt;above.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="alumno" changedate="20240524T162118Z" creationid="usuario" creationdate="20240426T152839Z">
-        <seg>Si se replaza parte de un elemento, la parte remplazante debe de estar garantizada bajo los mismos términos y condiciones durante un plazo más largo de una mismo duración a la especificada anteriormente. &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T163324Z" creationid="usuario" creationdate="20240426T152839Z">
+        <seg>Si se replaza parte de un elemento, la parte remplazante debe estar garantizada bajo los mismos términos y condiciones durante un plazo más largo de una mismo duración a la especificada anteriormente. &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -970,8 +970,8 @@ personal que:&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&
       <tuv lang="en">
         <seg>In the framework of its employment or service relationships with its &lt;t0/&gt;personnel &lt;t1/&gt;the contractor&lt;t2/&gt; &lt;t3/&gt;must&lt;t4/&gt; &lt;t5/&gt;indicate&lt;t6/&gt; &lt;t7/&gt;that</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115410Z" creationid="usuario" creationdate="20240503T155102Z">
-        <seg>En la infraestructura de el empleo o servicio de relaciones con su personal el contrante debe de indicar&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T162726Z" creationid="usuario" creationdate="20240503T155102Z">
+        <seg>En la infraestructura del empleo o servicio de relaciones con su personal el contrante debe  indicar&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt; </seg>
       </tuv>
     </tu>
     <tu>
@@ -1342,8 +1342,8 @@ personal que:&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&
       <tuv lang="en">
         <seg>The contract must be performed in such a way as to exclude the possibility of the contractor&lt;t0/&gt; &lt;t1/&gt;or its &lt;t2/&gt;personnel &lt;t3/&gt;executing tasks under conditions identical to the working conditions of a&lt;t4/&gt; &lt;t5/&gt;person employed by the contracting authority.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115408Z" creationid="usuario" creationdate="20240503T154750Z">
-        <seg>El contrato debe de ser llevado a cabo de tal forma que se excluya la posibilidad de que el contratante, o su personal lleven a cabo tareas bajo las condiciones idénticas a las de las condiciones laborales de la persona empleada por la parte contratante. &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T161522Z" creationid="usuario" creationdate="20240503T154750Z">
+        <seg>El contrato debe ser llevado a cabo de tal forma que se excluya la posibilidad de que el contratante, o su personal lleven a cabo tareas bajo las condiciones idénticas a las de las condiciones laborales de la persona empleada por la parte contratante. &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1486,8 +1486,8 @@ personal que:&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&
       <tuv lang="en">
         <seg>The contractor has sole responsibility for taking the necessary steps to obtain any permit or&lt;t0/&gt; &lt;t1/&gt;licence&lt;t2/&gt; &lt;t3/&gt;required&lt;t4/&gt; &lt;t5/&gt;for&lt;t6/&gt; &lt;t7/&gt;performance&lt;t8/&gt; &lt;t9/&gt;of&lt;t10/&gt; &lt;t11/&gt;the&lt;t12/&gt; &lt;t13/&gt;contract&lt;t14/&gt; &lt;t15/&gt;under&lt;t16/&gt; &lt;t17/&gt;Belgian laws&lt;t18/&gt; &lt;t19/&gt;and&lt;t20/&gt; &lt;t21/&gt;regulations.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115405Z" creationid="usuario" creationdate="20240503T154156Z">
-        <seg>El contratante tiene única responsabiliadad de llevaracabo los pasos necesarios para obtener cualquier permiso o licencia que esa requerida para el redimiento del contrato bajo las leyes y regulaciones Belgas.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T161343Z" creationid="usuario" creationdate="20240503T154156Z">
+        <seg>El contratante tiene la única responsabilidad de llevar a cabo los pasos necesarios para obtener cualquier permiso o licencia que esa requerida para el redimiento del contrato bajo las leyes y regulaciones Belgas.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt; </seg>
       </tuv>
     </tu>
     <tu>
@@ -1655,8 +1655,8 @@ durante la ejecución del contrato.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&
       <tuv lang="en">
         <seg>The contractor must not present itself as a representative of the contracting authority and&lt;t0/&gt; &lt;t1/&gt;must&lt;t2/&gt; &lt;t3/&gt;inform third&lt;t4/&gt; &lt;t5/&gt;parties that&lt;t6/&gt; &lt;t7/&gt;it is&lt;t8/&gt; &lt;t9/&gt;not part of&lt;t10/&gt; &lt;t11/&gt;the&lt;t12/&gt; &lt;t13/&gt;European&lt;t14/&gt; &lt;t15/&gt;public&lt;t16/&gt; &lt;t17/&gt;service.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115407Z" creationid="usuario" creationdate="20240503T154452Z">
-        <seg>El contratante no debe de presentarse a sí mismo como representante de la autoridad contratante y debe de informar a las terceras partes que no es parte de los servicios públicos Europeos.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T161507Z" creationid="usuario" creationdate="20240503T154452Z">
+        <seg>El contratante no debe presentarse a sí mismo como representante de la autoridad contratante y debe informar a las terceras partes de que no es parte de los servicios públicos Europeos.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1719,8 +1719,8 @@ durante la ejecución del contrato.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&
       <tuv lang="en">
         <seg>The contractor or its &lt;t6/&gt;personnel &lt;t7/&gt;must not be&lt;t8/&gt; &lt;t9/&gt;incorporated&lt;t10/&gt; &lt;t11/&gt;into the contracting authority's&lt;t12/&gt; &lt;t13/&gt;administrative&lt;t14/&gt; &lt;t15/&gt;organisation&lt;t16/&gt;.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115409Z" creationid="usuario" creationdate="20240503T154932Z">
-        <seg>El contratante o su personaL no debe de estar incorpordo en la organización administrativa de la autoridad contratante.&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T161536Z" creationid="usuario" creationdate="20240503T154932Z">
+        <seg>El contratante o su personal no debe estar incorporado en la organización administrativa de la autoridad contratante.&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2073,8 +2073,8 @@ durante la ejecución del contrato.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&
       <tuv lang="en">
         <seg>This period of six months does not apply to urgent measures required by the&lt;t8/&gt; &lt;t9/&gt;security policy for the information systems of the contracting authority to ensure the&lt;t10/&gt; &lt;t11/&gt;integrity,&lt;t12/&gt; &lt;t13/&gt;confidentiality&lt;t14/&gt; &lt;t15/&gt;and&lt;t16/&gt; &lt;t17/&gt;non-repudiation&lt;t18/&gt; &lt;t19/&gt;of&lt;t20/&gt; &lt;t21/&gt;information&lt;t22/&gt; &lt;t23/&gt;and&lt;t24/&gt; &lt;t25/&gt;the&lt;t26/&gt; &lt;t27/&gt;availability&lt;t28/&gt; &lt;t29/&gt;of&lt;t30/&gt; &lt;t31/&gt;ePRIOR&lt;t32/&gt;.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115514Z" creationid="usuario" creationdate="20240521T135639Z">
-        <seg>Este plazo de seis meses no se aplicará a las medidas urgentes exigidas por la política de seguridad de los sistemas de información del poder adjudicador para garantizar la integridad, confidencialidad y no repudio de la información y la disponibilidad de ePRIOR. 5.4.&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt;&lt;t25/&gt;&lt;t26/&gt;&lt;t27/&gt;&lt;t28/&gt;&lt;t29/&gt;&lt;t30/&gt;&lt;t31/&gt;&lt;t32/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T163019Z" creationid="usuario" creationdate="20240521T135639Z">
+        <seg>Este plazo de seis meses no se aplicará a las medidas urgentes exigidas por la política de seguridad de los sistemas de información del poder adjudicador para garantizar la integridad, confidencialidad y no repudio de la información y la disponibilidad de ePRIOR.&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt;&lt;t25/&gt;&lt;t26/&gt;&lt;t27/&gt;&lt;t28/&gt;&lt;t29/&gt;&lt;t30/&gt;&lt;t31/&gt;&lt;t32/&gt;</seg>
       </tuv>
     </tu>
     <tu>
