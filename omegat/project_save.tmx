@@ -2248,8 +2248,8 @@ durante la ejecución del contrato.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&
       <tuv lang="en">
         <seg>adaptation:&lt;t0/&gt; &lt;t1/&gt;the&lt;t2/&gt; &lt;t3/&gt;exclusive&lt;t4/&gt; &lt;t5/&gt;right to&lt;t6/&gt; &lt;t7/&gt;authorise&lt;t8/&gt; &lt;t9/&gt;or&lt;t10/&gt; &lt;t11/&gt;prohibit any&lt;t12/&gt; &lt;t13/&gt;modification of&lt;t14/&gt; &lt;t15/&gt;the</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115728Z" creationid="juanf" creationdate="20240522T173449Z">
-        <seg>(e) adaptación: el derecho exclusivo de autorizar o prohibir cualquier modificación de los
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T184711Z" creationid="juanf" creationdate="20240522T173449Z">
+        <seg>adaptación: el derecho exclusivo de autorizar o prohibir cualquier modificación de los
 resultados;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;</seg>
       </tuv>
     </tu>
@@ -2719,8 +2719,8 @@ se han producido realmente&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt
       <tuv lang="en">
         <seg>rental: the exclusive right to &lt;t0/&gt;authorise&lt;t1/&gt; or prohibit rental or lending of the &lt;t2/&gt;results &lt;t3/&gt;or&lt;t4/&gt; &lt;t5/&gt;of&lt;t6/&gt; &lt;t7/&gt;copies of&lt;t8/&gt; &lt;t9/&gt;the&lt;t10/&gt; &lt;t11/&gt;results&lt;t12/&gt;;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115727Z" creationid="juanf" creationdate="20240522T173447Z">
-        <seg>(d) alquiler: el derecho exclusivo de autorizar o prohibir el alquiler o préstamo de los resultados o de copias de los resultados;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T184706Z" creationid="juanf" creationdate="20240522T173447Z">
+        <seg>alquiler: el derecho exclusivo de autorizar o prohibir el alquiler o préstamo de los resultados o de copias de los resultados;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2752,9 +2752,9 @@ se han producido realmente&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt
       <tuv lang="en">
         <seg>results&lt;t0/&gt; &lt;t1/&gt;or&lt;t2/&gt; &lt;t3/&gt;copies of&lt;t4/&gt; &lt;t5/&gt;the&lt;t6/&gt; &lt;t7/&gt;results &lt;t8/&gt;to the&lt;t9/&gt; &lt;t10/&gt;public, by&lt;t11/&gt; &lt;t12/&gt;sale&lt;t13/&gt; &lt;t14/&gt;or&lt;t15/&gt; &lt;t16/&gt;otherwise;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115726Z" creationid="juanf" creationdate="20240522T173442Z">
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T184701Z" creationid="juanf" creationdate="20240522T173442Z">
         <seg>
-c) Distribución: derecho exclusivo de autorizar o prohibir cualquier forma de distribución de los resultados o de copias de los resultados al público, por venta o de otro modo;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;</seg>
+Distribución: derecho exclusivo de autorizar o prohibir cualquier forma de distribución de los resultados o de copias de los resultados al público, por venta o de otro modo;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt; </seg>
       </tuv>
     </tu>
     <tu>
@@ -2905,8 +2905,8 @@ c) Distribución: derecho exclusivo de autorizar o prohibir cualquier forma de d
       <tuv lang="en">
         <seg>translation: the exclusive right to &lt;t0/&gt;authorise&lt;t1/&gt; or prohibit any translation, adaptation,&lt;t2/&gt; &lt;t3/&gt;arrangement or creation of derivative works based on the &lt;t4/&gt;results&lt;t5/&gt;, and any other&lt;t6/&gt; &lt;t7/&gt;alteration of the &lt;t8/&gt;results&lt;t9/&gt;, subject to the respect of moral rights of authors, where&lt;t10/&gt; &lt;t11/&gt;applicable;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115730Z" creationid="juanf" creationdate="20240522T173504Z">
-        <seg>(f) traducción: el derecho exclusivo de autorizar o prohibir cualquier traducción, adaptación, arreglo o creación de obras derivadas basadas en los resultados, así como cualquier otra alteración de los resultados, sin perjuicio del respeto de los derechos morales de los autores, cuando proceda;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T184720Z" creationid="juanf" creationdate="20240522T173504Z">
+        <seg>traducción: el derecho exclusivo de autorizar o prohibir cualquier traducción, adaptación, arreglo o creación de obras derivadas basadas en los resultados, así como cualquier otra alteración de los resultados, sin perjuicio del respeto de los derechos morales de los autores, cuando proceda;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt; </seg>
       </tuv>
     </tu>
     <tu>
@@ -2962,32 +2962,32 @@ c) Distribución: derecho exclusivo de autorizar o prohibir cualquier forma de d
       <tuv lang="en">
         <seg>where the &lt;t0/&gt;results &lt;t1/&gt;are or include a database: the exclusive right to &lt;t2/&gt;authorise&lt;t3/&gt; or&lt;t4/&gt; &lt;t5/&gt;prohibit the extraction of all or a substantial part of the contents of the database to&lt;t6/&gt; &lt;t7/&gt;another medium by any means or in any form; and the exclusive right to &lt;t8/&gt;authorise&lt;t9/&gt; or&lt;t10/&gt; &lt;t11/&gt;prohibit the &lt;t12/&gt;reutilisation&lt;t13/&gt; of all or a substantial part of the contents of the database by&lt;t14/&gt; &lt;t15/&gt;the&lt;t16/&gt; &lt;t17/&gt;distribution of&lt;t18/&gt; &lt;t19/&gt;copies, by&lt;t20/&gt; &lt;t21/&gt;renting, by&lt;t22/&gt; &lt;t23/&gt;online&lt;t24/&gt; &lt;t25/&gt;or&lt;t26/&gt; &lt;t27/&gt;other&lt;t28/&gt; &lt;t29/&gt;forms of&lt;t30/&gt; &lt;t31/&gt;transmission;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115731Z" creationid="juanf" creationdate="20240522T173515Z">
-        <seg>(g) cuando los resultados sean o incluyan una base de datos: el derecho exclusivo de autorizar o prohibir la extracción de la totalidad o de una parte sustancial del contenido de la base de datos a otro soporte por cualquier medio o en cualquier forma; y el derecho exclusivo de autorizar o prohibir la reutilización de la totalidad o de una parte sustancial del contenido de la base de datos mediante la distribución de copias, el alquiler, la transmisión en línea u otras formas de transmisión;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt;&lt;t25/&gt;&lt;t26/&gt;&lt;t27/&gt;&lt;t28/&gt;&lt;t29/&gt;&lt;t30/&gt;&lt;t31/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T184725Z" creationid="juanf" creationdate="20240522T173515Z">
+        <seg>cuando los resultados sean o incluyan una base de datos: el derecho exclusivo de autorizar o prohibir la extracción de la totalidad o de una parte sustancial del contenido de la base de datos a otro soporte por cualquier medio o en cualquier forma; y el derecho exclusivo de autorizar o prohibir la reutilización de la totalidad o de una parte sustancial del contenido de la base de datos mediante la distribución de copias, el alquiler, la transmisión en línea u otras formas de transmisión;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt;&lt;t25/&gt;&lt;t26/&gt;&lt;t27/&gt;&lt;t28/&gt;&lt;t29/&gt;&lt;t30/&gt;&lt;t31/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>where the &lt;t0/&gt;results &lt;t1/&gt;are or include know-how: the right to use such know-how as is&lt;t2/&gt; &lt;t3/&gt;necessary to make use of the &lt;t4/&gt;results &lt;t5/&gt;to the full extent provided for by the contract,&lt;t6/&gt; &lt;t7/&gt;and the right to make it available to contractors or subcontractors acting on behalf of&lt;t8/&gt; &lt;t9/&gt;the contracting authority, subject to their signing of adequate confidentiality&lt;t10/&gt; &lt;t11/&gt;undertakings&lt;t12/&gt; &lt;t13/&gt;where&lt;t14/&gt; &lt;t15/&gt;necessary;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115734Z" creationid="juanf" creationdate="20240522T173524Z">
-        <seg>(j) cuando los resultados sean o incluyan conocimientos técnicos: el derecho a utilizar dichos conocimientos técnicos en la medida necesaria para aprovechar los resultados en toda la extensión prevista en el contrato, y el derecho a ponerlos a disposición de los contratistas o subcontratistas que actúen por cuenta del poder adjudicador, a condición de que firmen los compromisos de confidencialidad adecuados cuando sea necesario;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T185009Z" creationid="juanf" creationdate="20240522T173524Z">
+        <seg>cuando los resultados sean o incluyan conocimientos técnicos: el derecho a utilizar dichos conocimientos técnicos en la medida necesaria para aprovechar los resultados en toda la extensión prevista en el contrato, y el derecho a ponerlos a disposición de los contratistas o subcontratistas que actúen por cuenta del poder adjudicador, a condición de que firmen los compromisos de confidencialidad adecuados cuando sea necesario;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>where the &lt;t0/&gt;results &lt;t1/&gt;are or include logos or subject-matter which could be registered as&lt;t2/&gt; &lt;t3/&gt;a trademark: the right to register that logo or subject-matter as a trademark and to&lt;t4/&gt; &lt;t5/&gt;further exploit and use&lt;t6/&gt; &lt;t7/&gt;it;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115733Z" creationid="juanf" creationdate="20240522T173520Z">
-        <seg>(i) cuando los resultados sean o incluyan logotipos o prestaciones susceptibles de ser registrados como marca: el derecho a registrar dicho logotipo o prestación como marca y a seguir explotándolo y utilizándolo;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T184740Z" creationid="juanf" creationdate="20240522T173520Z">
+        <seg>cuando los resultados sean o incluyan logotipos o prestaciones susceptibles de ser registrados como marca: el derecho a registrar dicho logotipo o prestación como marca y a seguir explotándolo y utilizándolo;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>where the &lt;t0/&gt;results &lt;t1/&gt;are or include patentable subject-matter: the right to register them&lt;t2/&gt; &lt;t3/&gt;as&lt;t4/&gt; &lt;t5/&gt;a&lt;t6/&gt; &lt;t7/&gt;patent&lt;t8/&gt; &lt;t9/&gt;and&lt;t10/&gt; &lt;t11/&gt;to further&lt;t12/&gt; &lt;t13/&gt;exploit such&lt;t14/&gt; &lt;t15/&gt;a&lt;t16/&gt; &lt;t17/&gt;patent to the&lt;t18/&gt; &lt;t19/&gt;fullest &lt;t20/&gt;extent;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115732Z" creationid="juanf" creationdate="20240522T173518Z">
-        <seg>(h) cuando los resultados sean o incluyan materia patentable: el derecho a registrarlos como patente y a explotar dicha patente en toda su extensión;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T184734Z" creationid="juanf" creationdate="20240522T173518Z">
+        <seg>cuando los resultados sean o incluyan materia patentable: el derecho a registrarlos como patente y a explotar dicha patente en toda su extensión;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;</seg>
       </tuv>
     </tu>
     <tu>
