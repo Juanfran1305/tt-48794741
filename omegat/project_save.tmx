@@ -1105,10 +1105,10 @@ personal que:&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&
       <tuv lang="en">
         <seg>Please see&lt;t0/&gt; &lt;t1/&gt;http://ec.europa.eu/dgs/informatics/supplier_portal/doc/um_supplier_portal_overview.pdf</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115504Z" creationid="usuario" creationdate="20240521T135634Z">
-        <seg>2 Véase http://ec.europa.eu/dgs/informatics/supplier_portal/doc/um_supplier_portal_overview.pdf
-3 Véase http://ec.europa.eu/dgs/informatics/supplier_portal/doc/um_sp_e-invoicing.pdf
-4 El documento puede consultarse en https://circabc.europa.eu/w/browse/5290b7b0- 8ca8-454b-87eb-0ac990362861&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T185533Z" creationid="usuario" creationdate="20240521T135634Z">
+        <seg>Véase http://ec.europa.eu/dgs/informatics/supplier_portal/doc/um_supplier_portal_overview.pdf
+Véase http://ec.europa.eu/dgs/informatics/supplier_portal/doc/um_sp_e-invoicing.pdf
+El documento puede consultarse en https://circabc.europa.eu/w/browse/5290b7b0- 8ca8-454b-87eb-0ac990362861&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2289,32 +2289,32 @@ resultados;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt
       <tuv lang="en">
         <seg>be&lt;t0/&gt; &lt;t1/&gt;made&lt;t2/&gt; &lt;t3/&gt;in&lt;t4/&gt; &lt;t5/&gt;writing&lt;t6/&gt; &lt;t7/&gt;in&lt;t8/&gt; &lt;t9/&gt;paper&lt;t10/&gt; &lt;t11/&gt;or&lt;t12/&gt; &lt;t13/&gt;electronic format in&lt;t14/&gt; &lt;t15/&gt;the&lt;t16/&gt; &lt;t17/&gt;language&lt;t18/&gt; &lt;t19/&gt;of&lt;t20/&gt; &lt;t21/&gt;the&lt;t22/&gt; &lt;t23/&gt;purchase&lt;t24/&gt; &lt;t25/&gt;order;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115425Z" creationid="usuario" creationdate="20240521T135621Z">
-        <seg>(a) hacerse por escrito en papel o formato electrónico en el idioma de la orden de compra;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt;&lt;t25/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T185434Z" creationid="usuario" creationdate="20240521T135621Z">
+        <seg>hacerse por escrito en papel o formato electrónico en el idioma de la orden de compra;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt;&lt;t25/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>be&lt;t0/&gt; &lt;t1/&gt;made&lt;t2/&gt; &lt;t3/&gt;using&lt;t4/&gt; &lt;t5/&gt;the&lt;t6/&gt; &lt;t7/&gt;relevant&lt;t8/&gt; &lt;t9/&gt;communication&lt;t10/&gt; &lt;t11/&gt;details set&lt;t12/&gt; &lt;t13/&gt;out&lt;t14/&gt; &lt;t15/&gt;in&lt;t16/&gt; &lt;t17/&gt;the&lt;t18/&gt; &lt;t19/&gt;purchase&lt;t20/&gt; &lt;t21/&gt;order;&lt;t22/&gt; &lt;t23/&gt;and</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115427Z" creationid="usuario" creationdate="20240521T135622Z">
-        <seg>(c) realizarse utilizando los datos de comunicación pertinentes establecidos en la orden de compra; y&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;&lt;t22/&gt;&lt;t23/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T185444Z" creationid="usuario" creationdate="20240521T135622Z">
+        <seg>realizarse utilizando los datos de comunicación pertinentes establecidos en la orden de compra; y&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;&lt;t22/&gt;&lt;t23/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>be&lt;t0/&gt; &lt;t1/&gt;sent by&lt;t2/&gt; &lt;t3/&gt;post or&lt;t4/&gt; &lt;t5/&gt;email.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115428Z" creationid="usuario" creationdate="20240521T135622Z">
-        <seg>(d) enviarse por correo postal o electrónico.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T185520Z" creationid="usuario" creationdate="20240521T135622Z">
+        <seg>enviarse por correo postal o electrónico.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>bear&lt;t0/&gt; &lt;t1/&gt;the&lt;t2/&gt; &lt;t3/&gt;purchase&lt;t4/&gt; &lt;t5/&gt;order&lt;t6/&gt; &lt;t7/&gt;number;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115426Z" creationid="usuario" creationdate="20240521T135622Z">
-        <seg>(b) llevar el número de la orden de compra;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T185440Z" creationid="usuario" creationdate="20240521T135622Z">
+        <seg>llevar el número de la orden de compra;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2386,16 +2386,16 @@ resultados;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt
       <tuv lang="en">
         <seg>does&lt;t0/&gt; &lt;t1/&gt;not&lt;t2/&gt; &lt;t3/&gt;have&lt;t4/&gt; &lt;t5/&gt;the&lt;t6/&gt; &lt;t7/&gt;expertise&lt;t8/&gt; &lt;t9/&gt;required&lt;t10/&gt; &lt;t11/&gt;to&lt;t12/&gt; &lt;t13/&gt;provide&lt;t14/&gt; &lt;t15/&gt;the&lt;t16/&gt; &lt;t17/&gt;services;&lt;t18/&gt; &lt;t19/&gt;or</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="alumno" changedate="20240524T162629Z" creationid="usuario" creationdate="20240521T135618Z">
-        <seg>(a) no posea la pericia necesaria para prestar los servicios; o&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T185415Z" creationid="usuario" creationdate="20240521T135618Z">
+        <seg>no posea la pericia necesaria para prestar los servicios; o&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>during the &lt;t0/&gt;performance of the contract&lt;t1/&gt;.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115545Z" creationid="lopez" creationdate="20240430T134636Z">
-        <seg>(c) a los terceros que intervengan en la ejecución del contrato, incluidos los subcontratistas.&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T185348Z" creationid="lopez" creationdate="20240430T134636Z">
+        <seg>a los terceros que intervengan en la ejecución del contrato, incluidos los subcontratistas.&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2452,8 +2452,8 @@ garantizar que, durante la comunicación de datos personales y el transporte de 
       <tuv lang="en">
         <seg>has&lt;t0/&gt; &lt;t1/&gt;caused&lt;t2/&gt; &lt;t3/&gt;disruption&lt;t4/&gt; &lt;t5/&gt;on&lt;t6/&gt; &lt;t7/&gt;the&lt;t8/&gt; &lt;t9/&gt;premises&lt;t10/&gt; &lt;t11/&gt;of&lt;t12/&gt; &lt;t13/&gt;the contracting&lt;t14/&gt; &lt;t15/&gt;authority.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115418Z" creationid="usuario" creationdate="20240521T135619Z">
-        <seg>(b) haya causado perturbaciones en los locales del poder adjudicador.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T185429Z" creationid="usuario" creationdate="20240521T135619Z">
+        <seg>haya causado perturbaciones en los locales del poder adjudicador.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2639,8 +2639,8 @@ se han producido realmente&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt
       <tuv lang="en">
         <seg>of&lt;t0/&gt; &lt;t1/&gt;its&lt;t2/&gt; &lt;t3/&gt;final&lt;t4/&gt; &lt;t5/&gt;decision&lt;t6/&gt; &lt;t7/&gt;to&lt;t8/&gt; &lt;t9/&gt;reduce&lt;t10/&gt; &lt;t11/&gt;payment&lt;t12/&gt; &lt;t13/&gt;and&lt;t14/&gt; &lt;t15/&gt;the&lt;t16/&gt; &lt;t17/&gt;corresponding&lt;t18/&gt; &lt;t19/&gt;amount.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115355Z" creationid="usuario" creationdate="20240430T135147Z">
-        <seg>(b) de su decisión final de reducir el pago y del importe correspondiente.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T185409Z" creationid="usuario" creationdate="20240430T135147Z">
+        <seg>de su decisión final de reducir el pago y del importe correspondiente.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2655,8 +2655,8 @@ se han producido realmente&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt
       <tuv lang="en">
         <seg>of&lt;t0/&gt; &lt;t1/&gt;the&lt;t2/&gt; &lt;t3/&gt;withdrawal&lt;t4/&gt; &lt;t5/&gt;of&lt;t6/&gt; &lt;t7/&gt;its&lt;t8/&gt; &lt;t9/&gt;intention&lt;t10/&gt; &lt;t11/&gt;to reduce&lt;t12/&gt; &lt;t13/&gt;payment;&lt;t14/&gt; &lt;t15/&gt;or</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115354Z" creationid="usuario" creationdate="20240430T135119Z">
-        <seg>a) de la retirada de su intención de reducir el pago; o&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T185352Z" creationid="usuario" creationdate="20240430T135119Z">
+        <seg>de la retirada de su intención de reducir el pago; o&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;</seg>
       </tuv>
     </tu>
     <tu>
