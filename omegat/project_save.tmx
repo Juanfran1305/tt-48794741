@@ -2257,8 +2257,8 @@ resultados;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt
       <tuv lang="en">
         <seg>any&lt;t0/&gt; &lt;t1/&gt;natural&lt;t2/&gt; &lt;t3/&gt;person with&lt;t4/&gt; &lt;t5/&gt;the&lt;t6/&gt; &lt;t7/&gt;power&lt;t8/&gt; &lt;t9/&gt;to represent&lt;t10/&gt; &lt;t11/&gt;it or&lt;t12/&gt; &lt;t13/&gt;take&lt;t14/&gt; &lt;t15/&gt;decisions&lt;t16/&gt; &lt;t17/&gt;on its&lt;t18/&gt; &lt;t19/&gt;behalf;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115553Z" creationid="lopez" creationdate="20240430T134651Z">
-        <seg>(b) cualquier persona física con poder para representarlo o tomar decisiones en su nombre;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T185203Z" creationid="lopez" creationdate="20240430T134651Z">
+        <seg>cualquier persona física con poder para representarlo o tomar decisiones en su nombre;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2369,8 +2369,8 @@ resultados;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt
       <tuv lang="en">
         <seg>design its &lt;t0/&gt;organisational&lt;t1/&gt; structure in such a way that it meets data protection&lt;t2/&gt; &lt;t3/&gt;requirements.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115629Z" creationid="juanf" creationdate="20240522T173305Z">
-        <seg>(f) diseñar su estructura organizativa de forma que cumpla los requisitos de protección de datos.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T185150Z" creationid="juanf" creationdate="20240522T173305Z">
+        <seg>diseñar su estructura organizativa de forma que cumpla los requisitos de protección de datos.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2418,17 +2418,17 @@ resultados;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt
       <tuv lang="en">
         <seg>ensure that &lt;t0/&gt;authorised&lt;t1/&gt; users of a data processing system can access only the personal&lt;t2/&gt; &lt;t3/&gt;data&lt;t4/&gt; &lt;t5/&gt;to which their&lt;t6/&gt; &lt;t7/&gt;access right &lt;t8/&gt;refers;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115624Z" creationid="juanf" creationdate="20240522T173256Z">
-        <seg>(b) garantizar que los usuarios autorizados de un sistema de tratamiento de datos sólo puedan acceder a los datos personales a los que se refiera su derecho de acceso&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T185044Z" creationid="juanf" creationdate="20240522T173256Z">
+        <seg>garantizar que los usuarios autorizados de un sistema de tratamiento de datos sólo puedan acceder a los datos personales a los que se refiera su derecho de acceso&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>ensure that, during communication of personal data and transport of storage media,&lt;t0/&gt; &lt;t1/&gt;the&lt;t2/&gt; &lt;t3/&gt;data&lt;t4/&gt; &lt;t5/&gt;cannot be&lt;t6/&gt; &lt;t7/&gt;read, copied or&lt;t8/&gt; &lt;t9/&gt;erased without &lt;t10/&gt;authorisation&lt;t11/&gt;;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115628Z" creationid="juanf" creationdate="20240522T173302Z">
-        <seg>(d) garantizar que los datos personales tratados por cuenta de terceros sólo puedan serlo en la forma prescrita por el poder adjudicador;
-(e) garantizar que, durante la comunicación de datos personales y el transporte de soportes de almacenamiento, los datos no puedan leerse, copiarse o borrarse sin autorización;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T185112Z" creationid="juanf" creationdate="20240522T173302Z">
+        <seg>garantizar que los datos personales tratados por cuenta de terceros sólo puedan serlo en la forma prescrita por el poder adjudicador;
+garantizar que, durante la comunicación de datos personales y el transporte de soportes de almacenamiento, los datos no puedan leerse, copiarse o borrarse sin autorización;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2443,9 +2443,9 @@ resultados;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt
       <tuv lang="en">
         <seg>ensure&lt;t0/&gt; &lt;t1/&gt;that&lt;t2/&gt; &lt;t3/&gt;personal&lt;t4/&gt; &lt;t5/&gt;data being&lt;t6/&gt; &lt;t7/&gt;processed&lt;t8/&gt; &lt;t9/&gt;on&lt;t10/&gt; &lt;t11/&gt;behalf&lt;t12/&gt; &lt;t13/&gt;of&lt;t14/&gt; &lt;t15/&gt;third&lt;t16/&gt; &lt;t17/&gt;parties&lt;t18/&gt; &lt;t19/&gt;can&lt;t20/&gt; &lt;t21/&gt;be&lt;t22/&gt; &lt;t23/&gt;processed&lt;t24/&gt; &lt;t25/&gt;only&lt;t26/&gt; &lt;t27/&gt;in the&lt;t28/&gt; &lt;t29/&gt;manner&lt;t30/&gt; &lt;t31/&gt;prescribed by&lt;t32/&gt; &lt;t33/&gt;the&lt;t34/&gt; &lt;t35/&gt;contracting &lt;t36/&gt;authority;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115626Z" creationid="juanf" creationdate="20240522T173259Z">
-        <seg>(d) garantizar que los datos personales tratados por cuenta de terceros sólo puedan serlo en la forma prescrita por el poder adjudicador;
-(e) garantizar que, durante la comunicación de datos personales y el transporte de soportes de almacenamiento, los datos no puedan leerse, copiarse o borrarse sin autorización;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt;&lt;t25/&gt;&lt;t26/&gt;&lt;t27/&gt;&lt;t28/&gt;&lt;t29/&gt;&lt;t30/&gt;&lt;t31/&gt;&lt;t32/&gt;&lt;t33/&gt;&lt;t34/&gt;&lt;t35/&gt;&lt;t36/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T185103Z" creationid="juanf" creationdate="20240522T173259Z">
+        <seg>garantizar que los datos personales tratados por cuenta de terceros sólo puedan serlo en la forma prescrita por el poder adjudicador;
+garantizar que, durante la comunicación de datos personales y el transporte de soportes de almacenamiento, los datos no puedan leerse, copiarse o borrarse sin autorización;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt;&lt;t25/&gt;&lt;t26/&gt;&lt;t27/&gt;&lt;t28/&gt;&lt;t29/&gt;&lt;t30/&gt;&lt;t31/&gt;&lt;t32/&gt;&lt;t33/&gt;&lt;t34/&gt;&lt;t35/&gt;&lt;t36/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2583,8 +2583,8 @@ se han producido realmente&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt
       <tuv lang="en">
         <seg>its&lt;t0/&gt; &lt;t1/&gt;personnel&lt;t2/&gt;;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115552Z" creationid="lopez" creationdate="20240430T134642Z">
-        <seg>(a) su personal;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T185156Z" creationid="lopez" creationdate="20240430T134642Z">
+        <seg>su personal;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2695,8 +2695,8 @@ se han producido realmente&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt
       <tuv lang="en">
         <seg>prevent any &lt;t0/&gt;unauthorised&lt;t1/&gt; person from gaining access to computer systems&lt;t2/&gt; &lt;t3/&gt;processing&lt;t4/&gt; &lt;t5/&gt;personal data,&lt;t6/&gt; &lt;t7/&gt;and especially:</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115619Z" creationid="juanf" creationdate="20240522T173236Z">
-        <seg>(a) impedir que cualquier persona no autorizada pueda acceder a los sistemas informáticos que traten datos de carácter personal, y especialmente:&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T185017Z" creationid="juanf" creationdate="20240522T173236Z">
+        <seg>impedir que cualquier persona no autorizada pueda acceder a los sistemas informáticos que traten datos de carácter personal, y especialmente:&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2711,8 +2711,8 @@ se han producido realmente&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt
       <tuv lang="en">
         <seg>record which&lt;t0/&gt; &lt;t1/&gt;personal&lt;t2/&gt; &lt;t3/&gt;data&lt;t4/&gt; &lt;t5/&gt;have&lt;t6/&gt; &lt;t7/&gt;been&lt;t8/&gt; &lt;t9/&gt;communicated,&lt;t10/&gt; &lt;t11/&gt;when&lt;t12/&gt; &lt;t13/&gt;and&lt;t14/&gt; &lt;t15/&gt;to&lt;t16/&gt; &lt;t17/&gt;whom;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115625Z" creationid="juanf" creationdate="20240522T173258Z">
-        <seg>(c) registrar qué datos personales se han comunicado, cuándo y a quién;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T185052Z" creationid="juanf" creationdate="20240522T173258Z">
+        <seg>registrar qué datos personales se han comunicado, cuándo y a quién;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2744,8 +2744,8 @@ se han producido realmente&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt
       <tuv lang="en">
         <seg>require&lt;t0/&gt; &lt;t1/&gt;the contractor&lt;t2/&gt; &lt;t3/&gt;to&lt;t4/&gt; &lt;t5/&gt;take&lt;t6/&gt; &lt;t7/&gt;further&lt;t8/&gt; &lt;t9/&gt;action&lt;t10/&gt; &lt;t11/&gt;within&lt;t12/&gt; &lt;t13/&gt;a&lt;t14/&gt; &lt;t15/&gt;specified&lt;t16/&gt; &lt;t17/&gt;deadline.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115550Z" creationid="lopez" creationdate="20240430T134640Z">
-        <seg>(b) exigir al contratista que adopte nuevas medidas en un plazo determinado.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T185235Z" creationid="lopez" creationdate="20240430T134640Z">
+        <seg>exigir al contratista que adopte nuevas medidas en un plazo determinado.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2889,8 +2889,8 @@ Distribución: derecho exclusivo de autorizar o prohibir cualquier forma de dist
       <tuv lang="en">
         <seg>third&lt;t0/&gt; &lt;t1/&gt;parties&lt;t2/&gt; &lt;t3/&gt;involved&lt;t4/&gt; &lt;t5/&gt;in&lt;t6/&gt; &lt;t7/&gt;the&lt;t8/&gt; &lt;t9/&gt;performance&lt;t10/&gt; &lt;t11/&gt;of&lt;t12/&gt; &lt;t13/&gt;the contract&lt;t14/&gt;,&lt;t15/&gt; &lt;t16/&gt;including&lt;t17/&gt; &lt;t18/&gt;subcontractors.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115554Z" creationid="lopez" creationdate="20240430T134652Z">
-        <seg>(c) a los terceros que intervengan en la ejecución del contrato, incluidos los subcontratistas.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T185219Z" creationid="lopez" creationdate="20240430T134652Z">
+        <seg>a los terceros que intervengan en la ejecución del contrato, incluidos los subcontratistas.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2913,32 +2913,32 @@ Distribución: derecho exclusivo de autorizar o prohibir cualquier forma de dist
       <tuv lang="en">
         <seg>unauthorised&lt;t0/&gt; &lt;t1/&gt;reading,&lt;t2/&gt; &lt;t3/&gt;copying,&lt;t4/&gt; &lt;t5/&gt;alteration&lt;t6/&gt; &lt;t7/&gt;or&lt;t8/&gt; &lt;t9/&gt;removal&lt;t10/&gt; &lt;t11/&gt;of&lt;t12/&gt; &lt;t13/&gt;storage&lt;t14/&gt; &lt;t15/&gt;media;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115621Z" creationid="juanf" creationdate="20240522T173249Z">
-        <seg>(i) la lectura, copia, alteración o extracción no autorizada de soportes de almacenamiento;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T185024Z" creationid="juanf" creationdate="20240522T173249Z">
+        <seg>la lectura, copia, alteración o extracción no autorizada de soportes de almacenamiento;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>unauthorised&lt;t0/&gt; data inputting, as well as any &lt;t1/&gt;unauthorised&lt;t2/&gt; disclosure, alteration&lt;t3/&gt; &lt;t4/&gt;or&lt;t5/&gt; &lt;t6/&gt;erasure&lt;t7/&gt; &lt;t8/&gt;of&lt;t9/&gt; &lt;t10/&gt;stored personal &lt;t11/&gt;data;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115622Z" creationid="juanf" creationdate="20240522T173251Z">
-        <seg>(ii) la introducción no autorizada de datos, así como cualquier divulgación, alteración o supresión no autorizada de datos personales almacenados;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T185029Z" creationid="juanf" creationdate="20240522T173251Z">
+        <seg>la introducción no autorizada de datos, así como cualquier divulgación, alteración o supresión no autorizada de datos personales almacenados;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>unauthorised&lt;t0/&gt; use of data processing systems by means of data transmission&lt;t1/&gt; &lt;t2/&gt;facilities;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115623Z" creationid="juanf" creationdate="20240522T173254Z">
-        <seg>(iii) la utilización no autorizada de sistemas de tratamiento de datos mediante instalaciones de transmisión de datos;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T185034Z" creationid="juanf" creationdate="20240522T173254Z">
+        <seg>la utilización no autorizada de sistemas de tratamiento de datos mediante instalaciones de transmisión de datos;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>verify&lt;t0/&gt; &lt;t1/&gt;that&lt;t2/&gt; &lt;t3/&gt;the&lt;t4/&gt; &lt;t5/&gt;contractor's&lt;t6/&gt; &lt;t7/&gt;action&lt;t8/&gt; &lt;t9/&gt;is&lt;t10/&gt; &lt;t11/&gt;appropriate;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115549Z" creationid="lopez" creationdate="20240430T134640Z">
-        <seg>(a) verificar que la acción del contratista es apropiada;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;</seg>
+      <tuv lang="es-ES" changeid="Deyanira" changedate="20240524T185224Z" creationid="lopez" creationdate="20240430T134640Z">
+        <seg>verificar que la acción del contratista es apropiada;&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;</seg>
       </tuv>
     </tu>
     <tu>
