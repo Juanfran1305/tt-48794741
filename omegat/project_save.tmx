@@ -16,8 +16,8 @@
       <tuv lang="en">
         <seg>'Confidential information or document'&lt;t0/&gt;: any information or document received by either&lt;t1/&gt; &lt;t2/&gt;party from the other or accessed by either party in the context of the &lt;t3/&gt;performance of the&lt;t4/&gt; &lt;t5/&gt;contract, &lt;t6/&gt;that any of the parties has identified in writing as confidential.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240524T085127Z" creationid="juanf" creationdate="20240522T174021Z">
-        <seg>Información o documento confidencial&lt;t0/&gt;: cualquier información o documento recibido por cualquiera de las partes de la otra parte o al que cualquiera de las partes tenga acceso en el contexto de la ejecución del contrato, que cualquiera de las partes haya identificado por escrito como confidencial. No puede incluir información que esté a disposición del público;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;</seg>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240524T121916Z" creationid="juanf" creationdate="20240522T174021Z">
+        <seg>Información o documento confidencial&lt;t0/&gt;: cualquier información o documento recibido por cualquiera de las partes de la otra parte o al que cualquiera de las partes tenga acceso en el contexto de la ejecución del contrato, que cualquiera de las partes haya identificado por escrito como confidencial. &lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -72,8 +72,8 @@
       <tuv lang="en">
         <seg>'Interface Control Document'&lt;t0/&gt;: the guideline document which lays down the technical&lt;t1/&gt; &lt;t2/&gt;specifications, message standards, security standards, checks of syntax and semantics, etc. to&lt;t3/&gt; &lt;t4/&gt;facilitate&lt;t5/&gt; &lt;t6/&gt;machine-to-machine&lt;t7/&gt; &lt;t8/&gt;connection.&lt;t9/&gt; &lt;t10/&gt;This&lt;t11/&gt; &lt;t12/&gt;document&lt;t13/&gt; &lt;t14/&gt;is&lt;t15/&gt; &lt;t16/&gt;updated on&lt;t17/&gt; &lt;t18/&gt;a regular&lt;t19/&gt; &lt;t20/&gt;basis;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240524T085257Z" creationid="juanf" creationdate="20240522T174520Z">
-        <seg>Documento de control de las interfaces&lt;t0/&gt;: el documento de orientación que establece las especificaciones técnicas, las normas relativas a los mensajes, las normas de seguridad, las comprobaciones de sintaxis y semántica, etc. para facilitar la conexión entre máquinas. Este documento se actualiza de forma regular;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;</seg>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240524T122320Z" creationid="juanf" creationdate="20240522T174520Z">
+        <seg>Documento de control de las interfaces&lt;t0/&gt;: el documento de orientación que establece las especificaciones técnicas, el documento de orientación que establece las especificaciones técnicas, las normas relativas a los mensajes, las normas de seguridad, las comprobaciones de sintaxis y semántica, etc. para facilitar la conexión entre máquinas. Este documento se actualiza de forma regular;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -881,8 +881,8 @@ personal que:&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&
       <tuv lang="en">
         <seg>If there is any conflict between different provisions in the contract, the following&lt;t2/&gt; &lt;t3/&gt;rules&lt;t4/&gt; &lt;t5/&gt;must be&lt;t6/&gt; &lt;t7/&gt;applied:</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115019Z" creationid="juanf" creationdate="20240522T173816Z">
-        <seg>En caso de conflicto entre distintas disposiciones del contrato, deberán aplicarse las siguientes normas:&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240524T121850Z" creationid="juanf" creationdate="20240522T173816Z">
+        <seg>En caso de conflicto entre distintas disposiciones del contrato, se aplicarán las siguientes normas:&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -985,16 +985,16 @@ personal que:&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&
       <tuv lang="en">
         <seg>In&lt;t0/&gt; &lt;t1/&gt;the&lt;t2/&gt; &lt;t3/&gt;event&lt;t4/&gt; &lt;t5/&gt;of&lt;t6/&gt; &lt;t7/&gt;a&lt;t8/&gt; &lt;t9/&gt;joint&lt;t10/&gt; &lt;t11/&gt;tender&lt;t12/&gt; &lt;t13/&gt;submitted&lt;t14/&gt; &lt;t15/&gt;by&lt;t16/&gt; &lt;t17/&gt;a&lt;t18/&gt; &lt;t19/&gt;group&lt;t20/&gt; &lt;t21/&gt;of&lt;t22/&gt; &lt;t23/&gt;economic&lt;t24/&gt; &lt;t25/&gt;operators&lt;t26/&gt; &lt;t27/&gt;and&lt;t28/&gt; &lt;t29/&gt;where&lt;t30/&gt; &lt;t31/&gt;the&lt;t32/&gt; &lt;t33/&gt;group does not have legal personality or legal capacity, one member of the group is appointed&lt;t34/&gt; &lt;t35/&gt;as&lt;t36/&gt; &lt;t37/&gt;leader&lt;t38/&gt; &lt;t39/&gt;of&lt;t40/&gt; &lt;t41/&gt;the&lt;t42/&gt; &lt;t43/&gt;group.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240524T084847Z" creationid="alumno" creationdate="20240514T141640Z">
-        <seg>En caso de oferta conjunta presentada por un grupo de operadores económicos y cuando la agrupación no tenga personalidad jurídica o capacidad jurídica, se designa a un miembro de la agrupación como líder de la misma.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt;&lt;t25/&gt;&lt;t26/&gt;&lt;t27/&gt;&lt;t28/&gt;&lt;t29/&gt;&lt;t30/&gt;&lt;t31/&gt;&lt;t32/&gt;&lt;t33/&gt;&lt;t34/&gt;&lt;t35/&gt;&lt;t36/&gt;&lt;t37/&gt;&lt;t38/&gt;&lt;t39/&gt;&lt;t40/&gt;&lt;t41/&gt;&lt;t42/&gt;&lt;t43/&gt;</seg>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240524T122353Z" creationid="alumno" creationdate="20240514T141640Z">
+        <seg>En caso de oferta conjunta presentada por un grupo de operadores económicos y cuando la agrupación no tenga personalidad jurídica o capacidad jurídica, se designará a un miembro de la agrupación como líder de la misma.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;&lt;t13/&gt;&lt;t14/&gt;&lt;t15/&gt;&lt;t16/&gt;&lt;t17/&gt;&lt;t18/&gt;&lt;t19/&gt;&lt;t20/&gt;&lt;t21/&gt;&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt;&lt;t25/&gt;&lt;t26/&gt;&lt;t27/&gt;&lt;t28/&gt;&lt;t29/&gt;&lt;t30/&gt;&lt;t31/&gt;&lt;t32/&gt;&lt;t33/&gt;&lt;t34/&gt;&lt;t35/&gt;&lt;t36/&gt;&lt;t37/&gt;&lt;t38/&gt;&lt;t39/&gt;&lt;t40/&gt;&lt;t41/&gt;&lt;t42/&gt;&lt;t43/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>It cannot include&lt;t7/&gt; &lt;t8/&gt;information&lt;t9/&gt; &lt;t10/&gt;that is publicly&lt;t11/&gt; &lt;t12/&gt;available;</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115133Z" creationid="juanf" creationdate="20240522T174105Z">
-        <seg>.&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;</seg>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240524T121931Z" creationid="juanf" creationdate="20240522T174105Z">
+        <seg>No puede incluir información que esté a disposición del público;&lt;t7/&gt;&lt;t8/&gt;&lt;t9/&gt;&lt;t10/&gt;&lt;t11/&gt;&lt;t12/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1293,8 +1293,8 @@ El documento puede consultarse en https://circabc.europa.eu/w/browse/5290b7b0- 8
       <tuv lang="en">
         <seg>Technical&lt;t20/&gt; &lt;t21/&gt;specifications (i.e. the &lt;t22/&gt;interface control document&lt;t23/&gt;), details on access and user manuals are&lt;t24/&gt; &lt;t25/&gt;available&lt;t26/&gt; &lt;t27/&gt;on the&lt;t28/&gt; &lt;t29/&gt;following</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115138Z" creationid="juanf" creationdate="20240522T174342Z">
-        <seg>Las especificaciones técnicas (es decir, el documento de control de la interfaz), los detalles sobre el acceso y los manuales de usuario están disponibles en el siguiente&lt;t20/&gt;&lt;t21/&gt;&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt;&lt;t25/&gt;&lt;t26/&gt;&lt;t27/&gt;&lt;t28/&gt;&lt;t29/&gt;</seg>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240524T122151Z" creationid="juanf" creationdate="20240522T174342Z">
+        <seg>Las especificaciones técnicas (es decir, el documento de control de la interfaz), los detalles sobre el acceso y los manuales de usuario están disponibles en el siguiente sitio web:&lt;t20/&gt;&lt;t21/&gt;&lt;t22/&gt;&lt;t23/&gt;&lt;t24/&gt;&lt;t25/&gt;&lt;t26/&gt;&lt;t27/&gt;&lt;t28/&gt;&lt;t29/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1333,8 +1333,8 @@ El documento puede consultarse en https://circabc.europa.eu/w/browse/5290b7b0- 8
       <tuv lang="en">
         <seg>The contract consists of a purchase order and these general conditions, including the Annex on&lt;t0/&gt; &lt;t1/&gt;security measures.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115017Z" creationid="juanf" creationdate="20240522T173809Z">
-        <seg>El contrato consta de una orden de compra y de las presentes condiciones generales, incluido el anexo sobre medidas de seguridad. &lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240524T121658Z" creationid="juanf" creationdate="20240522T173809Z">
+        <seg>El contrato consta de una orden de compra y de las presentes condiciones generales, incluyendo el anexo sobre medidas de seguridad. &lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1413,8 +1413,8 @@ El documento puede consultarse en https://circabc.europa.eu/w/browse/5290b7b0- 8
       <tuv lang="en">
         <seg>The contracting authority must be &lt;t0/&gt;notified &lt;t1/&gt;of the exact date of delivery within the period&lt;t2/&gt; &lt;t3/&gt;indicated in the purchase order.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115204Z" creationid="alumno" creationdate="20240514T142137Z">
-        <seg>Deberá notificarse a la Autoridad contratante la fecha exacta de entrega dentro del plazo indicado en la orden de compra.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240524T122432Z" creationid="alumno" creationdate="20240514T142137Z">
+        <seg>Debe notificarse a la Autoridad Contratante la fecha exacta de entrega dentro del plazo indicado en la orden de compra. &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1582,8 +1582,8 @@ durante la ejecución del contrato.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&
       <tuv lang="en">
         <seg>The contractor must bear all costs and risks involved in delivering the supplies to the place&lt;t0/&gt; &lt;t1/&gt;of&lt;t2/&gt; &lt;t3/&gt;delivery.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115206Z" creationid="alumno" creationdate="20240514T142151Z">
-        <seg>El contratista deberá correr con todos los gastos y riesgos derivados de la entrega de los suministros en el lugar de entrega.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240524T122500Z" creationid="alumno" creationdate="20240514T142151Z">
+        <seg>El contratista deberá asumir todos los gastos y riesgos derivados de la entrega de los suministros en el lugar de entrega.&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2945,8 +2945,8 @@ Distribución: derecho exclusivo de autorizar o prohibir cualquier forma de dist
       <tuv lang="en">
         <seg>website: &lt;t0/&gt;http://ec.europa.eu/dgs/informatics/supplier_portal/documentation/documentation_&lt;t1/&gt; &lt;t2/&gt;en.htm</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="juanf" changedate="20240523T115139Z" creationid="juanf" creationdate="20240522T174351Z">
-        <seg>sitio web: http://ec.europa.eu/dgs/informatics/supplier_portal/documentation/documentation_ en.htm&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
+      <tuv lang="es-ES" changeid="juanf" changedate="20240524T122207Z" creationid="juanf" creationdate="20240522T174351Z">
+        <seg>http://ec.europa.eu/dgs/informatics/supplier_portal/documentation/documentation_en.html&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
